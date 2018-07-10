@@ -9,7 +9,11 @@ df.columns = ['Dish', 'Category']
 
 category_list = []
 
+typos = ['f', 'd', 'r', 'e', 'i', 'h']
 for index, row in df.iterrows():
+	if row['Category'] in typos:
+		print index
+
 	if row['Category'] not in category_list:
 		category_list.append(row['Category'])
 
