@@ -35,7 +35,7 @@ PERi-PERi Chips,Fries
 Corn on the Cob,Vegetables
 Chargrilled Veg,Vegetables
 Garlic Bread,Appetizer
-PERi-PERi Wedges,Potata Wedges
+PERi-PERi Wedges,Potato Wedges
 Coffee Cake,Dessert
 Chocolate Cake,Dessert
 Green Tea,Tea
@@ -185,7 +185,7 @@ Cordon Bleu Burger,Chicken Burger
 Parmesan Chicken Burger ,Chicken Burger
 Western Double Beef Burger,Beef Burger
 Arizona Combo,Chicken
-Chicken Shrimps,Shrimps
+Chicken Shrimps,Shrimp
 French Onion Combo,Steak
 Italian Combo,Steak
 Mushroom Combo,Steak
@@ -249,16 +249,16 @@ Beef Mushroom Steak,Beef Steak
 Beef Peppercorn Steak,Beef Steak
 Beef Tarragon Steak,Beef Steak
 Beef Twin Steak,Beef Steak
-Battered Fried Shrimps,Shrimps
+Battered Fried Shrimps,Shrimp
 Cilantro Chili Fish,Fish
 Crispy Fish Normande,Fish
 Crumb Fried Fish,Fish
 Fish Platter,Fish
 Fish Valencia ,Fish
-Fried Shrimp,Shrimps
+Fried Shrimp,Shrimp
 Grilled Tandoori Fish,Fish
 Seafood Platter,Seafood
-Shrimp Trio,Shrimps
+Shrimp Trio,Shrimp
 Beef Chimichanga,Beef
 Beef Fajita,Beef
 Chicken Chimichanga,Chicken
@@ -283,7 +283,7 @@ Lemonade,Lemonade
 Mango Peach Joy,Drink
 Margaritas,Margarita
 Melon Kiwi Surprise,Drink
-Milk Shakes,Milk Shake
+Milk Shakes,Milkshake
 Mint Lemonade Frozen,Lemonade
 Mojitos,Drink
 Peachy Keen,Drink
@@ -408,11 +408,11 @@ Grilled Cheese,Sandwich
 Grilled Jalapeno Burger ,Burger
 Cold Chicken Sandwich,Sandwich
 Chicken Cheese Sandwich,Sandwich
-Hot Sauce Shrimps,Shrimps
+Hot Sauce Shrimps,Shrimp
 Special Lahori Rahu Fish,Fish
 Fish in Garlic Sauce,Fish
-Garlic Shrimps,Shrimps
-Hot & Sour Shrimps,Shrimps
+Garlic Shrimps,Shrimp
+Hot & Sour Shrimps,Shrimp
 Fried Finger Fish,Fish
 Battered Fried Prawns,Prawns
 Grilled Fish with Butter and Lime Sauce,Fish
@@ -922,13 +922,13 @@ Fresh Seasonal  Juice,Fresh Juice
 Shaibi Special Shake,Shake
 Peach Shake,Shake
 Fruit Shake,Shake
-Shaibi Royal Kulfa Milkshake,Milk Shake
-Chocolate Milkshake,Milk Shake
-Chocolate Chip Milkshake,Milk Shake
-Chocolate Crunch Milkshake ,Milk Shake
-Tutti Fruiti Milkshake,Milk Shake
-Vanilla Crunch Milkshake,Milk Shake
-Khajoor Milkshake,Milk Shake
+Shaibi Royal Kulfa Milkshake,Milkshake
+Chocolate Milkshake,Milkshake
+Chocolate Chip Milkshake,Milkshake
+Chocolate Crunch Milkshake ,Milkshake
+Tutti Fruiti Milkshake,Milkshake
+Vanilla Crunch Milkshake,Milkshake
+Khajoor Milkshake,Milkshake
 Fruit Ice Cream Shakes,Ice cream Shake
 Vanilla Ice Cream Shake,Ice cream Shake
 Cadbury Ice Cream Shake,Ice cream Shake
@@ -1418,18 +1418,18 @@ Arabic Chicken Shawarma,Shawarma
 Kasoori Falooda,Dessert
 Chicken Yahkni Pulao,Rice
 Chicken Sindhi Biryani,Rice
-Achari Daal Mash,Vegetable Cury
+Achari Daal Mash,Vegetable Curry
 Chicken Boneless Angara Handi,Chicken Curry
 Chicken Harra Bharra,Chicken Curry
 Chicken Karahi,Chicken Curry
 Chicken Namkeen Karahi,Chicken Curry
 Lahori Chicken Roast,Chicken
-Mix Daal,Vegetable Cury
+Mix Daal,Vegetable Curry
 Daal Ghotala in Desi Ghee,Vegetable Curry
 Daal Chawal,Rice
 Boneless Tawa Chicken,Chicken
 Special Badami Kheer,Dessert
-Prawn Crackers,Appe
+Prawn Crackers,Appetizer
 Dumplings,Appetizer
 Chicken DrumSticks,Chicken
 Hunan Style Fried Chicken Wontons,Chicken
@@ -1437,7 +1437,7 @@ Finger Chicken,Chicken
 Fried Calamari,Calamari
 Finger Fish,Fish
 Sesame Fried Chicken,Chicken
-Dynamite Shrimps,Shrimps
+Dynamite Shrimps,Shrimp
 Butterfly Prawns,Prawns
 Wasabi Prawns,Prawns
 Chicken Spring Rolls,Chicken
@@ -1566,7 +1566,7 @@ Rajasthani Mutton Handi,Handi
 Mutton Handi,Handi
 Handi Ghost,Handi
 Chicken Panner Malai,Chicken Boti
-Palak Panner,Vegetable
+Palak Panner,Vegetables
 Fish Handi,Handi
 Daal Mahkni,Vegetable Curry
 Mix Vegetable,Vegetables
@@ -1586,7 +1586,7 @@ Chicken Shashlik eith Rice,Chicken
 Chicken Chili Dry,Chicken
 Beef Chili Dry,Beef
 Chicken Karahi,Karahi
-Mutton Karhai,Karhai
+Mutton Karhai,Karahi
 Chicken Biryani,Biryani
 Vegetable Biryani,Biryani
 Chicken Hyderabadi Biryani,Biryani
@@ -1651,7 +1651,7 @@ Fish Crackers,Crackers
 Spicy Honey Wings,Chicken Wings
 Golden Fish Squares,Fish
 Crispy Golden Prawns,Prawns
-Fried Tail Prawn,Prawn
+Fried Tail Prawn,Prawns
 Shangai Crispy Chicken,Chicken
 Sesame Chicken,Chicken
 Special Soup,Soup
@@ -1700,9 +1700,9 @@ Vegetable Rice,Rice
 Fried Shrimp Balls,Shrimp
 Sweet and Sour Prawns,Prawns
 Garlic Prawns,Prawns
-Prawn with Chili and Vegetable,Prawn
+Prawn with Chili and Vegetable,Prawns
 Kung Pao Prawns,Prawns
-Prawn Chili Dry,Prawn
+Prawn Chili Dry,Prawns
 Fish Chili Dry,Fish
 Sweet and Sour Sliced Fish,Fish
 Kung Pao Fish,Fish
@@ -1735,7 +1735,7 @@ Sweet and Sour Chicken,Chicken
 Szechuan Chicken,Chicken
 Chicken Manchurian,Chicken
 Chicken Chili Dry,Chicken
-Chicken Red Curry,Chinese Curry
+Chicken Red Curry,Chinese Gravy
 Chicken Cashew Nuts,Chicken
 Black Pepper Chicken,Chicken
 Thai Three Leaves Chicken,Chicken
@@ -1747,12 +1747,12 @@ Beef in Oyster Sauce,Beef
 Beef with Basil,Beef
 Red Bowl Special Beef,Beef
 Fish in Oyster Sauce,Fish
-Prawns Szechuan,Prawn
+Prawns Szechuan,Prawns
 Fish Garlic Sauce,Fish
 Tamarind Fish,Fish
-Red Bowl Special Prawn,Prawn
+Red Bowl Special Prawn,Prawns
 Sweet and Sour Prawns,Prawns
-Thai Prawn Chili Dry,Prawn
+Thai Prawn Chili Dry,Prawns
 Sweet and Sour Fish,Fish
 Chicken Chowmein,Noodles
 Vegetable Chowmein,Noodles
@@ -1786,7 +1786,7 @@ Chicken Burger,Chicken Burger
 Chicken Wrap,Chicken Wrap
 Supremo Chicken Burger,Chicken Burger
 Chicken Piquant Burger,Chicken Burger
-Beef Burger,Burger
+Beef Burger,Beef Burger
 Margarita,Pizza
 Hawaiian,Pizza
 Chickalito's Hot,Pizza
@@ -2016,13 +2016,13 @@ White Mocha,Coffee
 White Americano,Coffee
 Iced Latte,Drink
 Iced Chocolate,Drink
-White Chocolate Latte Milkshake,Milk Shake
+White Chocolate Latte Milkshake,Milkshake
 Iced Mocha,Cold Coffee
 Iced Caramel Macchiato,Cold Coffee
 Latte,Coffee
 Espresso,Coffee
 Chamomile Citrus,Tea
-Mint Chocolate MilkShake,Milk Shake
+Mint Chocolate MilkShake,Milkshake
 Green Tea Passion,Tea
 Chocolate Orange Truffle,Tea
 Masala Chocolate Truffle,Tea
@@ -2030,7 +2030,7 @@ Chocolate Mint Truffle,Tea
 Bombay Chai,Tea
 Wild Blossom and Berries Herbal,Tea
 Organic Breakfast,Tea
-Oreo Cookie Milkshake,Milk Shake
+Oreo Cookie Milkshake,Milkshake
 Traditional Vanilla Milkshake,Milkshake
 Traditional Strawberry Milkshake,MilkShake
 Iced Tea,Tea
@@ -2064,12 +2064,12 @@ Natural Fries,Fries
 Onion Rings,Fries
 Loaded Fries,Fries
 Chocolate Chip Cookie,Dessert
-Hand Scooped Ice cream Milk Shakes,Ice cream Shake
+Hand Scooped Ice cream Milkshakes,Ice cream Shake
 Big Burger with Cheese,Beef Burger
 Starter Basket,Fries
 Basket of Fries,Fries
 Fiery Wing,Chicken Wings
-Tangy Wings,Wing
+Tangy Wings,Chicken Wings
 King For a Day,Chicken Burger
 The Czar,Chicken Burger
 Hub Crispy,Chicken Burger
@@ -2081,7 +2081,7 @@ The Texan,Chicken Burger
 The Texan ,Chicken Burger
 Mushroom Melt,Chicken Burger
 Cute Little Chick,Chicken Burger
-Chicken Rollatini,Chicken Burgers
+Chicken Rollatini,Chicken Burger
 Grilled Chicken Tortilla Wrap,Wrap
 The Emperor,Beef Burger
 Americano,Beef Burger
@@ -2206,7 +2206,7 @@ Cappuccino,Coffee
 Cafe Latte,Coffee
 Flavored Latte,Coffee
 Valentino Signature Latte,Coffee
-Valentino Signature Hot Chocolate,Drinks
+Valentino Signature Hot Chocolate,Drink
 Frappucino Grande,Coffee
 Valentino Signature Affogato,Coffee
 Espresso Shot,Coffee
@@ -2296,20 +2296,20 @@ White Mocha Coffee,Coffee
 Espresso Italiano,Coffee
 Espresso Machiato,Coffee
 Con Panna Coffee,Coffee
-Mint Margarita,Drinks
-Blue Colada,Drinks
-Pina Colada,Drinks
-Tropical Blue,Drinks
-Milk Shakes,Milk Shake
-Green Apple Slush,Drinks
+Mint Margarita,Drink
+Blue Colada,Drink
+Pina Colada,Drink
+Tropical Blue,Drink
+Milk Shakes,Milkshake
+Green Apple Slush,Drink
 Juices,Fresh Juice
-Firma Hot Chocolate ,Drinks
-Calamari Fritti,Appetizers
+Firma Hot Chocolate ,Drink
+Calamari Fritti,Appetizer
 Buffalo Chicken Wings Fried,Chicken Wings
 Fish & Chips,Fish
 Sole Fish,Fish
 Spicy Prawn,Prawns
-Mozzarella en Caroza,Appetizers
+Mozzarella en Caroza,Appetizer
 Special Pizza,Pizza
 Margerita Pizza,Pizza
 Quatro Stagioni,Pizza
@@ -2354,7 +2354,7 @@ Meaty Highway Calzone,Pizza
 Spicy Cheese Calzone,Pizza
 Polo Supreme Calzone,Pizza
 Shepherd's Favourite Calzone,Pizza
-Mint Margarita,Drinks
+Mint Margarita,Drink
 Caesar Salad,Salad
 Greek Salad,Salad
 Russian Salad,Salad
@@ -2506,10 +2506,10 @@ Alfredo Chicken Pizza,Pizza
 Milano Tango Pizza,Pizza
 Smoked Chicken Pizza,Pizza
 Chicken Shawarma,Shawarma
-Sesame Strips,Appetizers
-Quesadillas,Appetizers
+Sesame Strips,Appetizer
+Quesadillas,Appetizer
 Fish And Chips,Fish
-Dynamite Chicken,Appetizers
+Dynamite Chicken,Appetizer
 BBQ Wrap,Wrap
 Caesar Salad,Salad
 Mediterranean Salad,Salad
@@ -2578,7 +2578,7 @@ Strawberry Sensation Chiller,Chiller
 Mango Passion Chiller,Chiller
 Passion Fruit Chiller,Chiller
 Luxury Mocha Frappe,Frappe
-Vanilla Frape,Frape
+Vanilla Frappe,Frappe
 Cake Frappe,Frappe
 Ferrero Rocher Shake,Ice Cream Shake
 Cookies & Cream Shake,Ice Cream Shake
@@ -2661,21 +2661,21 @@ Kulfa Ice Cream,Ice Cream
 Mango Ice Cream,Ice Cream
 Vanilla Ice Cream,Ice Cream
 Chocolate Ice Cream,Ice Cream
-Big Man's Special MilkShake,Milk Shake
-Brownie Milk Shake,Milk Shake
-Cadbury Milk Shake,Milk Shake
-Oreo Milk Shake,Milk Shake
-Kit Kat Milk Shake,Milk Shake
-Pina Colada,Drinks
-Honey Almond Milk Shake,Milk Shake
-Fruit Punch Milk Shake,Milk Shake
-Peach Milk Shake,Milk Shake
-Mango Milk Shake,Milk Shake
-Banana Milk Shake,Milk Shake
-Khoya Khajoor Milk Shake,Milk Shake
-Narial Milk Shake,Milk Shake
-Chickoo Milkshake,Milk Shake
-Strawberry Milk Shake,Milk Shake
+Big Man's Special MilkShake,Milkshake
+Brownie Milk Shake,Milkshake
+Cadbury Milk Shake,Milkshake
+Oreo Milk Shake,Milkshake
+Kit Kat Milk Shake,Milkshake
+Pina Colada,Drink
+Honey Almond Milk Shake,Milkshake
+Fruit Punch Milk Shake,Milkshake
+Peach Milk Shake,Milkshake
+Mango Milk Shake,Milkshake
+Banana Milk Shake,Milkshake
+Khoya Khajoor Milk Shake,Milkshake
+Narial Milk Shake,Milkshake
+Chickoo Milkshake,Milkshake
+Strawberry Milkshake,Milkshake
 Margherita Pizza,Pizza
 Vegetarian Pizza,Pizza
 Chicken Tikka Pizza,Pizza
@@ -2719,8 +2719,8 @@ Regular Fries,Fries
 Curly Fries,Fries
 Fat Fries,Fries
 Hot Wings,Chicken Wings
-Mozzarella Sticks,Appetizers
-Thai Spring Rolls,Appetizers
+Mozzarella Sticks,Appetizer
+Thai Spring Rolls,Appetizer
 Regular Fries,Fries
 Sweet Potato Fries,Fries
 Cold Beef With Pickle Relish Sandwich,Sandwich
@@ -2755,10 +2755,10 @@ Chocolate Toblerone Cake,Dessert
 Caramel Crunch Cake,Dessert
 Toffee Crunch Cake,Dessert
 Chocolate Cadbury Cake,Dessert
-Mint Margerita,Drinks
-Lemonade,Drinks
-Apple Lemonade,Drinks
-Peach Ice Tea,Drinks
+Mint Margerita,Drink
+Lemonade,Drink
+Apple Lemonade,Drink
+Peach Ice Tea,Drink
 Rina's Classic Cold Coffee,Cold Coffee
 Cappuccino,Coffee
 Latte,Cold Coffee
@@ -2769,9 +2769,9 @@ Espresso,Coffee
 Americano,Coffee
 Tea,Tea
 Green Tea,Tea
-Hot Chocolate,Drinks
+Hot Chocolate,Drink
 Chicken Wings,Chicken Wings
-Chicken Tempura Sticks,Appetizers
+Chicken Tempura Sticks,Appetizer
 French Fries,Fries
 Fish & Chips,Fish
 Tortilla Wrap,Wrap
@@ -2781,11 +2781,11 @@ Moo Yeah,Chicken Burger
 Grilled Chicken Steak Burger,Chicken Burger
 The Big Fish Burger,Fish Burger
 Crispy Tempura Burger,Chicken Burger
-Chicken Spring Rolls,Appetizers
-Vegetable Spring Rolls,Appetizers
-Fish Crackers,Appetizers
-Prawn Tempura,Appetizers
-Honey Chicken,Appetizers
+Chicken Spring Rolls,Appetizer
+Vegetable Spring Rolls,Appetizer
+Fish Crackers,Appetizer
+Prawn Tempura,Appetizer
+Honey Chicken,Appetizer
 Honey Glazed Wings,Chicken Wings
 Spicy Honey Glazed Prawns,Prawns
 Spicy Honey Glazed Wings,Chicken Wings
@@ -3032,16 +3032,16 @@ Latte,Coffee
 Cappuccino,Coffee
 Mochaccino,Coffee
 Specialty Coffee,Coffee
-Hot Chocolate,Drinks
-Kick Start Special Blend,Drinks
+Hot Chocolate,Drink
+Kick Start Special Blend,Drink
 Frosted Mocha,Cold Coffee
-Pina Colada,Drinks
-Oreo Overdose,Drinks
+Pina Colada,Drink
+Oreo Overdose,Drink
 Fruits Blend,Fresh Juice
-Vanilla Blend,Drinks
-Chocolate blend,Drinks
-Lemon Chillatah,Drinks
-Mint Chillatah,Drinks
+Vanilla Blend,Drink
+Chocolate blend,Drink
+Lemon Chillatah,Drink
+Mint Chillatah,Drink
 Beet Torando,Detox Juice
 Chicken Drumsticks,Drum Sticks
 Paper Chicken,Chicken
@@ -3118,7 +3118,7 @@ Sole Szechuan Sauce,Fish
 King Prawns,Prawns
 Lobster in Mongolian Sauce,Lobster
 Thai Spicy Lobster,Lobster
-Stir Fried Eggplant,Chinese Curry
+Stir Fried Eggplant,Chinese Gravy
 Thai Vegetables in Red Curry Saunce,Thai Curry
 Stir Fried Vegetables,Vegetables
 Steamed Rice,Rice
@@ -3131,12 +3131,12 @@ Seafood Fried Garlic Rice,Rice
 Egg Fried Rice,Rice
 Cong Tong Seafood Rice,Rice
 Thai Szechuan Rice,Rice
-Shirley Temple,Drinks
-Pina Colada ,Drinks
-Mayan Delight,Drinks
-Peach Bellini,Drinks
-Mango Julius,Drinks
-X2 Margarita,Drinks
+Shirley Temple,Drink
+Pina Colada ,Drink
+Mayan Delight,Drink
+Peach Bellini,Drink
+Mango Julius,Drink
+X2 Margarita,Drink
 Fresh Juice,Fresh Juice
 Green Tea,Tea
 Black Tea,Tea
@@ -3200,7 +3200,7 @@ Vanilla Shake,Shake
 Lemon Mint,Drink
 Mix Berry,Drink
 Peach Orange,Drink
-Mocha Frap,Cold Coffee
+Mocha Frappe,Cold Coffee
 Smoothies,Smoothie
 Tea,Tea
 Carnival ,Drink
@@ -3298,11 +3298,11 @@ Outrages Banana Split,Dessert
 Ice Cream,Ice Cream
 Plain Rice,Rice
 Garlic Rice,Rice
-Potato Wedges,Potata Wedges
-Mash Potatoes Plain,Potata Wedges
+Potato Wedges,Potato Wedges
+Mash Potatoes Plain,Potato Wedges
 French Fries,Fries
-Potato Crouquets,Potata Wedges
-Mash Potato Cheesy,Potata Wedges
+Potato Crouquets,Potato Wedges
+Mash Potato Cheesy,Potato Wedges
 Cappuccino,Coffee
 Americano,Coffee
 Cafe Machiato,Coffee
@@ -3328,7 +3328,7 @@ Mochachino,Cold Coffee
 Smoothies,Smoothie
 Chiller,Chiller
 Fresh Juice,Fresh Juice
-Milk Shake,Milk Shake
+Milk Shake,Milkshake
 Rotisserie Chicken,Chicken Roast
 Churrasco Chicken,Chicken Roast
 Churrasco Wings,Chicken Wings
@@ -3757,7 +3757,7 @@ Chicken Ginger,Chicken Gravy
 Chicken Jalfarezi,Chicken Gravy
 Bombay Chicken,Chicken Gravy
 Daal Mash,Vegetable Curry
-Mix Bhujia,Vegetable Cury
+Mix Bhujia,Vegetable Curry
 Desi Murgh Karahi,Karahi
 Chicken Chapal kabab,Chicken Kabab
 Chicken Egg Chapal Kabab,Chicken Kabab
@@ -3916,17 +3916,17 @@ Vanilla Ice Cream Shake,Ice Cream Shake
 Chocolate Chip Ice Cream Shake,Ice Cream Shake
 Pistachio Ice Cream Shake,Ice Cream Shake
 Tutti Fruiti Ice Cream Shake,Ice Cream Shake
-Banana Shake,Milk Shake
-Strawberry Shake,Milk Shake
-Apple Shake,Milk Shake
-Pineapple Shake,Milk Shake
-Kaju Badaam Shake,Milk Shake
-Khoya Khajoor Shake,Milk Shake
-Dates And Almond Shake,Milk Shake
-Pink Lady Shake,Milk Shake
-Cravea Special Shake,Milk Shake
-Mango Shake,Milk Shake
-Peach Shake,Milk Shake
+Banana Shake,Milkshake
+Strawberry Shake,Milkshake
+Apple Shake,Milkshake
+Pineapple Shake,Milkshake
+Kaju Badaam Shake,Milkshake
+Khoya Khajoor Shake,Milkshake
+Dates And Almond Shake,Milkshake
+Pink Lady Shake,Milkshake
+Cravea Special Shake,Milkshake
+Mango Shake,Milkshake
+Peach Shake,Milkshake
 Pineapple Juice,Juice
 Grapes Juice,Juice
 Grape Fruit Juice,Juice
@@ -3967,9 +3967,9 @@ Pineapple Slush,Slush
 Lemon Slush,Slush
 Orange Slush,Slush
 Blueberry Slush,Slush
-Berry Colada,Drinks
-Pina Colada ,Drinks
-Coffee Colada,Drinks
+Berry Colada,Drink
+Pina Colada ,Drink
+Coffee Colada,Drink
 Mango Lassi,Lassi
 Strawberry Lassi,Lassi
 Plain Lassi,Lassi
@@ -3998,9 +3998,9 @@ Kachumber Salad,Salad
 Fresh Salad,Salad
 Fried Chicken Wings,Chicken Wings
 Honey Chicken Wings,Chicken Wings
-Fish Crackers,Appetizers
-Garlic Bread,Appetizers
-Garlic Cheese Bread,Appetizers
+Fish Crackers,Appetizer
+Garlic Bread,Appetizer
+Garlic Cheese Bread,Appetizer
 Special Thaal,Arabic
 Minal's Special Thaal,Arabic
 Dijal-al-fahaam,Arabic
@@ -4041,7 +4041,7 @@ Plain Fries,Fries
 Masala Fries,Fries
 Cheese Fries,Fries
 Mayo Garlic Fries,Fries
-Potato Wedges,Potata Wedges
+Potato Wedges,Potato Wedges
 Cheese Lover Pizza,Pizza
 Veggie Lover Pizza,Pizza
 Fajita Sicilian Pizza,Pizza
@@ -4227,7 +4227,7 @@ Tawa Chicken Shahajani,Masala
 Chicken Ginger,Chicken
 Chicken Rajhastani Boti,Chicken Boti
 Mutton Leg Roast,Mutton Roast
-Joint Masala,Masla
+Joint Masala,Masala
 Tandoori Chicken Burger,Chicken Burger
 Chicken Burger,Chicken Burger
 Tandoori Chicken Sandwich,Sandwich
@@ -4249,8 +4249,8 @@ Mighty Crispy Burger,Burger
 Chicken Supreme Burger,Burger
 Chicken Burger,Burger
 Crispy Value Burger,Burger
-Crispy Chicken Wrap,Wraps
-Mighty Crispy Wrap,Wraps
+Crispy Chicken Wrap,Wrap
+Mighty Crispy Wrap,Wrap
 King Shawarma,Shawarma
 Special King Shawarma,Shawarma
 Crispy Paratha Roll,Paratha Roll
@@ -4837,9 +4837,9 @@ Chicken Shish Tao,Chicken
 Chicken Cheese Boti,Chicken Boti
 Grilled Charga,Chicken 
 Chicken Kabab,Chicken Kabab
-Chicken Cheese Kabab,Chicken  Kabab
+Chicken Cheese Kabab,Chicken Kabab
 Chicken Reshmi Kabab,Chicken Kabab
-Chicken Gola Kabab,Chicken  Kabab
+Chicken Gola Kabab,Chicken Kabab
 Chicken Shahi Kabab,Chicken Kabab
 Beef Kabab,Beef KAbab
 Beef Bihari Kabab,Beef Kabab
@@ -4882,7 +4882,7 @@ Chicken Walnut Sandwich,Sandwich
 Club Sandwich,Sandwich
 Chicken Croissant,Chicken 
 Chicken Burger,Chicken Burger
-Pizza Slice,Pizza Slice
+Pizza Slice,Pizza
 Chocolate Fudge Cake,Dessert
 Red Velvet Cake,Cake
 Dairy Milk Chocolate Fudge Cake,Dessert
@@ -5010,7 +5010,7 @@ Mega Vitality,Smoothie
 The Big 3,Smoothie
 Ruby Rush,Smoothie
 Fried Butterfly Prawns,Prawns
-Shrimps on Toast,Shrimps
+Shrimps on Toast,Shrimp
 Fried Wontons,Appetizer
 Chicken Spring Rolls,Appetizer
 Fried Chicken Wings,Chicken Wings
@@ -5064,14 +5064,14 @@ Beef Chowmein,Noodles
 Chicken Chowmein,Noodles
 Singaporean Chowmein,Noodles
 Vegetable Chowmein,Noodles
-Hot Sauce Shrimps,Shrimps
-Braised Shrimps in Hot Spices,Shrimps
-Garlic Shrimps,Shrimps
+Hot Sauce Shrimps,Shrimp
+Braised Shrimps in Hot Spices,Shrimp
+Garlic Shrimps,Shrimp
 Large Prawns in Szechuan Sauce,Prawns
-Shrimps with Mushroom and Veggies,Shrimps
-Sweet & Sour Shrimp Balls,Shrimps
-Fried Shrimp Balls,Shrimps
-Spicy Fried Shrimp Balls,Shrimps
+Shrimps with Mushroom and Veggies,Shrimp
+Sweet & Sour Shrimp Balls,Shrimp
+Fried Shrimp Balls,Shrimp
+Spicy Fried Shrimp Balls,Shrimp
 Beef Chilies Fried Rice,Rice
 Steamed Rice with Chicken and Mushroom,Rice
 Chicken Masala Rice,Rice
@@ -5250,7 +5250,7 @@ Steamed Whole Red Snapper,Fish
 Deep Fried Whole Red Snapper,Fish
 Stir Fry Lobster with Mongolian Sauce,Lobster
 Crispy Fried Chicken Spring Rolls,Appetizer
-Thai Stuffed Chili Shrimps,Shrimps
+Thai Stuffed Chili Shrimps,Shrimp
 Fire Cracker Prawns,Prawns
 Prawn Tempura,Prawns
 Steamed Dim Sum,Seafood
@@ -5258,7 +5258,7 @@ Chicken in Toya Leaf,Chicken Gravy
 Fried Wontons,Appetizer
 Fish Crackers,Appetizer
 Wasabi Prawns,Prawns
-Popcorn Shrimp Rolls,Shrimps
+Popcorn Shrimp Rolls,Shrimp
 Chicken Drumsticks,Chicken
 Fried Butterfly Prawns,Prawns
 Prawns on Toast,Prawns
@@ -5391,8 +5391,8 @@ Prawn with Sweet & Sour Sauce,Prawns
 Fish Manchurian ,Fish
 Hot & Sour Prawns,Prawns
 Honey Glazed Sesame Prawns,Prawns
-Sweet & Sour Shrimp Balls,Shrimps
-Garlic Shrimps,Shrimps
+Sweet & Sour Shrimp Balls,Shrimp
+Garlic Shrimps,Shrimp
 Pineapple & Ginger Fish,Fish
 Pomfret,Fish
 Prawns in White Sauce,Prawns
@@ -5854,7 +5854,7 @@ Cole Slaw ,Salad
 Beef Fillet Salad,Salad
 Chicken Apple & Pineapple Salad,Salad
 French Fries,Fries
-Milk Shake with Ice Cream,Milk Shake
+Milkshake with Ice Cream,Milkshake
 Cold Coffee,Cold Coffee
 Cold Coffee with Ice Cream,Cold Coffee
 Jasmine Tea,Tea
@@ -5999,7 +5999,7 @@ Wings,Chicken Wings
 Cheese Sticks,Appetizer
 Garlic Bread,Appetizer
 Cheesy Bread,Appetizer
-Potato Wedges,Potata Wedges
+Potato Wedges,Potato Wedges
 Chicken piece,Appetizer
 Regular Fries,Fries
 Chicken Burger,Chicken Burger
@@ -6367,7 +6367,7 @@ Coffee,Ice Cream
 Peanut Caramel Crunch,Ice Cream
 Alaska,Ice Cream
 Blueberry,Ice Cream
-Vanilla,ice
+Vanilla,ice Cream
 Chocolate Fudge,Ice Cream
 After Eight Mint,Ice Cream
 Vanilla Oreo,Ice Cream
@@ -6400,11 +6400,11 @@ Iced Caffe Mocha,Cold Coffee
 Iced Caramel Macchiato ,Cold Coffee
 Frappuccino ,Cold Coffee
 Brownie Frappuccino,Cold Coffee
-Mango Madness,Milk Shake
-Banana Berry ,Milk Shake
-Peach & Apple,Milk Shake
+Mango Madness,Milkshake
+Banana Berry ,Milkshake
+Peach & Apple,Milkshake
 Tropical Paradise ,Drink
-Mixed Fruit,Milk Shake
+Mixed Fruit,Milkshake
 Soft Drink,Drink
 Fresh Berry Frappe ,Drink
 Flavoured Iced Tea,Ice Tea
@@ -6550,16 +6550,16 @@ Sriracha Basil Chicken ,Thai Curry
 Angel Kiss ,Drink
 Lovely Day,Drink
 Mint Chocolate Blast,Drink
-Kitkat Shake,Milk Shake
+Kitkat Shake,Milkshake
 Blue Lagoon,Drink
-Chocolate Brownie Shake ,Milk Shake
+Chocolate Brownie Shake ,Milkshake
 Electric Lemonade ,Lemonade
 Iced Caramel Macchiato,Cold Coffee
 Arnold Palmer,Drink
-Kit Kat Shake,Milk Shake
-Mountain Hill Shake,Milk Shake
-O.M.G. Shake ,Milk Shake
-P.B. Mania Shake,Milk Shake
+Kit Kat Shake,Milkshake
+Mountain Hill Shake,Milkshake
+O.M.G. Shake ,Milkshake
+P.B. Mania Shake,Milkshake
 Lightening Shot,Drink
 Lover's Spat,Drink
 Purple Heaven,Drink
@@ -6705,13 +6705,13 @@ Beef Burger,Beef Burger
 Grilled Chicken Burger,Chicken Burger
 Fish Burger,Fish Burger
 Signature Slider Platter,Burger
-Oreo Deluxe Shake ,Milk Shake
-Strawberry Shake,Milk Shake
-Outpost Special Shake,Milk Shake
-Chocolate Shake ,Milk Shake
-Kit Kat Shake,Milk Shake
-Vanilla Shake,Milk Shake
-After Eight Shake,Milk Shake
+Oreo Deluxe Shake ,Milkshake
+Strawberry Shake,Milkshake
+Outpost Special Shake,Milkshake
+Chocolate Shake ,Milkshake
+Kit Kat Shake,Milkshake
+Vanilla Shake,Milkshake
+After Eight Shake,Milkshake
 Banana Smoothie ,Smoothie
 Strawberry Smoothie,Smoothie
 Mango Smoothie,Smoothie
@@ -7071,7 +7071,7 @@ Prawns Garlic,Prawns
 Cream Prawns,Prawns
 Prawn Manchurian,Prawns
 Large Prawn Fried in Shell (Szechuan Style),Prawns
-Shrimps with Chili and Vegetable Fish,Shrimps
+Shrimps with Chili and Vegetable Fish,Shrimp
 Prawn with Mushroom and Vegetable Fish,Prawns
 Sweet & Sour Prawns,Prawns
 Fried Crispy Prawn,Prawns
@@ -7264,7 +7264,7 @@ Water,Drink
 Perrier Water,Drink
 Soft Drink,Drink
 Fresh Lime,Drink
-Nutella Shake,Milk Shake
+Nutella Shake,Milkshake
 Tall Red,Drink
 Moroccan Mint Tea ,Tea
 Gelato Shake,Shake
@@ -7775,7 +7775,7 @@ Club Soda,Drink
 Soft Drink,Drink
 Fresh Lime,Drink
 Still Water,Drink
-Milk Shake,Milk Shake
+Milk Shake,Milkshake
 Perrier Sparkling Mineral Water,Drink
 Whipped Cappuccino ,Coffee
 Black Coffee ,Coffee
@@ -7962,7 +7962,7 @@ Choco Bread,Dessert
 Cinna Stix,Dessert
 Slice Juice,Juice
 Mineral Water,Drink
-Soft Drinks,Drink
+Soft Drink,Drink
 Potato Wedges,Potato Wedges
 Garlic Bread,Appetizer
 Chicken Wings,Chicken Wings
@@ -8862,7 +8862,7 @@ Champ Masala,Masala
 Mutton Kabab Masala,Masala
 Batair Masala,Masala
 Chicken Kabab Masala,Masala
-Dera Special Chicken (with rice),Chinese Curry
+Dera Special Chicken (with rice),Chinese Gravy
 Chicken Manchurian,Chinese Gravy
 Garlic Chicken,Chinese Gravy
 Black Pepper Chicken,Chinese Gravy
@@ -9182,7 +9182,7 @@ Pizza on a Steak,Pizza
 French Fries Pizza,Pizza
 Crispy Chicken Tenders,Chicken
 Pizza Pot Pie,Pizza
-God Father Deal,Pizza Slice
+God Father Deal,Pizza
 Ranchy Pizza,Pizza
 Buffalo Pizza,Pizza
 Sweet Sriracha Dynamite Pizza,Pizza
@@ -9653,7 +9653,7 @@ Chicken Drumsticks,Chicken
 Chicken Tempura,Chicken
 Fish Tempura,Fish
 Fish & Chips,Fish
-Dynamite Shrimps,Shrimps
+Dynamite Shrimps,Shrimp
 Prawn Tempura,Prawns
 Wasabi Prawns,Prawns
 Golden King Prawn,Prawns
@@ -9663,7 +9663,7 @@ Honey Chili Wings,Chicken Wings
 Honey Chili Chicken Cubes,Chicken
 Buffalo Wings,Chicken Wings
 Buffalo Chicken Cubes,Chicken
-Spicy Popcorn Shrimps,Shrimps
+Spicy Popcorn Shrimps,Shrimp
 Honey Chili Prawns,Prawns
 Singaporean Prawns,Prawns
 Buffalo Prawns,Prawns
@@ -9774,11 +9774,11 @@ Junior Burger,Chicken Burger
 Classic Club Sandwich,Sandwich
 Grilled Chicken Sandwich,Sandwich
 Chicken Tikka Sandwich,Sandwich
-Mint Margarita,Drinks
-Lemonade,Drinks
-Pina Colada,Drinks
-Fresh Lime,Drinks
-Mojito,Drinks
+Mint Margarita,Drink
+Lemonade,Drink
+Pina Colada,Drink
+Fresh Lime,Drink
+Mojito,Drink
 Chicken Kabab,Chicken Kabab
 Harey Bharey Kabab,Chicken Kabab
 Beef Gola Kabab,Beef Kabab
@@ -11100,7 +11100,6 @@ Fruit Chaat,Chaat
 Creamy Fruit Chaat,Chaat
 Red Bean Chaat ,Chaat
 Papri Chaat,Chaat 
-Hi-Tea Platter,Platter 
 Italian Chicken with Pesto Fettuccini,Pasta
 Alfredo Pasta,Pasta
 Sea Food Chowder,Soup
