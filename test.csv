@@ -163,7 +163,7 @@ Braised Bean Curd with Mixed Vegetable,Vegetables
 Stir Fried with Garlic,Rice
 Stir Fried with Mixed Vegetables,Rice
 Stir Fried Rice with Egg,Rice
-Dry Beef Chili,f
+Dry Beef Chili, Beef
 Black Pepper Beef,Beef
 Szechuan Chicken,Chicken
 Kung Pao Chicken,Chicken
@@ -1352,7 +1352,7 @@ California Steak,Steak
 Sajji,Chicken
 Chicken Kabab,Chicken
 Chicken Cheese Kabab,Chicken kabab
-Chicken Tikka Pieces,Chicke Tikka
+Chicken Tikka Pieces,Chicken Tikka
 Chicken Tikka Boti,Chicken Boti
 Chicken Malai Boti,Chicken Boti
 Pasha Boti,Chicken Boti
@@ -1362,7 +1362,7 @@ Sicilian Heart,Pizza
 Tikka Heart,Pizza
 Fajita Hearts,Pizza
 Chapli Kabab,Pizza
-Chicky Supreme Hearts,PIzza
+Chicky Supreme Hearts,Pizza
 Mexican Hearts,Pizza
 Bar B.Q.,Pizza
 Hot and Spicy,Pizza
@@ -1457,7 +1457,6 @@ Tom Yum,Soup
 Tom Kha,Soup
 Tom Kha,Soup
 Yum Sam Krob,Salad
-Yum Nuea,d
 Street Treat Sesame Chicken,Chicken
 Special Mongolian Chicken,Chicken
 Home Made Szechuan Chicken,Chicken Curry
@@ -1465,7 +1464,7 @@ Hot and Spicy Basil Chciken,Chicken Curry
 Wok Fried Chicken,Chicken
 Kung Pao Chicken,Chicken
 Chicken chili with Oyser Sauce,Chicken
-Juha Fish,Fish''
+Juha Fish,Fish
 Szechuan Dry Fish,Fish
 Beef Chili Dry,Beef
 Beijing Chicken,Chicken
@@ -2016,11 +2015,11 @@ Mocha,Coffee
 White Mocha,Coffee
 White Americano,Coffee
 Iced Latte,Drink
-Iced Chocolate,r
+Iced Chocolate,Drink
 White Chocolate Latte Milkshake,Milk Shake
 Iced Mocha,Cold Coffee
 Iced Caramel Macchiato,Cold Coffee
-Latte,e
+Latte,Coffee
 Espresso,Coffee
 Chamomile Citrus,Tea
 Mint Chocolate MilkShake,Milk Shake
@@ -4798,9 +4797,9 @@ Chicken Karahi,Karahi
 Chicken Mahkni Karahi,Karahi
 Chicken Boneless Handi,Handi
 Mutton Karahi,Karahi
-Mutton Mahkni Karahi,i
+Mutton Mahkni Karahi,Karahi
 Qeema Special Naan,Naan
-Qeema Special Paratha,h
+Qeema Special Paratha,Paratha
 Qeema Special Cheese Paratha,Paratha
 Mutton Naan,Naan
 Chicken Naan,Naan
