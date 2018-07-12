@@ -1,112 +1,96 @@
 ,0
-0,chicken
-1,wrap
-2,chicken burger
-3,burger
-4,beef burger
-5,salad
-6,rice
-7,fries
-8,vegetables
-9,appetizer
-10,potato wedges
-11,dessert
-12,tea
-13,drink
-14,soup
-15,beef
-16,seafood
-17,prawns
-18,fish
-19,calamari
-20,noodles
-21,chicken wings
-22,duck
-23,shrimp
-24,steak
-25,nachos
-26,quesadilla
-27,pasta
-28,beef steak
-29,cold coffee
-30,ice tea
-31,lemonade
-32,margarita
-33,milkshake
-34,smoothie
-35,breakfast
-36,chicken roll
-37,bbq
-38,chicken kabab
-39,chicken tikka
-40,chicken boti
-41,beef kabab
-42,mutton kabab
-43,mutton
-44,batair
-45,lamb
-46,handi
-47,masala
-48,chicken gravy
-49,karahi
-50,mutton gravy
-51,chinese gravy
-52,sandwich
-53,pizza
-54,ice cream
-55,naan
-56,paratha
-57,coffee
-58,shake
-59,lassi
-60,fresh juice
-61,fish burger
-62,pancakes
-63,shawarma
-64,paratha roll
-65,chicken roast
-66,mutton boti
-67,ice cream shake
-68,thai curry
-69,chicken steak
-70,kabab
-71,roll
-72,vegetable curry
-73,chicken curry
-74,thai
-75,biryani
-76,mutton tikka
-77,taka tak
-78,crackers
-79,chicken wrap
-80,chicken fillet
-81,panini
-82,beef wrap
-83,detox juice
-84,nihari
-85,calzone
-86,chiller
-87,frappe
-88,drum sticks
-89,japanese
-90,arabic
-91,chops
-92,samosa
-93,lobster
-94,crepes
-95,french toast
-96,quiche
-97,humus
-98,juice
-99,mutton qorma
-100,qeema
-101,chargha
-102,gola
-103,chaat
-104,popcorn
-105,slush
-106,burrito
-107,mutton roast
-108,cake
-109,donuts
-110,waffles
+appetizer,339
+arabic,25
+batair,8
+bbq,56
+beef,143
+beef burger,142
+beef kabab,41
+beef steak,56
+beef wrap,6
+biryani,17
+breakfast,132
+burger,162
+burrito,19
+cake,137
+calamari,11
+chaat,21
+chicken,669
+chicken boti,138
+chicken burger,329
+chicken gravy,121
+chicken kabab,108
+chicken roast,30
+chicken roll,11
+chicken steak,76
+chicken tikka,56
+chicken wings,162
+chiller,22
+chinese,566
+coffee,308
+cold coffee,116
+crepes,22
+dessert,385
+detox juice,26
+drink,392
+drum sticks,37
+duck,4
+fish,380
+fish burger,23
+frappe,22
+fresh juice,31
+fries,215
+gola,18
+handi,153
+hummus,7
+ice cream,122
+ice cream shake,65
+ice tea,24
+japanese,93
+juice,24
+karahi,94
+lamb,23
+lassi,13
+lemonade,30
+lobster,5
+margarita,36
+masala,60
+milkshake,67
+mutton,118
+mutton gravy,14
+mutton kabab,25
+mutton tikka,5
+naan,240
+nachos,15
+nihari,7
+noodles,244
+pancakes,27
+panini,36
+paratha,97
+paratha roll,192
+pasta,230
+pizza,793
+popcorn,5
+potato wedges,12
+prawns,283
+qeema,10
+quesadilla,8
+rice,363
+salad,319
+samosa,4
+sandwich,426
+seafood,54
+shake,112
+shawarma,100
+shrimp,52
+slush,5
+smoothie,102
+soup,390
+steak,124
+tea,136
+thai,26
+thai curry,104
+vegetable curry,22
+vegetables,83
+waffles,20
+wrap,65
