@@ -46,13 +46,13 @@ def PreProcess(features, labels):
 	dishes_train, dishes_test, labels_train, labels_test = model_selection.train_test_split(features, labels, test_size = 0.3, random_state = 1)
 	t0 = time()	
 	vect = CountVectorizer(stop_words = 'english')
-	dishes_train = vect.fit_transform(dishes_train)
-	dishes_test = vect.transform(dishes_test)
+	vec_dishes_train = vect.fit_transform(dishes_train)
+	vec_dishes_test = vect.transform(dishes_test)
 	print "vectorize time:", round(time() - t0, 3), "s"
 	print dishes_train.shape
 	print dishes_test.shape
 	# print vect.get_feature_names()
-	return dishes_train, dishes_test, labels_train, labels_test
+	return dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test
 
 		
 def SVM(dishes_train, dishes_test, labels_train, labels_test):
@@ -72,8 +72,8 @@ def SVM(dishes_train, dishes_test, labels_train, labels_test):
 	# print clf.best_estimator_
 
 	pred = clf.predict(dishes_test)
-	print pd.DataFrame(labels_test, pred)
-	print accuracy_score(labels_test, pred)
+	# print pd.DataFrame(labels_test, pred)
+	# print accuracy_score(labels_test, pred)
 
 	return pred
 
@@ -81,7 +81,10 @@ def SVM(dishes_train, dishes_test, labels_train, labels_test):
 # print df
 
 dishes, labels = ParseAndShuffleData(filename)
-dishes_train, dishes_test, labels_train, labels_test = PreProcess(dishes, labels)
-predicted = SVM(dishes_train, dishes_test, labels_train, labels_test)
+dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test = PreProcess(dishes, labels)
+predicted = SVM(vec_dishes_train, vec_dishes_test, labels_train, labels_test)
 
+final = pd.DataFrame(np.array([dishes_test, predicted, labels_test]).transpose(), columns = ['Dish', 'Predicted', 'Actual'])
+
+final.to_csv('Result.csv')
 # print vect.get_feature_names()
