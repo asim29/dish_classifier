@@ -2,12 +2,12 @@ import numpy as np
 import pandas as pd 
 from time import time 
 from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.utils import shuffle
 from sklearn import model_selection	
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import GridSearchCV
-
 
 filename = "test.csv"
 
@@ -43,9 +43,9 @@ def ParseAndShuffleData(filename):
 	return dishes, labels
 
 def PreProcess(features, labels):
-	dishes_train, dishes_test, labels_train, labels_test = model_selection.train_test_split(features, labels, test_size = 0.3, random_state = 1)
+	dishes_train, dishes_test, labels_train, labels_test = model_selection.train_test_split(features, labels, test_size = 0.33, random_state = 1)
 	t0 = time()	
-	vect = CountVectorizer(stop_words = 'english')
+	vect = TfidfVectorizer(stop_words = 'english')
 	vec_dishes_train = vect.fit_transform(dishes_train)
 	vec_dishes_test = vect.transform(dishes_test)
 	print "vectorize time:", round(time() - t0, 3), "s"
@@ -55,7 +55,7 @@ def PreProcess(features, labels):
 	return dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test
 
 		
-def SVM(dishes_train, dishes_test, labels_train, labels_test):
+def train(dishes_train, dishes_test, labels_train, labels_test):
 	clf = SVC()
 
 	
@@ -71,20 +71,25 @@ def SVM(dishes_train, dishes_test, labels_train, labels_test):
 	# print "Best estimator found by grid search:"
 	# print clf.best_estimator_
 
-	pred = clf.predict(dishes_test)
 	# print pd.DataFrame(labels_test, pred)
-	# print accuracy_score(labels_test, pred)
 
-	return pred
+	return clf
 
 		
 # print df
 
 dishes, labels = ParseAndShuffleData(filename)
 dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test = PreProcess(dishes, labels)
-predicted = SVM(vec_dishes_train, vec_dishes_test, labels_train, labels_test)
+clf = train(vec_dishes_train, vec_dishes_test, labels_train, labels_test)
 
-final = pd.DataFrame(np.array([dishes_test, predicted, labels_test]).transpose(), columns = ['Dish', 'Predicted', 'Actual'])
+predicted = clf.predict(vec_dishes_test)
 
-final.to_csv('Result.csv')
-# print vect.get_feature_names()
+final = pd.DataFrame(
+	{'Dish': dishes_test,
+	'Predicted': predicted,
+	'Actual': labels_test})
+
+print accuracy_score(labels_test, predicted)
+wrong = final[final.Predicted != final.Actual]
+
+wrong.to_csv('Result.csv')

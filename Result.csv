@@ -1,3410 +1,609 @@
-,Dish,Predicted,Actual
-0,Special Boneless Mughlayi Handi,handi,handi
-1,Chicken Finger,chicken,chicken
-2,Fish au Gratin,fish,fish
-3,Creamy Mayo,pizza,appetizer
-4,Sliced Beef with Chilies and Vegetables,beef,beef
-5,Beef Sliders,beef burger,beef burger
-6,Mineral Water,drink,drink
-7,Minaal's Special Soup,soup,soup
-8,Fried Cheese Fish,fish,fish
-9,Crispy Chicken,chicken,chicken
-10,Nuggets,chicken,chicken
-11,Chicken Spring Rolls,appetizer,chicken
-12,Mutton Champ Masala,mutton,mutton
-13,Chicken Green Curry,thai curry,thai curry
-14,Balsamic Glazed Salmon,japanese,fish
-15,Espresso,coffee,coffee
-16,Flaming Pasta,pasta,pasta
-17,Basil Chicken,thai curry,thai
-18,Grilled Chicken Tortilla Wrap,wrap,wrap
-19,Chicken Biryani,biryani,rice
-20,Chicken Handi,handi,handi
-21,Prawn Garlic Sauce,prawns,prawns
-22,Chocolate Shake,shake,shake
-23,Kabab Halabi,chicken kabab,bbq
-24,Jalapeno Fries,fries,fries
-25,Chicken DrumSticks,drum sticks,drum sticks
-26,Banana Nut Shake,shake,shake
-27,Chicken Shimla Fry,chicken,chicken
-28,Zinger Garlic Roll,chicken roll,paratha roll
-29,Beef Cheese Shawarma,shawarma,shawarma
-30,Mutton Chops,mutton,mutton
-31,Garlic Prawn,prawns,prawns
-32,Black Pepper Chicken,chinese,chinese
-33,Achari Paratha,paratha,paratha
-34,Chicken Quesadilla,quesadilla,chicken
-35,Chicken Atom Bun,chicken,chicken burger
-36,Sheesh Tawook,chicken boti,chicken boti
-37,Nacho Nana,dessert,nachos
-38,Roast Beef Sandwich ,sandwich,sandwich
-39,Buffalo Wings,chicken wings,chicken wings
-40,Classic Strawberry Ice Cream Shake,ice cream shake,ice cream shake
-41,Chicken Boneless Handi,handi,handi
-42,Egg Fried Rice ,rice,rice
-43,Chicken Jalfarezi,masala,chicken gravy
-44,Club Sandwich,sandwich,sandwich
-45,Mini Pizza,pizza,pizza
-46,Wild Mushroom Soup,soup,soup
-47,Nourishing Almond,drink,detox juice
-48,Hont 'n' Sour Soup,soup,soup
-49,Tender Pops,appetizer,chicken
-50,The Raunchy Beef Burger,beef burger,beef burger
-51,Parmesan Chicken Pasta,pasta,pasta
-52,Lemonattas,dessert,drink
-53,Coffee Colada,drink,drink
-54,Super Supreme,pizza,pizza
-55,Chardonnay Steak,steak,beef steak
-56,Mineral Water,drink,drink
-57,Beef Mushroom Steak,beef steak,beef steak
-58,Chicken Tikka Boti,chicken tikka,chicken boti
-59,Special Lucky Chicken Dry,chicken,chicken
-60,Latte,coffee,coffee
-61,Iced Latte,cold coffee,cold coffee
-62,Special Steak,steak,steak
-63,Strawberry Patch Smoothie,smoothie,smoothie
-64,Zeera Chicken,chicken,chicken gravy
-65,Chicken Veggie Paratha,paratha,paratha
-66,Chicken with Almond,chinese,chinese
-67,Garlic Naan,naan,naan
-68,White Americano,coffee,coffee
-69,Black Coffee,coffee,coffee
-70,Chicken Namkeen Karahi,karahi,karahi
-71,Peri Peri Sandwich,fries,sandwich
-72,Chicken with Almonds,chinese,chinese
-73,Mountain Hill Shake,shake,milkshake
-74,City Special,pizza,pizza
-75,Affogato ,coffee,cold coffee
-76,Chicken Boneless Boti,chicken boti,chicken boti
-77,Cannelloni,dessert,pasta
-78,Chicken Shashlik with Rice,chinese,chinese
-79,Red Roast Chicken,chicken roast,chicken roast
-80,Mutton Handi Lazeez,handi,handi
-81,Sesame Chicken Tenders,chicken,appetizer
-82,Chicken Tawa Piece,chicken tikka,chicken boti
-83,Fine Special Naan,naan,naan
-84,The Vegetarian ,pizza,sandwich
-85,Chicken Cheese Kabab,chicken kabab,chicken kabab
-86,Chicken Breast Cheese Roll,paratha roll,paratha roll
-87,Fresh Lime ,drink,drink
-88,Napoleon Chicken,chicken,chicken
-89,Vegetable Rice,rice,rice
-90,Beef Teriayki,beef,chinese
-91,Cheese Fried Prawns,prawns,prawns
-92,Hash Brown,appetizer,breakfast
-93,Seafood Marinara Pizza,pizza,pizza
-94,Chicken Tikka,chicken tikka,chicken tikka
-95,Hara Masala Paratha,paratha,paratha
-96,Roast Beef Burger,beef burger,beef burger
-97,Chef Special Mushroom Chicken,chicken,chinese
-98,Chicken Chatkhara Boti,chicken boti,chicken boti
-99,GaliBowl,dessert,rice
-100,2 Cheese Melt,sandwich,steak
-101,Caramel,dessert,frappe
-102,Chicken Chili Dry,chinese,chinese
-103,English Toffee Latte,breakfast,coffee
-104,Pita Bread,appetizer,naan
-105,Mutton Karahi,karahi,karahi
-106,Sweet & Sour Prawns,prawns,prawns
-107,Black Pepper Beef,beef steak,beef steak
-108,Stir Fried Vevet Chicken with Roasted Cashews,chicken,chicken
-109,California Club Sandwich ,sandwich,sandwich
-110,Chicken Picatta,chicken,chicken
-111,Thai Chicken Hot & Sour,thai,soup
-112,Thai,drink,soup
-113,Mango Lassi,lassi,lassi
-114,Sabzi,dessert,vegetables
-115,Liberty Latte,coffee,cold coffee
-116,Chicken Kiev,chicken,chicken
-117,Chicken Chatni Roll,chicken roll,paratha roll
-118,Special Kabab Masala,masala,masala
-119,Apple Tea,tea,tea
-120,Beef Supreme Pizza,pizza,pizza
-121,Special Tawa Chicken Karahi,karahi,karahi
-122,Brasserie Special Beef,beef,beef
-123,Tandoori Paratha,paratha,paratha
-124,Special Wok Express Chicken,chinese,chinese
-125,Chicky Meal 1,chicken burger,chicken
-126,Battered Fried Prawns,prawns,prawns
-127,Chicken Vegetable,chinese,soup
-128,Chicken Apple Salad,salad,salad
-129,Kit Kat Chocolate Shake,milkshake,shake
-130,Chicken Paratha Roll,chicken roll,paratha roll
-131,Double Chocolate Brownie,dessert,dessert
-132,Green Handi,handi,handi
-133,Tom Yum Goong Soup,soup,soup
-134,Anda Paratha,paratha,breakfast
-135,Garlic Wings,chicken wings,chicken wings
-136,Beef Chili Dry,beef,beef
-137,Mutton Seekh Kabab,mutton kabab,mutton kabab
-138,Chicken Chili Mint,thai,chinese
-139,Creamy Pizza Naan,naan,naan
-140,Blue Moon,drink,drink
-141,Tandoori Paratha,paratha,paratha
-142,Tiramisu Italia,dessert,dessert
-143,Khoya Khajoor Shake,shake,milkshake
-144,Tandoori Naan,naan,naan
-145,Bread Pudding with Ice Cream,dessert,dessert
-146,Fish Tikka,fish,fish
-147,Sliced Beef with Chilies and Onion,beef,beef
-148,Pancakes Original,pancakes,pancakes
-149,Vegetable Karahi,karahi,karahi
-150,Chicken & Mushroom Pizza,pizza,pizza
-151,Chicken Piece,bbq,chicken
-152,Grilled Beef with Tarragon Sauce,beef,beef steak
-153,Mediterranean Salad,salad,salad
-154,CTC's Famous Fudge Cake,cake,cake
-155,Mutton Multani Chanp,mutton,mutton
-156,French Fries,fries,fries
-157,Plain Naan,naan,naan
-158,Steamed Rice,rice,rice
-159,Cashew Nut Chicken,thai curry,thai curry
-160,Jalepeno Beef Fillet Mignon,beef steak,beef steak
-161,Garlic Cheese Bread,appetizer,appetizer
-162,Coffee,coffee,ice cream
-163,Chicken Button Mushroom Garlic Sauce,chicken gravy,chinese
-164,Onion Rings,appetizer,appetizer
-165,Soft Drink,drink,drink
-166,Shirley Temple,dessert,drink
-167,Chicken Behari,chicken boti,chicken
-168,Chicken Fajita,pizza,pizza
-169,Chicken Behari Cheese Kabab,chicken kabab,chicken kabab
-170,Arabian Delight Pizza,pizza,pizza
-171,Chicken Noodle Soup,soup,soup
-172,Ice Hazelnut Latte,cold coffee,cold coffee
-173,Garlic Mayo Fries,fries,fries
-174,Roasted Tomato & Basil Soup,soup,soup
-175,Chicken Sandwich,sandwich,sandwich
-176,Honey Chili Chicken,chinese,chicken
-177,Naan,naan,naan
-178,Hot & Sour Soup,soup,soup
-179,Pataka Handi,handi,handi
-180,Mutton Khoya Kabab,mutton kabab,mutton kabab
-181,Mango Shake,milkshake,shake
-182,Original Iced Chocolate,cold coffee,cold coffee
-183,Chicken Pineapple Cherry,chicken gravy,chinese
-184,Achari Handi,handi,handi
-185,Chicken Tandoori Masala,masala,chicken gravy
-186,CTC Turkey Club,sandwich,sandwich
-187,Mutton Biryani,biryani,rice
-188,Beef Behari Cheese Kabab,beef kabab,beef kabab
-189,Pepperoni Pide,pizza,chicken
-190,Mint Raita,salad,salad
-191,Fish Chilies and Vegetables,fish,fish
-192,Chicken Burger,chicken burger,chicken burger
-193,Double Patty Beef Burger with Cheese,beef burger,beef burger
-194,Chicken with Cashewnuts,chinese,chicken
-195,Halami Tikka,chicken tikka,chicken tikka
-196,Hot Cajun Chicken Sandwich ,sandwich,sandwich
-197,Beef Burger,beef burger,beef burger
-198,Yam Phad Gai Salad,salad,salad
-199,Chocolate Peanut Butter Cake,cake,cake
-200,Fry Chargha,chicken roast,chicken roast
-201,Chicken Yahkni Pulao,rice,rice
-202,Brain Masala,masala,masala
-203,Pesto Chicken,panini,sandwich
-204,Salsa and Chips,beef burger,appetizer
-205,Double Chocolate Fudge Cookie,dessert,dessert
-206,Fruit Salad,salad,salad
-207,Tandoori Chicken Burger,chicken burger,chicken burger
-208,French Fries,fries,fries
-209,Jalapeno Burger,burger,beef burger
-210,Carrot Cake,cake,cake
-211,Chicken Reshmi Kabab,chicken kabab,chicken kabab
-212,Fine Special Sandwich,sandwich,sandwich
-213,New York Cheesecake,cake,cake
-214,Chicken Tikka Pizza,pizza,pizza
-215,Coffee Toffee,drink,shake
-216,Beef Chilies Fried Rice,rice,rice
-217,Strawberry Ice Cream Shake,ice cream shake,ice cream shake
-218,Craft Your Own Salad,salad,salad
-219,Mineral Water,drink,drink
-220,Stuffed Breast Burger,chicken burger,chicken burger
-221,Firni,dessert,dessert
-222,Wasabi Prawns,seafood,prawns
-223,Spinach Chicken Panini,panini,panini
-224,Cream of Chicken & Mushroom Soup,soup,soup
-225,Mix Berries Pancake,pancakes,pancakes
-226,Daar Cheeni Special Taka Tak,chicken gravy,mutton
-227,Molten Lava Cake,cake,cake
-228,Chicken n Chips,chicken,chicken
-229,Purple Heaven,dessert,drink
-230,Prawn Fried Large,prawns,prawns
-231,Espresso,coffee,coffee
-232,Ginoan Chicken Pizza,pizza,pizza
-233,Mango Shake,milkshake,shake
-234,Beef Western Burger,beef burger,beef burger
-235,Oreo Shake,shake,shake
-236,Egg Rice Noodles,rice,noodles
-237,Chicken Caesar Salad,salad,salad
-238,Chicken Jalfrezi,handi,handi
-239,Mozambican Hot,pizza,pizza
-240,Chicken BBQ Pizza,pizza,pizza
-241,Ice Tea,ice tea,ice tea
-242,Stuffed Cheesy Bread Pepperoni ,appetizer,appetizer
-243,Mochacino,coffee,coffee
-244,Zombie,dessert,drink
-245,Chicken Pineapple Salad,salad,salad
-246,Yum Goong Salad,salad,salad
-247,Chicken Shashlik,chinese,chinese
-248,Cream of Mushroom Soup,soup,soup
-249,Fruit Juice,fresh juice,fresh juice
-250,Sweet & Sour Chicken,chinese,chinese
-251,Chicken Manchurian,chinese,chinese
-252,Chicken Kabab Masala,masala,chicken gravy
-253,Flavored Latte,coffee,coffee
-254,Cinna Stix,dessert,dessert
-255,Cream of Mushroom Soup,soup,soup
-256,Hen Packed ,dessert,steak
-257,Double Chocolate Butter Coffee,coffee,coffee
-258,Plain Ice Cream,ice cream,ice cream
-259,Chicken with Szechuan Sauce,chinese,chinese
-260,Steamed Chicken Dumpling,chicken,appetizer
-261,Green Monster Smoothie,smoothie,smoothie
-262,Fun Meal 2,chicken burger,chicken
-263,Grilled Chicken Caesar Salad,salad,salad
-264,Foodies Special Burger,burger,burger
-265,Vegetable Rice,rice,rice
-266,Sliced Chicken with Lime,chinese,chinese
-267,Beef Steak,beef steak,beef steak
-268,Chicken Corn Soup,soup,soup
-269,Qulfa Ice Cream,ice cream,ice cream
-270,Chicken Nuggets,chicken,chicken
-271,Berry Colada,drink,drink
-272,Penne Mushroom Pasta,pasta,pasta
-273,Double Chocolate Cupcake,dessert,dessert
-274,Open-Face Salmon Sandwich ,sandwich,sandwich
-275,Sweet & Sour Prawns,prawns,prawns
-276,Khoya Khajoor Milk Shake,milkshake,milkshake
-277,Chicken Burger,chicken burger,chicken burger
-278,Beef Special Nihari(Fry),nihari,nihari
-279,Cravea Dujaj,chicken,chicken
-280,Chicken Boti,chicken boti,chicken boti
-281,Chicken Wings,chicken wings,chicken wings
-282,Margherita Pizza,pizza,pizza
-283,Chicken Lasagna Marinara,pasta,pasta
-284,Frozen Lemonades,lemonade,lemonade
-285,Gurda Qeema Masala,qeema,mutton
-286,Angus Beef Gyoza,japanese,japanese
-287,Garlic Cheese Bread,appetizer,appetizer
-288,Italian Panini,panini,panini
-289,Citrus Salad,salad,salad
-290,Hot & Spicy Fish,fish,fish
-291,Steamed Fish or Pomfret with Chinese Sauce,fish,fish
-292,Oreo Ice Cream Shake,ice cream shake,ice cream shake
-293,Sticky Toffee Pudding,dessert,dessert
-294,Texas White Steak,steak,chicken steak
-295,Monte Cristo Sandwich,sandwich,sandwich
-296,Fajita Sensation,pizza,pizza
-297,Chicken Fajita Platter,chicken,chicken
-298,Papri Dahi Bhallay,chaat,salad
-299,Fish Crackers,appetizer,appetizer
-300,Beef and Cheese Burger,beef burger,beef burger
-301,Caramel Latte,coffee,coffee
-302,Vegetable Chowmein,noodles,noodles
-303,Tacos,beef,beef
-304,Hawaiian Pizza,pizza,pizza
-305,Fried Almonds,appetizer,appetizer
-306,Steak Mexican Style,steak,beef steak
-307,Chicken Corn Soup,soup,soup
-308,Two Halves Chicken,chicken,bbq
-309,Chicken Boti Spicy,chicken boti,chicken boti
-310,Chocberry Marsh Waffle,waffles,waffles
-311,Tawa Piece,chicken,chicken tikka
-312,Fish Burger,fish burger,fish burger
-313,Garlic Mayo Pizza,pizza,pizza
-314,French Fries,fries,fries
-315,Chicken Fillet Steak,chicken steak,chicken steak
-316,Fresh Salad,salad,salad
-317,The Empire State,dessert,cold coffee
-318,Hot Chocolate,coffee,coffee
-319,Crispy Chicken Burger,chicken burger,chicken burger
-320,4 Cheese ,appetizer,pizza
-321,Boston Cream Pie Pancakes,pancakes,pancakes
-322,Soft Drink,drink,drink
-323,Kulfa ,ice cream,ice cream
-324,Beef American Steak,beef steak,beef steak
-325,Beef in Black Bean Sauce ,beef,beef
-326,Chicken Fried Rice,rice,rice
-327,The Outpost Steak,steak,steak
-328,Americano,coffee,coffee
-329,Honey Chicken Strips,chicken,chicken
-330,Mulligatawny Soup,soup,soup
-331,Cappuccino,coffee,coffee
-332,Cheesy Bread,appetizer,appetizer
-333,Chicken Corn Roll ,chicken roll,wrap
-334,Pizza BBQ,pizza,pizza
-335,Beef Twin Steak,beef steak,beef steak
-336,Kalwanji Naan,naan,naan
-337,Stuffed Steak,steak,chicken steak
-338,Nuggets,chicken,chicken
-339,Seafood Delight,drink,seafood
-340,Pizza Place Special,pizza,pizza
-341,Club Sandwich,sandwich,sandwich
-342,Chicken Rajhastani,shawarma,chicken
-343,Yakhni of the Day,soup,soup
-344,BBQ Burger,beef burger,chicken burger
-345,Finger Fish,fish,fish
-346,Classic Chicken Mushroom Steak,chicken steak,steak
-347,Yummilicious Sundae,ice cream,ice cream
-348,Home Fries,fries,appetizer
-349,Garlic Supreme,pizza,appetizer
-350,Chicken Corn Soup,soup,soup
-351,Fried Honey Wings,chicken wings,chicken wings
-352,Crinkle Fries,fries,fries
-353,Vegi Noodle Salad,salad,salad
-354,Chicken Sheesh Taok,bbq,chicken boti
-355,Stir Fried Beef Basil Leaf,thai curry,beef
-356,Pizza Samosa,pizza,samosa
-357,Black Tea,tea,tea
-358,Chicken Malai Tikka,chicken tikka,chicken tikka
-359,Chop Apple Punch,drink,drink
-360,BBQ Prawn,prawns,prawns
-361,Local Tenderloin,dessert,beef
-362,Chicken Oyakudon,chicken,chicken
-363,Machiato Shots,appetizer,coffee
-364,Country Lemonade Cooler,fresh juice,chiller
-365,Fresh Seasonal Juice,fresh juice,fresh juice
-366,Tempura Prawns,prawns,prawns
-367,Spicy Szechuan Fish,fish,fish
-368,Chicken Piece,bbq,bbq
-369,Tempura Udon,japanese,noodles
-370,Mix Grill Platter,bbq,bbq
-371,Fish Tikka Boti,fish,fish
-372,Sonoran Chicken Fettuccine ,pasta,pasta
-373,Ravi Special Chicken Burger,chicken burger,chicken burger
-374,Chicken Hawaiian Pineapple ,chinese,chinese
-375,Arabic Piece,dessert,chicken tikka
-376,Salt and Pepper Chicken Wings,chicken wings,chicken wings
-377,Black Tea,tea,tea
-378,Chicken Supreme,pizza,pizza
-379,Chicken A La King,chicken,rice
-380,Prawn Noodle Soup,soup,soup
-381,Mint Cooler,fresh juice,drink
-382,Triangle Delight (Cake Slice),cake,cake
-383,Chicken Achari Handi,handi,handi
-384,Shaibi Royal Kulfa Milkshake,milkshake,milkshake
-385,HnD Special Taka Tak,chicken gravy,mutton
-386,Iced Caramel Macchiato,cold coffee,cold coffee
-387,The Smokehouse,dessert,beef burger
-388,Chicken Fajita Pizza,pizza,pizza
-389,Mint Margarita,margarita,margarita
-390,Grilled Sole with Lemon & Herb Sauce,seafood,seafood
-391,Chicken with Mushroom in Bamboo Shoot Soup,soup,soup
-392,Bullet Proof Coffee,coffee,coffee
-393,Mutton Dopiaza,mutton,mutton
-394,Pizza Brotchen,pizza,pizza
-395,Zaroori Chicken Jalfrezi,handi,handi
-396,Molten Lava Cake ,cake,cake
-397,Zem Burger Double Decker ,burger,chicken burger
-398,Double Chocolate Fudge Cookie,dessert,dessert
-399,Banana Blueberry Smoothie ,smoothie,smoothie
-400,Pineapple Juice,juice,juice
-401,Creme Brulee,cold coffee,dessert
-402,Toasted Almond Chicken,chinese,chinese
-403,Vegetable Chowmein,noodles,noodles
-404,Superstar with Cheese,appetizer,beef burger
-405,Chicken Sliced with Lime,chinese,chinese
-406,Chocolate Sundae,ice cream,ice cream
-407,Chicken Chili Dry,chinese,chinese
-408,Fresh Prawn Teriyaki,japanese,japanese
-409,The OMG Gulab Jamans,dessert,dessert
-410,Sunny Side Up,dessert,breakfast
-411,Breast Chicken,chicken steak,thai curry
-412,Snickers,shake,shake
-413,Double Chocolate Butter Coffee,coffee,coffee
-414,Mushroom & Cheese Omelette,breakfast,breakfast
-415,Mirpioe Pizza,pizza,pizza
-416,Chicken Fried Rice,rice,rice
-417,Beef Kabab Masala,beef kabab,beef kabab
-418,Chicken Nuggets,chicken,appetizer
-419,French Fries,fries,fries
-420,Mineral Water Sparkling,drink,drink
-421,Chocolate Shake,shake,shake
-422,Mint Margarita,margarita,margarita
-423,Fettuccine Alfredo,pasta,pasta
-424,Breast Chicken Chili,chicken steak,japanese
-425,Chicken Shahjahani Biryani,rice,rice
-426,Chicken Chili Dry,chinese,chinese
-427,Chicken Corn Soup,soup,soup
-428,Shahi Daal Mash,vegetables,vegetables
-429,Mozzarella Sticks,appetizer,appetizer
-430,Battered Fried Wings,chicken wings,chicken wings
-431,Very Veggie Pizza,pizza,pizza
-432,Cottage Chicken Shashlik ,chinese,chinese
-433,BBQ Chicken Wings,chicken wings,chicken wings
-434,Spicy Szechuan Chicken,chinese,chinese
-435,Coffee Cupcake,cake,dessert
-436,Chicken Shish Tao,chicken boti,chicken boti
-437,Chicken with Pineapple ,chinese,chinese
-438,Black Pepper Steak,steak,steak
-439,French Fries,fries,fries
-440,Qeema Naan,naan,naan
-441,Special Chowmein,noodles,noodles
-442,Mint Raita,salad,salad
-443,Prawn with Roasted Almonds,prawns,prawns
-444,Oreo Vanilla Pineapple & Strawberry Shake,shake,shake
-445,Mayo Fries,fries,fries
-446,Tikka Sandwich,sandwich,sandwich
-447,The Czar,dessert,chicken burger
-448,Chicken Tawa Masala,masala,masala
-449,Paratha Roll,chicken roll,paratha roll
-450,Stir Fry Chicken in Coconut Sauce,thai curry,thai curry
-451,Chicken Shashlik,chinese,chinese
-452,Chicken Hari Boti Pizza,chicken boti,pizza
-453,Cappuccino,coffee,coffee
-454,Roghni Naan,naan,naan
-455,Chicken Sheesh Tao,chicken gravy,chicken gravy
-456,Beef Fried Rice,rice,rice
-457,Spanish Margarita,margarita,margarita
-458,Fish Cracker,appetizer,appetizer
-459,Pretty Patty,dessert,chicken burger
-460,The Desi Street Burger,burger,burger
-461,Jalapeno & Cheese,appetizer,burger
-462,Brownie Frappuccino,dessert,cold coffee
-463,Carna Jalapeno,appetizer,beef burger
-464,Chicken Chipotle Burger,chicken burger,chicken burger
-465,Russian Salad,salad,salad
-466,Fried Chicken Wings,chicken wings,chicken wings
-467,Chicken Noodle Soup,soup,soup
-468,Chicago Style Cake Pizza,cake,pizza
-469,Onion Rings,appetizer,appetizer
-470,Palak Paneer,vegetable curry,vegetables
-471,Prawns Cashewnuts,prawns,prawns
-472,Fried Breast Sandwich,sandwich,sandwich
-473,Express Special,pizza,pizza
-474,The Fungo Beef Burger,beef burger,beef burger
-475,Golden Coral Bread Pudding,dessert,dessert
-476,Soft Drink,drink,drink
-477,Chicken Cheese BBQ Sandwich,sandwich,sandwich
-478,Mango Smoothie,smoothie,smoothie
-479,Madrasi Handi,handi,handi
-480,Thai Special Soup,soup,soup
-481,Zinger Fish Burger,fish burger,fish burger
-482,Cadbury Chocolate Cake,cake,cake
-483,Churrasco Chicken,chicken,chicken roast
-484,Dixi Salad,salad,salad
-485,Cheeky Chicken,chicken,pizza
-486,Special Noodles Soup,soup,soup
-487,Lahori Lamb Karahi,lamb,lamb
-488,Hot Chocolate,coffee,coffee
-489,Beef Teriyaki ,beef,beef
-490,Salad Jar,salad,salad
-491,Crispy Golden Prawns,prawns,prawns
-492,Italian Fettuccine Alfredo Pizza,pasta,pizza
-493,Irani Boti,chicken boti,chicken boti
-494,Waldorf Chicken Salad,salad,salad
-495,Salted Caramel Shake,shake,shake
-496,Beef Chowmein,noodles,noodles
-497,Fried Rice,rice,rice
-498,Espresso Shots,coffee,coffee
-499,Potato Wedges,potato wedges,appetizer
-500,Buffalo Wings,chicken wings,chicken wings
-501,Chicken with Roasted Almonds,chinese,chinese
-502,Honey Cheese Naan,naan,naan
-503,The Desi Street Biryani,biryani,rice
-504,CNB Special Chicken,chicken,pizza
-505,Chicken Sandwich,sandwich,sandwich
-506,Canned Soft Drink,drink,drink
-507,Chicken Badami Handi,handi,handi
-508,Penne Arrabiata Pasta,pasta,pasta
-509,Regular Fries,fries,fries
-510,Chicken Thai Sweet Chili,thai curry,thai curry
-511,Sweet & Sour Beef,chinese,chinese
-512,Strawberry Banana Smoothie,smoothie,smoothie
-513,Fries,fries,fries
-514,Mamma Mia Classic,burger,pizza
-515,Chicken Ginger,chicken gravy,chicken gravy
-516,Special Fried Shrimps Ball,shrimp,shrimp
-517,Chicken Achari Boti,chicken boti,chicken boti
-518,Chicken & Jalapeno Pizza,pizza,pizza
-519,Double Chocolate Butter Coffee,coffee,coffee
-520,Mix Platter,bbq,appetizer
-521,Curly Fries,fries,fries
-522,Pulled Chicken Fries,chicken,fries
-523,Chicken Fried Rice,rice,rice
-524,Iced Mocha,cold coffee,cold coffee
-525,Beef Burger,beef burger,beef burger
-526,Plum Chatni,dessert,salad
-527,Szechuan Prawns,prawns,prawns
-528,Chocolate Brownie,dessert,dessert
-529,Jalapeno Angus,appetizer,beef burger
-530,American Cheese,appetizer,sandwich
-531,Cappuccinos,dessert,coffee
-532,Soft Drink,drink,drink
-533,Vegetable Raita,salad,salad
-534,BBQ Platter,bbq,bbq
-535,Waldorf Salad,salad,salad
-536,Ginsoy Special Prawns,prawns,prawns
-537,Mineral Water,drink,drink
-538,Libnani Cheese Roll,paratha roll,paratha roll
-539,Grilled Lamb Chops ,lamb,lamb
-540,Chicken Tikka Pizza,pizza,pizza
-541,Jalapeno Pizza,pizza,pizza
-542,Fresh Prawn Chili,prawns,japanese
-543,Regular Fries,fries,fries
-544,Crispy Chicken Fingers,chicken,chicken
-545,Falafel Sandwich,sandwich,sandwich
-546,Chicken Sajji,chicken roast,chicken roast
-547,Coconut Coffee Crunch,ice cream,drink
-548,Thai Amazon Chicken,thai,thai curry
-549,Beet Root Salad,salad,salad
-550,Cappuccino,coffee,coffee
-551,Beef with Mixed Vegetable,beef,chinese
-552,Rava Kachori,dessert,chaat
-553,Nuea Phad King,appetizer,beef
-554,Chicken Satay,thai,thai curry
-555,Butterfly Chicken Steak,chicken steak,chicken steak
-556,Nuggets,chicken,chicken
-557,Club Sandwich,sandwich,sandwich
-558,Mushroom Volcano Burger,burger,burger
-559,Chicken Cheese Boti,chicken boti,chicken boti
-560,Chicken Malai Boti,chicken boti,chicken boti
-561,Beef Katsu Curry,beef,beef
-562,Chicken Fajita,pizza,chicken
-563,Buffalo Chicken Wings Fried,chicken wings,chicken wings
-564,Open Faced Beef Sandwich,sandwich,sandwich
-565,Open Face Mediterranean Sandwich,sandwich,sandwich
-566,Red Velvet With Nutella Cheese Frosting,frappe,dessert
-567,Tai Pan Soup,soup,soup
-568,Chicken Juicy Roll,chicken roll,paratha roll
-569,Banana Milk Shake,milkshake,milkshake
-570,Tori Goma Fire,dessert,japanese
-571,Smokey Style Italian BBQ Chicken,chicken,chicken
-572,Chicken Wild Mushroom Crepe,crepes,crepes
-573,Speziato Ranchy Pizza,pizza,pizza
-574,Chicken Chargha,chicken roast,chicken roast
-575,Achari Naan,naan,naan
-576,Spicy Buffalo Wings,chicken wings,chicken wings
-577,The Desi Street Chicken Chops,chicken,chicken
-578,Beef Kabab Masala,beef kabab,masala
-579,Fish Tawa Boneless,fish,fish
-580,Multi Moment Sandwich ,sandwich,sandwich
-581,Salad,salad,salad
-582,Zinger Burger,chicken burger,chicken burger
-583,Lemon Caper Fish Sole,fish,fish
-584,Stuffed Chicken Strips,chicken,chicken
-585,Fish Tikka,fish,fish
-586,Chicken Wrap,wrap,wrap
-587,Primavera,dessert,pizza
-588,Paratha Twister,paratha,paratha roll
-589,Chicken Louisiana,chicken,chicken
-590,The German Pizza,pizza,pizza
-591,Sweet n Sour Prawn,prawns,prawns
-592,Steamed Prawn Dumpling,prawns,appetizer
-593,Bizza Burger Beef,beef burger,beef burger
-594,Caesar Salad,salad,salad
-595,Chili Dry,appetizer,chicken
-596,Fish Dry Chili,fish,fish
-597,Rock N Roll Chicken Burger,chicken roll,chicken burger
-598,Barbecue Steak,steak,steak
-599,Szechuan Prawns,prawns,prawns
-600,Fish Burger,fish burger,fish burger
-601,Khajoor Milkshake,milkshake,milkshake
-602,Mix Berry Chiller,chiller,chiller
-603,Egg with Vegetable Soup,soup,soup
-604,Chicken Wings,chicken wings,chicken wings
-605,Onion Rings,appetizer,appetizer
-606,Chicken Hyederabadi Handi,handi,handi
-607,Szechuan Chicken with Rice,rice,chinese
-608,Spicy Crispy Chicken Sandwich,sandwich,sandwich
-609,BBQ Ranch Pasta,pasta,pasta
-610,Chicken Cheese Supreme Sandwich,sandwich,sandwich
-611,Cone Pizza,pizza,pizza
-612,Khas Special Sandwich ,sandwich,sandwich
-613,Orange Crush,dessert,drink
-614,Chicken Spanish Pesto Sauce,panini,crepes
-615,Chicken Tikka Sandwich,sandwich,sandwich
-616,Gurda Kapora,mutton,masala
-617,Peanut Butter and Banana Crepe,crepes,crepes
-618,Exotic Juice,juice,detox juice
-619,Black Pepper Chicken,chinese,chinese
-620,Spicy Nana Chicken,chicken gravy,japanese
-621,Yem Yem Chy Chicken,chinese,chinese
-622,Chicken Tikka Pizza,pizza,pizza
-623,Affogato ,coffee,cold coffee
-624,Breast Sandwich ,sandwich,sandwich
-625,English Breakfast Tea,breakfast,tea
-626,Sliders Station Burger,burger,burger
-627,Kabuli Pulao Lamb,rice,rice
-628,Cheese Fries,fries,fries
-629,Rambata,dessert,gola
-630,Jalapeno Steak,steak,steak
-631,Prawns in Hot Garlic Sauce,prawns,prawns
-632,Garlic Rice,rice,rice
-633,Lava Cupcake,dessert,dessert
-634,Peanut Butter Brownie,dessert,dessert
-635,Hot and Sour Soup,soup,soup
-636,Spicy Fettuccini,pizza,pasta
-637,Texas BBQ Pulled Sandwich,sandwich,sandwich
-638,Lasagna,pasta,pasta
-639,Chicken Pine Salad,salad,salad
-640,Zalim Zinger,shawarma,chicken burger
-641,Sparkling Short Drink,drink,drink
-642,Malghoom Chicken Paratha Roll,chicken roll,paratha roll
-643,Zinger Stacker Combo ,chicken burger,chicken burger
-644,Crispy Fish,fish,fish
-645,Fish Steamer,fish,fish
-646,Chicken Apple Salad,salad,salad
-647,Fettuccine Alfredo Pasta,pasta,pasta
-648,Chicken Super Supreme ,pizza,pizza
-649,Lemon & Mint,drink,lemonade
-650,Cajun Chicken with Salsa,pasta,chicken
-651,Bean Salad,salad,salad
-652,White Boiled Rice,rice,rice
-653,Orange Juice,juice,drink
-654,Spinach Potato Soup,soup,soup
-655,Barbera Special Pasta,pasta,pasta
-656,Apple Pie,dessert,dessert
-657,Fish,fish,fish
-658,Masoom's Special Sandwich,sandwich,sandwich
-659,Mix Fried Rice,rice,rice
-660,Szechuan Sauce Fish,fish,fish
-661,Chicken Tikka Sandwich,sandwich,sandwich
-662,Herb Grilled Chicken ,chicken steak,chicken
-663,Cheese Lover Pizza,pizza,pizza
-664,Chicken Afghani Kabab,chicken kabab,chicken kabab
-665,Tom Yum Prawn,prawns,noodles
-666,Garlic Mayo Fries,fries,fries
-667,Spicy Fried Shrimp Balls,shrimp,shrimp
-668,Hot & Sour Soup,soup,soup
-669,Tandoori Chicken Burger,chicken burger,chicken burger
-670,Dinner Roll,appetizer,appetizer
-671,Thai Ice Tea,ice tea,ice tea
-672,19-B,soup,soup
-673,Fish and Chips,fish,fish
-674,Mayo Garlic Fries,fries,fries
-675,Crocodile ,dessert,drink
-676,Cadbury Chocolate Chip,dessert,ice cream
-677,Chicken Salad,salad,salad
-678,Super Supreme,pizza,pizza
-679,Chicken Lasagna,pasta,pasta
-680,Chicken Tikka Boti,chicken tikka,chicken boti
-681,Chicken with Fresh Mushroom and Garlic Sauce,chicken steak,chinese
-682,Mutton Tawa Boneless,mutton,masala
-683,Balsamic Glazed Fish,fish,fish
-684,Deluxe Burger,burger,burger
-685,Chicken Tarragon ,chicken,chicken
-686,Sweet & Sour Fish,fish,fish
-687,Sweet & Sour Prawns,prawns,prawns
-688,Adana Lamb Kabab,chicken kabab,mutton kabab
-689,Chicken Chowmein,noodles,noodles
-690,Lemon Sole with Herbed Butter,seafood,fish
-691,Calzon Pizza,pizza,pizza
-692,Kit Kat Cheese Ice Roll,ice cream,ice cream
-693,Hot & Sour Soup,soup,soup
-694,Philly Cheese Steak,sandwich,steak
-695,Dahi Bhallay,chaat,chaat
-696,Chicken Parmesan Breast,chicken steak,chicken
-697,Mozzarella Sticks,appetizer,appetizer
-698,Rice n Spice,rice,rice
-699,Flout Drink,drink,drink
-700,Nua Phad Bai Kra Pao,chinese,chinese
-701,Bombay Chicken Tikka Poutine Fries,chicken tikka,fries
-702,Mixberry Chiller,chiller,chiller
-703,Sliced Beef with Lime,beef,beef
-704,Lemon Ice Tea,ice tea,ice tea
-705,Scone,dessert,breakfast
-706,Dijal-al-fahaam,dessert,arabic
-707,Garlic Mayo Dip,appetizer,appetizer
-708,Soft Drink,drink,drink
-709,Mutton Sulaimani Joints,mutton,mutton
-710,Chicken Madrassi Handi,handi,handi
-711,Chicken Supreme Pizza,pizza,pizza
-712,The Original,beef burger,burger
-713,Zinger Burger,chicken burger,chicken burger
-714,Nua Phad King,appetizer,thai
-715,Zinger Stacker,shawarma,chicken burger
-716,Fruit Shake,shake,shake
-717,Tamarind Fish,fish,fish
-718,Tabbouleh,dessert,salad
-719,Fish & Chips,fish,fish
-720,Grilled Mushroom,burger,appetizer
-721,Egg Fried Rice,rice,rice
-722,Red Velvet Latte,frappe,coffee
-723,Green Tea,tea,tea
-724,Mega Zinger Burger,chicken burger,chicken burger
-725,Cajun Chicken pasta,pasta,pasta
-726,Veggie Burger,burger,burger
-727,Chocolate Lover,drink,dessert
-728,Chicken Mayo Paratha,paratha,paratha
-729,Chili Garlic Roll,chicken roll,paratha roll
-730,Moroccan Chicken ,chicken,chicken
-731,Spicy Chicken Ranch Pizza ,pizza,pizza
-732,Tandoori Chargha,chicken roast,chicken roast
-733,Crispy Chicken,chicken,chicken burger
-734,Hot Chocolate,coffee,drink
-735,Chicken Boti,chicken boti,chicken boti
-736,Nuggets,chicken,chicken
-737,Smoked Pin Wheel,pizza,appetizer
-738,Egg Fried Rice,rice,rice
-739,Prawn 9 Lives,prawns,prawns
-740,Swiss Chicken Burger,chicken burger,chicken burger
-741,Fish Fillet Steak,steak,fish
-742,Special Club Sandwich,sandwich,sandwich
-743,Chicken Brain Mix Tawa,masala,chicken
-744,Oreo Cheesecake,cake,shake
-745,Cardamom Tea,tea,tea
-746,Meethi Lassi,lassi,lassi
-747,Mid West Steak,steak,chicken steak
-748,Batair Handi,batair,batair
-749,Kalonji Naan,naan,naan
-750,Chicken Gola Kabab,chicken kabab,chicken kabab
-751,Seekh Kabab Feast Pizza,pizza,pizza
-752,Sweet & Sour Fish,fish,fish
-753,Chicken Tikka Quarter,chicken tikka,chicken tikka
-754,Basket of Fries,fries,fries
-755,Basil Prawns,prawns,prawns
-756,Garlic Mayo Fries,fries,fries
-757,Vanilla Shake,shake,shake
-758,Chicken Cheese Shawarma ,shawarma,shawarma
-759,Fish in Szechuan Sauce,fish,fish
-760,HnD Special Sajji,beef burger,chicken roast
-761,Chicken with Button Mushroom,chicken,chinese
-762,Thai Beef Basil,beef,beef
-763,Chocolate Chip Milkshake,milkshake,milkshake
-764,Kachumer Salad,salad,salad
-765,Super Prawn Star Burger,fish burger,fish burger
-766,Garlic Naan,naan,naan
-767,Hand Breaded Chicken Tender Wrap,wrap,wrap
-768,Chicken Seekh Kabab,chicken kabab,chicken kabab
-769,Lemon Tart,dessert,dessert
-770,Taftan,dessert,naan
-771,Drum Sticks,drum sticks,drum sticks
-772,Caesar Salad,salad,salad
-773,Chicken Chili Dry,chinese,chinese
-774,Special Fruit Juices,fresh juice,fresh juice
-775,Spicy Prawn,pizza,prawns
-776,Pasta Alfredo,pasta,pasta
-777,Dragon Fire,dessert,beef
-778,Beef Chili Dry,beef,chinese
-779,Roghni Naan,naan,naan
-780,Stuffed Chicken Strips with French Fries,appetizer,appetizer
-781,Bacon Bleu Cheese Burger,burger,burger
-782,Chicken Tikka Boti,chicken tikka,chicken boti
-783,Chicken Apple and Pineapple Salad,salad,salad
-784,Special Chowmein,noodles,noodles
-785,Tiger Prawns in Szechuan Sauce,prawns,prawns
-786,Beef Double Kabab Mayo Roll,paratha roll,paratha roll
-787,Thai Fiery Hot Chicken,thai,thai
-788,French Fries,fries,fries
-789,Chicken Manchurian,chinese,chinese
-790,Double Espresso,coffee,coffee
-791,Chargrilled Fish,fish,fish
-792,Shrimp,shrimp,shrimp
-793,Crunchy Chicken Fillet Burger,chicken burger,burger
-794,Stir Fry Prawns with Fresh Basil Sauce,prawns,prawns
-795,Fettuccine Alfredo Pasta,pasta,pasta
-796,Chicken Pita ,chicken,chicken
-797,Chicken Boti,chicken boti,chicken boti
-798,Colombian Medelin,dessert,coffee
-799,Crispy BBQ Wings,chicken wings,chicken wings
-800,Classic Chicken Burger ,chicken burger,chicken burger
-801,Lahori Steamed Chargha,chicken roast,chicken roast
-802,Beijing Beef,chinese,chinese
-803,Mango Sensation Waffles,waffles,waffles
-804,Pepperoni Herb Pizza,pizza,pizza
-805,Cappuccino,coffee,coffee
-806,Malai Boti,chicken boti,chicken boti
-807,Dumplings,dessert,appetizer
-808,Oreo Shake,shake,shake
-809,Mutton Leg Roast,mutton,mutton
-810,Chicken Fajita,pizza,pizza
-811,Fish Chili Dry,fish,fish
-812,American Chopsuey,noodles,noodles
-813,Strawberry Margarita,margarita,margarita
-814,Chicken Pide,chicken,chicken
-815,Pina Colada,drink,drink
-816,Chicken Roll,chicken roll,paratha roll
-817,Thai Stuffed Chili Shrimps,shrimp,shrimp
-818,Mutton Kabab Garlic Mayo Cheese Roll,paratha roll,paratha roll
-819,Blue Lagoon Margarita ,margarita,margarita
-820,Kachumer Salad,salad,salad
-821,Cheesy Garlic Bread,appetizer,appetizer
-822,Vanilla Ice cream shake,ice cream shake,ice cream shake
-823,Sicilian,pizza,pizza
-824,Thai Crispy Beef with Rice,rice,thai curry
-825,Caspian Chicken,chicken,chicken
-826,Royal Honey Gola,gola,gola
-827,Chicken Achari Boti,chicken boti,chicken boti
-828,Chicken Seekh Kabab,chicken kabab,chicken kabab
-829,Iced Macchiato,cold coffee,cold coffee
-830,Chicken Miso,chicken,noodles
-831,Boneless Buffalo Wings,chicken wings,chicken wings
-832,Chicken Black Bean Sauce,chinese,chinese
-833,Caffe Mocha,coffee,coffee
-834,Wok Fried Prawns Green Chili,appetizer,prawns
-835,Cafe Verna,cold coffee,coffee
-836,Fruit Trifle ,dessert,dessert
-837,Fish Sandwich,sandwich,sandwich
-838,Mars Cheesecake,dessert,cake
-839,Black Pepper Chicken ,chinese,chicken gravy
-840,Roots,dessert,detox juice
-841,Beef Pepper Sauce,beef steak,beef steak
-842,Spicy Shawarma Roll,shawarma,shawarma
-843,Batair Handi,batair,batair
-844,Achar,chicken gravy,salad
-845,Chicken in Lemon Sauce,chicken,chinese
-846,Stuffed Mushrooms,appetizer,appetizer
-847,Stir Fry Prawns with Fresh Basil Prawns,prawns,prawns
-848,Russian Salad,salad,salad
-849,Sliced Beef with Onion ,beef,beef
-850,Lemon Peanut Butter Ball,drink,dessert
-851,Caramel Coffee Smoothie Shake,ice cream shake,ice cream shake
-852,Sweet and Sour Chicken,chinese,chinese
-853,Red Bull Margarita,margarita,margarita
-854,Kheer,dessert,dessert
-855,Special Tandoori Paratha,paratha,paratha
-856,Chicken Special Roll,chicken roll,paratha roll
-857,Soft Drink,drink,drink
-858,HnD Special Rice,rice,rice
-859,Greek Salad,salad,salad
-860,Club Sandwich,sandwich,sandwich
-861,Fish Manchurian,fish,fish
-862,Charcoal Grilled Chicken Fillet Burger ,chicken burger,chicken burger
-863,Chicken Tawa Boneless,chicken,masala
-864,Beef Steaks with Tarragon Sauce,beef,beef steak
-865,Dragon Fire Soup,soup,soup
-866,Chicken Channa,chicken,chicken gravy
-867,Pina Colada,drink,drink
-868,Fried Shrimp Balls,shrimp,shrimp
-869,Chicken With Black Pepper,chinese,chinese
-870,Jasmine Tea,tea,tea
-871,Chicken Cold Sandwich,sandwich,sandwich
-872,Original Afghani Boti,chicken boti,chicken boti
-873,Cravea Fries,fries,fries
-874,Special Tutti Fruiti Shake,milkshake,shake
-875,Chicken Lasagna,pasta,pasta
-876,Special Cheese Naan,naan,naan
-877,Stagioni Pizza,pizza,pizza
-878,Chicken Vegetable ,chinese,chicken
-879,Party Combination,chicken,chicken
-880,Vegetable Chowder Soup,soup,soup
-881,Special Cheese Kabab,chicken kabab,bbq
-882,Fish with Tamarind Sauce,fish,fish
-883,Tandoor Special Taka Tak,chicken gravy,masala
-884,Coco Loco,drink,cold coffee
-885,Sweet & Sour Fish,fish,fish
-886,Beef French Onion Steak,beef steak,beef steak
-887,Mineral Water,drink,drink
-888,Fresh Lime with 7up,drink,drink
-889,Funghi,pizza,pizza
-890,Chicken Fajita Wrap,wrap,wrap
-891,Beef Chatpat Roll,paratha roll,paratha roll
-892,Spring Rolls,appetizer,appetizer
-893,Chicken Garlic,chinese,chinese
-894,Mickey Burger,burger,burger
-895,Mongolian Beef,beef,beef
-896,Pan Seared Chicken in Mushroom Sauce,chicken steak,chicken
-897,Spaghetti Bolognese ,noodles,pasta
-898,Frisco Melt,sandwich,sandwich
-899,Special Tandoor Paratha,paratha,paratha
-900,Special Jumbo Prawns ,prawns,prawns
-901,Oatmeal Cookie,dessert,dessert
-902,Shawarma Platter,shawarma,shawarma
-903,Raita,salad,salad
-904,Roghni Naan,naan,naan
-905,1/2 Chicken,chicken,chicken
-906,Peppers Pepperoni Burger,burger,burger
-907,Mint Chocolate MilkShake,milkshake,milkshake
-908,Pepperoni,pizza,pizza
-909,White Handi,coffee,handi
-910,Zucchini Puff Salad ,salad,salad
-911,Rice Bowl Special Chowmein,rice,noodles
-912,Chicken Nuggets,chicken,chicken
-913,Fried Cheese,appetizer,appetizer
-914,Chicken Pineapple Salad,salad,salad
-915,Mango Shake,milkshake,shake
-916,Crispy Fried Beef,beef,beef
-917,Crispy Juicy Wings,chicken wings,chicken wings
-918,Mexican Chicken,chicken,sandwich
-919,Chicken Chili Dry,chinese,chinese
-920,Fish Ginger,fish,fish
-921,Italian Chicken with Pesto Fettuccini,panini,pasta
-922,Hot Wings,chicken wings,chicken wings
-923,Shahjahan Special Fried Rice,rice,rice
-924,Chicken Asparagus Soup,soup,soup
-925,Mexican Steak,steak,steak
-926,Strawberry Patch Smoothie,smoothie,smoothie
-927,Chicken Fajita,pizza,chicken
-928,Morning Green Glory,detox juice,detox juice
-929,Fish in Garlic Sauce,fish,fish
-930,Roma Style Fish,fish,fish
-931,Chicken Reshmi Kabab,chicken kabab,chicken kabab
-932,Chicken Fajita,pizza,chicken
-933,Chicken Makai Boti Pizza,chicken boti,pizza
-934,Milk Machiato,dessert,coffee
-935,Chicken Fajita Pizza,pizza,pizza
-936,Mineral Water,drink,drink
-937,Chicken with Garlic Mushroom Sauce,chicken steak,chinese
-938,Unani Karahi,karahi,karahi
-939,Mix Platter,bbq,bbq
-940,Beef Fajita Sizzler,beef,beef
-941,Zinger Shawarma Roll,shawarma,shawarma
-942,Chocolate Shake,shake,shake
-943,Jalapeno Feast Burger ,burger,burger
-944,Chicken Paratha Platter,paratha,paratha roll
-945,Mineral Water,drink,drink
-946,Pistachio Ice Cream Shake,ice cream shake,ice cream shake
-947,Lava Cake,cake,cake
-948,Peach Orange,drink,drink
-949,Frappes,dessert,cold coffee
-950,Desi Chooza Masala,masala,chicken
-951,Fresh Salad,salad,salad
-952,Philly Cheese Steak Sandwich,sandwich,sandwich
-953,Chick & Chips,chicken,chicken
-954,Chicken Shashlik,chinese,chinese
-955,Greek Salad with Shrimps,shrimp,salad
-956,Chicky Supreme Hearts,burger,pizza
-957,Kung Pao Chicken,chinese,chinese
-958,Four Cheese Pizza,pizza,pizza
-959,Chicken Tenders ,chicken,chicken
-960,Beef Kabab,beef kabab,beef kabab
-961,Chicken Karahi,karahi,karahi
-962,Cold Coffee,cold coffee,drink
-963,Chicken Caesar Salad,salad,salad
-964,Beef Shogayaki,beef,japanese
-965,Toblerone Cake,cake,cake
-966,Lahmacun,dessert,chicken
-967,Chicken Wontons,chicken,chicken
-968,Prawn Cashew Nut with Rice,prawns,thai curry
-969,Beef Chowmein,noodles,noodles
-970,Pepperoni Pizza,pizza,pizza
-971,Banana Ice Cream Shake,ice cream shake,ice cream shake
-972,Mochacinno,dessert,coffee
-973,Crispy Fish Burger,fish burger,fish burger
-974,Nutty Cinnamon ,coffee,coffee
-975,Black Pepper Burger,burger,burger
-976,Classic Mutton Karahi,karahi,mutton
-977,Chicken Qeema Fry,qeema,qeema
-978,Beef and Tomato Chowmein,noodles,noodles
-979,Pina Colada,drink,drink
-980,Chicken Seekh Kabab Masala,masala,masala
-981,Twix,dessert,shake
-982,Kit Kat Cake,cake,cake
-983,Anday Channay,chaat,breakfast
-984,Clear Chicken & ginger Vegetables Soup,chicken gravy,soup
-985,Khao Suey,rice,noodles
-986,Iced Caffe Latte,cold coffee,cold coffee
-987,Sicilian Chicken Pizza,pizza,pizza
-988,Grilled Fita Tikka Sandwich,sandwich,sandwich
-989,Norwegian Pink Slamon,seafood,seafood
-990,Lemon Tea,tea,tea
-991,Creamy Chicken Enchilada,burrito,chicken
-992,Margarita,margarita,drink
-993,Spicy Popcorn Chicken,popcorn,chicken
-994,Palak Paneer Handi,handi,vegetables
-995,Crispy Chicken Junior,chicken,chicken
-996,Stuffed Chicken Roulade with Cheese,chicken,chicken
-997,Prawn on Iceberg Bites Salad,prawns,salad
-998,Chota Paya,dessert,breakfast
-999,Gulnar Chicken,chicken,chicken gravy
-1000,Finger Fish,fish,fish
-1001,Vegetable Fried Rice,rice,rice
-1002,Degi Steam Roast,chicken roast,chicken roast
-1003,Classic Margarita Pizza,margarita,pizza
-1004,Greek Salad,salad,salad
-1005,Chicken Green Chili,chicken gravy,chicken gravy
-1006,Creamy Chicken Broccoli Soup,soup,soup
-1007,LA Badmash Burger,burger,chicken burger
-1008,Prawn Fried Rice,rice,rice
-1009,BBQ Burger,beef burger,burger
-1010,Chicken Grill Burger,chicken burger,chicken burger
-1011,Willy Wonk,dessert,dessert
-1012,Red Velvet Latte,frappe,coffee
-1013,Chicken Lasagna,pasta,pasta
-1014,Almond Shake,milkshake,shake
-1015,Vegetable Noodle Soup,soup,soup
-1016,Fried Spring Chicken,appetizer,chinese
-1017,Egg Fried Rice,rice,rice
-1018,Deal 2,chicken roast,chicken roast
-1019,Pasta,pasta,pasta
-1020,Fish & Chips,fish,appetizer
-1021,Sicilia Pizza,pizza,pizza
-1022,Rajhastani Tikka,chicken tikka,chicken tikka
-1023,Chicken Manchurian ,chinese,chinese
-1024,Sooper Zinger,shawarma,chicken burger
-1025,Beef Pepperoni,beef,pizza
-1026,Crunchy California,pizza,japanese
-1027,Vege Spud,chicken,vegetables
-1028,Vanilla Mousse Cake,cake,cake
-1029,Ice Cream,ice cream,ice cream
-1030,Black Pepper,appetizer,chinese
-1031,Thai Szechuan Chicken with Garlic Rice,thai curry,thai curry
-1032,Wild Berry Desire Frappe,drink,frappe
-1033,Nutella Crumble Bar,dessert,dessert
-1034,Combo Gola,gola,gola
-1035,Chicken Fajita Sandwich,sandwich,sandwich
-1036,London's Classic Club Sandwich,sandwich,sandwich
-1037,Roasted Chicken Sandwich,sandwich,sandwich
-1038,Russian Salad,salad,salad
-1039,Fine Special Chowmein,noodles,noodles
-1040,Regular Iced Tea,ice tea,ice tea
-1041,Black Pepper Steak,steak,steak
-1042,Chicken Boneless Lime Handi,handi,handi
-1043,Fresh Salad,salad,salad
-1044,Espresso Fries ,fries,fries
-1045,Pina Colada,drink,drink
-1046,Mexican Burger,chicken burger,burger
-1047,Pepperoni Miele Caldo,pizza,pizza
-1048,Natural Popcorn,popcorn,popcorn
-1049,Singapore Prawns,prawns,prawns
-1050,Finger Chicken,chicken,chicken
-1051,Cappuccino,coffee,coffee
-1052,Chocolate Fudge Brownie Skillet,cake,dessert
-1053,Chicken Cheese Paratha Roll,chicken roll,paratha roll
-1054,Mayo Fries,fries,fries
-1055,Special Chowmein,noodles,noodles
-1056,Chicken Lover,chicken,pizza
-1057,Taiperi Szechuan Soup,soup,soup
-1058,Blueberry Cheese Cake,cake,cake
-1059,Adana BBQ Chicken Roll,paratha roll,paratha roll
-1060,Masala Fried Rice,rice,rice
-1061,Grilled Fish Tikka,fish,fish
-1062,Chinese Kofta Chicken,chinese,chinese
-1063,Bounty,dessert,shake
-1064,Chicken Shashlik,chinese,chinese
-1065,Stuffed Baked Potato,appetizer,appetizer
-1066,Vanilla Ice Cream,ice cream,ice cream
-1067,Pina Colada,drink,drink
-1068,Grilled Jumbo Garlic Prawns,prawns,prawns
-1069,Chocolate Peanut Butter Sundae,ice cream,dessert
-1070,Vegetable Chowmein,noodles,noodles
-1071,Bell Pepper Shrimps ,shrimp,shrimp
-1072,Highfire Boneless Wings,chicken wings,appetizer
-1073,Mushroom and Swiss Angus,beef burger,beef burger
-1074,Sindhi Handi Biryani,biryani,biryani
-1075,Iced Latte,cold coffee,cold coffee
-1076,Pop Soda,drink,drink
-1077,Chicken Shawarma Pizza,shawarma,pizza
-1078,Zinger Shawarma,shawarma,shawarma
-1079,Hot n Spicy Sandwich ,sandwich,sandwich
-1080,Paper Chicken,chicken,chicken
-1081,Calamari Fritti,calamari,appetizer
-1082,Ice Tea,ice tea,ice tea
-1083,Tom Yum Chicken,soup,noodles
-1084,Mutton Chops,mutton,mutton
-1085,Chicken Burger,chicken burger,chicken burger
-1086,Middle Eastern Container,chicken,chicken
-1087,Nutella Cheesecake,cake,cake
-1088,Chicken Tikka,chicken tikka,sandwich
-1089,Kasturi Cheese Roll,paratha roll,paratha roll
-1090,The BBQ Ued Burger,beef burger,burger
-1091,Mozzarella Sticks,appetizer,appetizer
-1092,Arrabiata Pizza,pizza,pizza
-1093,Qeema Special Naan,naan,naan
-1094,Cheesy Hearts,appetizer,pizza
-1095,Mayonese Wings,chicken wings,chicken wings
-1096,Cappuccino ,coffee,coffee
-1097,Grilled Sicilian Chicken,chicken steak,chicken
-1098,Garlic Mayo Wings,chicken wings,chicken wings
-1099,Egg Fried Rice,rice,rice
-1100,Caribbean Grilled Chicken,chicken steak,chicken burger
-1101,Chicken Poppers,chicken,appetizer
-1102,Hot & Sour Soup,soup,soup
-1103,Wicked Blend,drink,pizza
-1104,Nutella French Toast,breakfast,breakfast
-1105,Chicken Tikka Plate,chicken tikka,chicken tikka
-1106,Strawberry Chocolate Cheesecake,cake,cake
-1107,Crispy Fish Burger,fish burger,fish burger
-1108,Caesar Salad Grilled Chicken ,salad,salad
-1109,Mutton Chanp Masala,mutton,masala
-1110,Thai Golden Prawns,prawns,prawns
-1111,Chicken Red Curry with Rice,chinese,thai curry
-1112,Veranda's Blue and Fruit Margarita ,margarita,margarita
-1113,Rice Bowl Special Crispy Beef,rice,beef
-1114,Hot & Spicy Prawns,seafood,prawns
-1115,Cheesy Beef & Egg Hash,beef,breakfast
-1116,Stuffed Breast Burger,chicken burger,chicken burger
-1117,Moroccan Chicken,chicken,chicken gravy
-1118,Sekenjabin,dessert,lemonade
-1119,Vegetarian Chopsuey,noodles,noodles
-1120,Espetada Carnival,drink,chicken
-1121,Special Sandwich,sandwich,sandwich
-1122,Oreo Shake,shake,shake
-1123,Kentucky Burger ,burger,chicken burger
-1124,Fish Crackers,appetizer,appetizer
-1125,Chicken Cheese Burger,chicken burger,chicken burger
-1126,Chicken Jalfrezi,handi,handi
-1127,Pawns Tempura,japanese,appetizer
-1128,Roti,naan,naan
-1129,Shojin Tempura Roll,japanese,japanese
-1130,Chicken Fajita,pizza,pizza
-1131,Special Tom Yam Gai,soup,soup
-1132,Molten Lava,dessert,dessert
-1133,Beef Mayo Cheese Roll,paratha roll,paratha roll
-1134,Chicken With Almonds,chinese,chinese
-1135,Iced Latte,cold coffee,drink
-1136,Masala Fries,fries,fries
-1137,Roast Beef,sandwich,beef steak
-1138,Adrak Chai,tea,tea
-1139,Shrimp Crunch,shrimp,shrimp
-1140,Chicken Karahi,karahi,karahi
-1141,Blue Colada,drink,drink
-1142,Meetha Paratha,paratha,paratha
-1143,Caesar Salad,salad,salad
-1144,Orange Ice Cream Shake,ice cream shake,ice cream shake
-1145,Milanese Crispy Chicken Burger,chicken burger,chicken burger
-1146,Classic Shrimp,shrimp,sandwich
-1147,Chocolate Brownie Sizzler,dessert,dessert
-1148,Chicken Macaroni ,pasta,pasta
-1149,BBQ Burger,beef burger,burger
-1150,Espresso Shot,coffee,coffee
-1151,Bunless Burger,burger,burger
-1152,Chocolate Devotion,dessert,dessert
-1153,Cilantro Chili Prawns,prawns,prawns
-1154,Chicken Basil Sandwich,sandwich,sandwich
-1155,Chicken Piece,bbq,chicken
-1156,Green Tea,tea,tea
-1157,Pasta with Bechamel Sauce,pasta,pasta
-1158,Mutton Sarhadi Karahi,karahi,karahi
-1159,Garlic Naan,naan,naan
-1160,Mushroom & Cheddar ,beef burger,burger
-1161,Mochaccino ,coffee,coffee
-1162,Chicken Reshmi Seekh Kabab,chicken kabab,chicken kabab
-1163,Cookie Hot Chocolate,drink,dessert
-1164,Chicken Hari Bhari Boti,chicken boti,chicken boti
-1165,Chicken Supreme Teriyaki,pizza,japanese
-1166,Creamy Garlic Fettuccine,pasta,pasta
-1167,Szechuan Soup,soup,soup
-1168,Chicken Rajhastani Tikka Handi,handi,handi
-1169,Sliced Beef with Mushroom and Vegetables,beef,beef
-1170,Americano,coffee,coffee
-1171,Strawberry And Cream Frappe,frappe,frappe
-1172,Prawn with Green Chili Dry,prawns,prawns
-1173,Mutton Seekh Kabab,mutton kabab,mutton kabab
-1174,American Fillet Steak Panini,beef steak,sandwich
-1175,Mini Chicken Drum Stick,drum sticks,drum sticks
-1176,Fish Chili Dry,fish,fish
-1177,Chicken with Almonds,chinese,chinese
-1178,Lychee Daiquiri ,drink,drink
-1179,Special Burger,burger,burger
-1180,Chicken Cashewnut,thai curry,chinese
-1181,Prawns Tempura,prawns,prawns
-1182,Shrimp Fried Rice,rice,rice
-1183,Fine Special Kabab,chicken kabab,bbq
-1184,Hawaiian Chicken Pizza,pizza,pizza
-1185,The Emperor,dessert,beef burger
-1186,Chicken Chili Dry,chinese,chinese
-1187,Mint Raita,salad,salad
-1188,Prawn with Garlic Sizzling,prawns,prawns
-1189,Thai Coconut Chicken,thai curry,thai curry
-1190,Philly Chicken Steak Sandwich,sandwich,sandwich
-1191,Prawn Chopsuey,noodles,noodles
-1192,Cheesy Rain,appetizer,pizza
-1193,Shahanshahi Naan,naan,naan
-1194,Beef Black Pepper Steak,beef steak,beef steak
-1195,Fried Chicken,chicken,chicken
-1196,Beef Cheese Roll,paratha roll,paratha roll
-1197,Wasabi Prawn,seafood,prawns
-1198,Achari Boti,chicken boti,chicken boti
-1199,Lemon Grass Twist,drink,drink
-1200,Pla Phad Qen Chai,tea,fish
-1201,Special Khadda Kabab,chicken kabab,lamb
-1202,Taquitos ,dessert,chicken
-1203,Moroccan Chicken,chicken,chicken
-1204,Special Garlic Chicken,chinese,chicken gravy
-1205,Chicken Corn,soup,soup
-1206,Cheesy Italian Breakfast Bowl,breakfast,breakfast
-1207,Fettuccine Alfredo Pasta,pasta,pasta
-1208,Sweet & Sour Chicken,chinese,chinese
-1209,Chana Chaat,chaat,chaat
-1210,Mushroom Steak,steak,steak
-1211,Super House Special Beef Steak,beef steak,beef steak
-1212,Chicken Piece,bbq,chicken
-1213,Carnivorous,dessert,pizza
-1214,Kabsa Rice,rice,rice
-1215,Cappuccino ,coffee,coffee
-1216,Buffalo Chicken Wings,chicken wings,chicken wings
-1217,Hot and Spicy Rice,rice,rice
-1218,Fish And Chips,fish,fish
-1219,Shrimp Fried Rice,rice,rice
-1220,Mediterranean Chicken,chicken,chicken
-1221,Caesar Salad ,salad,salad
-1222,Flamed Grilled Jalapeno Burger,burger,burger
-1223,Haiderabadi Gol Gappay,chaat,chaat
-1224,Fried Dhaka Wings,chicken wings,chicken wings
-1225,Garlic Chicken,chinese,chinese
-1226,Fish Milanese,fish,fish
-1227,Tum Yum Goong Soup,soup,soup
-1228,Pataka Beef Kabab,beef kabab,beef kabab
-1229,Vanilla Shake,shake,shake
-1230,Vanilla Crunch Milkshake,milkshake,milkshake
-1231,BBQ Sauce,appetizer,appetizer
-1232,Blueberry Ice Roll,ice cream,ice cream
-1233,Strawberry Lassi,lassi,lassi
-1234,Peach Melba,dessert,dessert
-1235,Nutella Cake,cake,dessert
-1236,Stuffed Chicken Strips,chicken,chicken
-1237,Mutton Karahi,karahi,karahi
-1238,Butterfly Tial Prawns,prawns,prawns
-1239,Whopper JR Burger,burger,burger
-1240,Spicy Fish Spud,fish,fish
-1241,Boiled Rice,rice,rice
-1242,Crispy Chicken Wings,chicken wings,chicken wings
-1243,Carnivore Pizza,pizza,pizza
-1244,Finger Fish,fish,fish
-1245,Ginoan Pepperoni Pizza,pizza,pizza
-1246,Minicini/Babycino,dessert,coffee
-1247,Mash Daal,vegetable curry,vegetables
-1248,Fire Hot Burger,chicken burger,burger
-1249,Mozzarella Sticks,appetizer,appetizer
-1250,Bright Beets,detox juice,detox juice
-1251,Russian Salad,salad,salad
-1252,Lemon Chillatah,drink,drink
-1253,Slice Juice,juice,juice
-1254,Pepperoni Cheese Paratha,paratha,paratha
-1255,Chunky Pizza,pizza,pizza
-1256,Chicken Tikka Piece,chicken tikka,chicken tikka
-1257,Crispy Tower Burger,chicken burger,chicken burger
-1258,Bangkok Prawns,prawns,prawns
-1259,Opium Garlic Bread,appetizer,appetizer
-1260,Chicken Masala Rice,rice,rice
-1261,Namkeen Seekh Tikka,chicken tikka,mutton
-1262,Super Milano Pizza,pizza,pizza
-1263,Atlanto Special,pizza,pasta
-1264,French Fries,fries,fries
-1265,Jalapeno Burger,burger,chicken burger
-1266,Sriracha Basil Chicken ,thai curry,thai curry
-1267,Tawa Chicken Shahajani,chicken,masala
-1268,Thai Beef with Broccoli and Mushrooms,beef,thai curry
-1269,Amigos Special,pizza,fries
-1270,Smoke Beef Sausages,beef,beef
-1271,Cadbury,dessert,shake
-1272,Heart Chicken Burger,chicken burger,chicken burger
-1273,Hawaiian Punch Pizza,pizza,pizza
-1274,Chicken Pear Rocket Salad,salad,salad
-1275,Chocolate Orange Truffle,tea,tea
-1276,Green Tea,tea,tea
-1277,Chicken Tikka Pizza,pizza,pizza
-1278,Mutton Qeema Fry,mutton,qeema
-1279,Zinger Paratha,paratha,paratha
-1280,Italian Chicken Salad ,salad,salad
-1281,Yang Chu Chicken,chicken,chicken gravy
-1282,Burnet Toffee Caramel Frappe,cold coffee,frappe
-1283,Russian Salad,salad,salad
-1284,Lemon Mint,drink,lemonade
-1285,Rodeo Glory,dessert,beef burger
-1286,Chicken Shawarma,shawarma,shawarma
-1287,Chicken with Green Chilies Dry,chinese,chicken gravy
-1288,Mexican Tortilla Salad,salad,salad
-1289,Spicy Thai Noodles,noodles,noodles
-1290,Special Beef Shawarma Cheese Platter,shawarma,shawarma
-1291,Hot Fiery Sandwich,fries,sandwich
-1292,Spicy Beef Salad,salad,salad
-1293,X2 Szechuan Soup,soup,soup
-1294,Iskenderi Seekh Kabab,chicken kabab,mutton kabab
-1295,Garlic Naan,naan,naan
-1296,KBBQ Super Pizza,pizza,pizza
-1297,Creamy Pasta,pasta,pasta
-1298,The Famous 19B,dessert,soup
-1299,Fine Special Karahi,karahi,karahi
-1300,Chicken Mushroom Pasta,pasta,pasta
-1301,Crispy Fried Chicken,chicken,chicken
-1302,Kinder Burger,burger,burger
-1303,White Chocolate Mocha,coffee,coffee
-1304,El Classico Chicken and Cheese Burger,chicken burger,chicken burger
-1305,Dark Chocolate Live Ice Cream,ice cream,ice cream
-1306,Sweet & Sour Shrimp Balls,shrimp,shrimp
-1307,Arcadian Special Crispy Chicken,chicken,thai curry
-1308,Magic Shroom Burger Combo,burger,burger
-1309,Honey Chicken Wings,chicken wings,chicken wings
-1310,PERi-PERi Sachet,chicken,appetizer
-1311,Chocolate Syrup Cake,cake,cake
-1312,Philly Cheese Steak Panini,panini,panini
-1313,Gali Bites,appetizer,appetizer
-1314,Carmel Macchiato,coffee,coffee
-1315,Tawa Chops,mutton,mutton
-1316,Mutton Chanp Masala,mutton,mutton
-1317,Grilled Spicy Sriracha Prawns,seafood,prawns
-1318,Sliced Beef with Chilies and Vegetables,beef,beef steak
-1319,Maghaz Masala,drink,masala
-1320,Hot Sauce Chicken ,chinese,chicken gravy
-1321,BB Special Jumbo Wings,chicken wings,chicken wings
-1322,Deep Fried Chocolate Bars,dessert,dessert
-1323,Soft Drink,drink,drink
-1324,Blueberry Cupcake,dessert,dessert
-1325,Southwestern Steak,steak,steak
-1326,Green Curry ,thai curry,chinese
-1327,Gaeng Pad Gai,noodles,chinese
-1328,Flavour's Special Salad,salad,salad
-1329,Zinger Shawarma,shawarma,shawarma
-1330,BBQ Roll,appetizer,paratha roll
-1331,Thai Spicy Chowmein,noodles,noodles
-1332,Chicken Ginger,chicken gravy,chicken gravy
-1333,Puri Paratha,paratha,paratha
-1334,Broccoli Chicken ,chicken,thai curry
-1335,Special Tom Yam Goong,soup,soup
-1336,Tarka Moong Daal,vegetable curry,vegetables
-1337,Chicken Karahi,karahi,karahi
-1338,Thela Special Mutton Karahi,karahi,karahi
-1339,Egg Fritatta,breakfast,breakfast
-1340,Salsa Sandwich,sandwich,sandwich
-1341,Chicken Shashlik,chinese,chinese
-1342,White Mocha,coffee,coffee
-1343,Banana And Nutella,dessert,dessert
-1344,Chicken Malayi Boti,chicken boti,chicken boti
-1345,American Chopsuey ,noodles,noodles
-1346,Chicken Noodle Soup,soup,soup
-1347,Desi Dahi Bhallay,chaat,salad
-1348,Chicken Supreme Burger,chicken burger,chicken burger
-1349,Macaroni Salad,salad,salad
-1350,Fresh Lime with Water,drink,drink
-1351,Garlic Bread,appetizer,appetizer
-1352,Thai Red Bean Chicken with Garlic Rice,thai curry,thai curry
-1353,Margherita Pizza,pizza,pizza
-1354,Zinger Cheese Shawarma,shawarma,shawarma
-1355,Spicy Tuna Maki,japanese,japanese
-1356,Chicken Tempura,chicken,chicken
-1357,Grilled Jumbo Prawns ,prawns,seafood
-1358,No Bones (about it) Platter,appetizer,chicken
-1359,Vanilla Dream,ice cream,drink
-1360,Chicken Cashew Nut,thai curry,chinese
-1361,Hot Sauce,appetizer,appetizer
-1362,Chicken Kasturi Boti,chicken boti,chicken boti
-1363,Tuscan Chicken Pasta,pasta,pasta
-1364,Peri Peri Chicken,chicken,chicken
-1365,Cheese Burger,burger,burger
-1366,Fish n Chips,fish,fish
-1367,Chicken with Green Pepper,chicken gravy,chicken gravy
-1368,Beef Burger,beef burger,beef burger
-1369,HnD Special Ice Cream,cold coffee,ice cream
-1370,Biryani Double Piece,biryani,rice
-1371,Organic Breakfast,breakfast,tea
-1372,Club Sandwich,sandwich,sandwich
-1373,Green Tea,tea,tea
-1374,Special Rice,rice,rice
-1375,Grilled Beef Mexican Steak,beef steak,beef steak
-1376,Kung Pao Chicken,chinese,chinese
-1377,Kit Kat Cake,cake,cake
-1378,Royal Super Club Triple Decker Burger,burger,burger
-1379,Green Pepper Chicken,chicken gravy,chicken
-1380,Mutton Karahi,karahi,karahi
-1381,Crispy Fried Beef,beef,beef
-1382,Chicken Tender Strips,chicken,chicken
-1383,Sea Food Chowder,soup,soup
-1384,Crispy Burger,burger,chicken burger
-1385,Chicken Mushroom Noodles Soup,soup,soup
-1386,Fish in Tamarind & Chili Sauce,fish,fish
-1387,Club Sandwich,sandwich,sandwich
-1388,Tandoori Paratha,paratha,paratha
-1389,Murgh Madras,chicken,chicken
-1390,Mochaccino ,coffee,coffee
-1391,Chocolate Muffin,dessert,dessert
-1392,Classic Garlic Chicken Sandwich,sandwich,sandwich
-1393,Special Turkish Rice,rice,rice
-1394,Mango,drink,ice cream
-1395,BBQ Chicken,chicken,pizza
-1396,Cappuccino,coffee,coffee
-1397,Chicken Tikka Pizza,pizza,pizza
-1398,Coffee Gone Nuts-ella,coffee,coffee
-1399,Kasoori Falooda,dessert,dessert
-1400,Strawberry Shake,shake,shake
-1401,Rigatoni Pasta,pasta,pasta
-1402,Fresh Salad,salad,salad
-1403,Chicken Shashlik,chinese,chinese
-1404,Chicken Boti,chicken boti,chicken boti
-1405,Fish in Lime Sauce,fish,fish
-1406,Chicken Fried Rice,rice,rice
-1407,Salmon Maki,japanese,japanese
-1408,Caesar Salad,salad,salad
-1409,Fish Tikka Wrap,wrap,wrap
-1410,Chicken Palak,chicken,chicken
-1411,Jumbo Chicken,chicken,chicken
-1412,Whole Mutton Handi,handi,handi
-1413,Mutton White Karahi,mutton,karahi
-1414,Fish & Chips,fish,fish
-1415,Veri Berry & Strawberry Ice Roll,ice cream,ice cream
-1416,Akbari Murgh Curry,chicken gravy,chicken gravy
-1417,Mozzarella Cheese Sticks,appetizer,appetizer
-1418,Chicken Strips,chicken,chicken
-1419,Cherry Blossom Roll,chicken roll,japanese
-1420,Egg Fried Rice,rice,rice
-1421,Szechuan Soup,soup,soup
-1422,Fine Special Soup,soup,soup
-1423,Masala Rice,rice,rice
-1424,Beef Kabab Garlic Mayo Roll,paratha roll,paratha roll
-1425,Keema Fry,appetizer,chicken
-1426,Chicken Cheese Burger,chicken burger,chicken burger
-1427,Choo Chee Goong,seafood,prawns
-1428,Euro,pizza,pizza
-1429,One Day Detox,drink,detox juice
-1430,Fish Wrap,wrap,wrap
-1431,French Fries,fries,fries
-1432,Opium Aromatic Ginger Rice,rice,rice
-1433,Roasted Beef Panini,panini,panini
-1434,Chicken Madrasi Handi,handi,handi
-1435,Chicken Roll,chicken roll,paratha roll
-1436,Fish Pizza Naan,naan,naan
-1437,Vegetable Fried Rice,rice,rice
-1438,Alaskan Crabstick,dessert,japanese
-1439,Chicken Chili Dry,chinese,chinese
-1440,Special Eight Treasure Fried Rice,rice,rice
-1441,Chicken HP Roll,chicken roll,paratha roll
-1442,Mini Drumsticks,drum sticks,drum sticks
-1443,Khoya Paratha,paratha,paratha
-1444,Chicken Cheese Roll,paratha roll,paratha roll
-1445,Chicken Shawarma,shawarma,shawarma
-1446,Cream Machiatto,coffee,coffee
-1447,Steamed Wontons ,appetizer,appetizer
-1448,Hot Garlic Tiger Prawns,prawns,prawns
-1449,Caramel Cold Coffee,cold coffee,cold coffee
-1450,Beef Burger,beef burger,beef burger
-1451,Banana Bread,dessert,dessert
-1452,Chicken Vegetable Soup,soup,soup
-1453,Sweet & Sour Prawns,prawns,prawns
-1454,Butlers Signature Sundae,burger,dessert
-1455,Unagi Sushi,japanese,japanese
-1456,Margarita,margarita,pizza
-1457,Beef Burger,beef burger,beef burger
-1458,Hunter Beef Wrap,beef wrap,wrap
-1459,Chicken with Almonds,chinese,chinese
-1460,Black Pepper Prawns,prawns,prawns
-1461,Sliced Beef Vegetable Soup,soup,soup
-1462,Chinese Chopsuey,noodles,noodles
-1463,Thai Soup,soup,soup
-1464,Thick Shake,shake,shake
-1465,Sprinder Berry Drink,drink,drink
-1466,Spicy Wings,chicken wings,chicken wings
-1467,Chicken Sliders,chicken,chicken
-1468,Zinger Burger,chicken burger,chicken burger
-1469,Pepper Steak,steak,chicken steak
-1470,Peshawari Chicken Karahi,karahi,karahi
-1471,Pepperoni Pizza,pizza,pizza
-1472,Veggie Lover Pizza,pizza,pizza
-1473,Beef with Garlic Sauce,beef,chinese
-1474,Garlic Mayo Fries,fries,fries
-1475,Jamaican Spice,pizza,pizza
-1476,Parmesan Spaghetti (Vegetarian),noodles,noodles
-1477,Chili Sweet & Sour Fish,fish,fish
-1478,Caramel Coffee,coffee,coffee
-1479,Banana Shake,shake,shake
-1480,Chicken Tikka Boti,chicken tikka,chicken boti
-1481,Fajita Wings,chicken wings,chicken wings
-1482,Ras Malai,dessert,dessert
-1483,Crisper Wrap,wrap,wrap
-1484,Fresh Lime,drink,drink
-1485,Cheese Naan,naan,naan
-1486,Cheese Kabab Roll,paratha roll,paratha roll
-1487,Chocolate Tart,dessert,dessert
-1488,Gurda Chanp Masala,masala,masala
-1489,Afghani Tikka,chicken tikka,pizza
-1490,Cinnabon Stix,dessert,dessert
-1491,French Onion Steak,steak,steak
-1492,Red Snapper Katsu Curry,fish,seafood
-1493,Rib Eye Steak,steak,steak
-1494,Thai Chicken Green Curry,thai curry,thai curry
-1495,Saada Naan,naan,naan
-1496,Chicken Manchurian,chinese,chinese
-1497,Pina Colada,drink,drink
-1498,Chicken Chili Dry,chinese,chinese
-1499,Afghani Chicken Boti,chicken boti,chicken boti
-1500,Mozzarella Sticks,appetizer,appetizer
-1501,Pineapple Juice,juice,juice
-1502,Mutton Chanps,mutton,mutton
-1503,Grilled Chicken Salad,salad,salad
-1504,Romana Pizza,pizza,pizza
-1505,Salted Caramel Cake,cake,cake
-1506,Sliced Beef with Vegetables,beef,beef
-1507,Puri Paratha,paratha,paratha
-1508,Chicken Malai Boti Cheese Sandwich,sandwich,sandwich
-1509,Chicken Mushroom,chicken,soup
-1510,Chicken Parmigiana Pasta,pasta,pasta
-1511,Spicy BBQ Chicken Pizza,pizza,pizza
-1512,Steam Rice,rice,rice
-1513,Stuffed Mushrooms with Herb Cheese,appetizer,appetizer
-1514,Mint Margarita,margarita,margarita
-1515,New York Cheesecake ,cake,cake
-1516,Chicken Super Supreme Pizza,pizza,pizza
-1517,Hunan Style Fried Chicken Wontons,chicken,chicken
-1518,Specialty Coffee,coffee,coffee
-1519,Soft Drink,drink,drink
-1520,Chicken Madrasi Handi,handi,handi
-1521,Finger Chips,vegetables,fries
-1522,Mint Sauce,salad,salad
-1523,Mint Margarita,margarita,drink
-1524,Fruit Salad,salad,salad
-1525,Double Decker,dessert,burger
-1526,Espresso Fredo,coffee,cold coffee
-1527,Molten Lava Cake,cake,cake
-1528,Beef Behari Roll,paratha roll,paratha roll
-1529,Saddle Prawns,prawns,prawns
-1530,Moutable,dessert,arabic
-1531,Red Velvet Cupcake,dessert,dessert
-1532,Red Velvet Cupcake,dessert,dessert
-1533,Burrito,beef,burrito
-1534,Fried Chicken Wings,chicken wings,chicken wings
-1535,Chicken Behari Boti,chicken boti,chicken boti
-1536,Peach Orange,drink,drink
-1537,Norwegian Salmon,japanese,fish
-1538,Chicken Pulao,rice,rice
-1539,New Zinger Wrap,wrap,wrap
-1540,Date & Walnut Muffin,dessert,dessert
-1541,Banana & Brownie Ice Roll,chicken roll,ice cream
-1542,Khas Chicken Roll,chicken roll,paratha roll
-1543,Stick Jumbo Gola,gola,gola
-1544,Roast Beef Sandwich ,sandwich,sandwich
-1545,Chicken Cheese Shawarma,shawarma,shawarma
-1546,Chicken Cheese Burger,chicken burger,chicken burger
-1547,Mint Margarita,margarita,margarita
-1548,The BBQ Sit Down,pizza,chicken
-1549,Hot Chocolate,coffee,drink
-1550,Laranja,dessert,drink
-1551,Hash Brown Fish with Sambal Oelec Sauce,fish,fish
-1552,Steamed Rice,rice,rice
-1553,Dum Seekh,chicken kabab,chicken kabab
-1554,Chicken Reshmi Seekh Kabab,chicken kabab,chicken kabab
-1555,Chicken Qorma,chicken gravy,chicken gravy
-1556,Scottish Fillet o Fish Burger,fish burger,fish burger
-1557,Special Thaal,arabic,arabic
-1558,Taipei Sizzling Beef,beef,beef
-1559,Rahu Fish,fish,fish
-1560,Crispy Beijing Beef ,beef,chinese
-1561,Tropical Sunset,drink,drink
-1562,Pomegranate Chiller,chiller,chiller
-1563,Chicken Fajita Pizza,pizza,pizza
-1564,Chocolate Delight Crepe,crepes,crepes
-1565,Sheeshtauq,dessert,bbq
-1566,Chicken Madrasi Handi ,handi,handi
-1567,Fried Duck,duck,duck
-1568,19-B Soup,soup,soup
-1569,Chicken Karahi,karahi,karahi
-1570,Tamarind Fish,fish,thai
-1571,Cream of Mushroom,soup,soup
-1572,Mojitos,dessert,drink
-1573,Sheesh Tauk,chicken boti,bbq
-1574,Tandoori Mutton Chops,mutton,mutton
-1575,Strawberry Shake,shake,shake
-1576,Chicken Sandwich,sandwich,sandwich
-1577,Tuscan Chicken,chicken,chicken
-1578,Loaded Potatoes and Cheese Stuffed Balls,appetizer,appetizer
-1579,Shrimps Cashewnuts Thai Style,shrimp,shrimp
-1580,Mocha Machiato,coffee,coffee
-1581,Noshakh Special Kabab,chicken kabab,chicken kabab
-1582,Chicken Behari Kabab,chicken kabab,chicken kabab
-1583,Burger Chili Buster,burger,burger
-1584,New York Cheese Cake,cake,cake
-1585,Chicken Tikka Pizza,pizza,pizza
-1586,Fish & Chips,fish,fish
-1587,Chicken Burger with Cheese,chicken burger,chicken burger
-1588,Walnut Tart,dessert,dessert
-1589,Chili Prawns,prawns,prawns
-1590,Egg Fried Rice,rice,rice
-1591,Chicken Platter Roll,paratha roll,paratha roll
-1592,Mongolian Beef,beef,beef
-1593,Chicken Cheese Gola Kabab,chicken kabab,chicken kabab
-1594,Sezchuan Beef,beef,chinese
-1595,Chicken Karahi,karahi,karahi
-1596,Morning Detox,dessert,detox juice
-1597,Fish Platter,fish,fish
-1598,Mutton Seekh Kabab,mutton kabab,mutton kabab
-1599,Mushroom Burger ,burger,burger
-1600,Char Grilled Beef Bearnaise,beef,beef
-1601,Mint Chatni,salad,salad
-1602,Grilled Stuffed Chicken Breast,chicken steak,chicken burger
-1603,Sweet Potato Fries,fries,fries
-1604,Cream Coffee,coffee,coffee
-1605,Fried Cashew Nuts,appetizer,appetizer
-1606,Classic Beef Shoyu,beef,noodles
-1607,Mista,dessert,pizza
-1608,Ever Famous Beef Burger,beef burger,beef burger
-1609,Raita,salad,salad
-1610,Chili Chili Bang Bang,pizza,burger
-1611,Chicken Jalfrezi,handi,handi
-1612,Hot Garlic Fish with Rice,seafood,fish
-1613,Beef Burger,beef burger,beef burger
-1614,Fudge Brownie Ice Cream,ice cream,dessert
-1615,Moroccan Grilled Chicken Sandwich,sandwich,sandwich
-1616,Masoom's Special Sandiwch,pizza,sandwich
-1617,Luxury Mocha Frappe,frappe,frappe
-1618,Vegetable Chowmein,noodles,noodles
-1619,Mango Smoothie,smoothie,smoothie
-1620,Pina Colada,drink,drink
-1621,Caramel Bread Pudding,dessert,dessert
-1622,Cravea Special Gola,gola,gola
-1623,Black Coffee,coffee,coffee
-1624,Chicken Tikka Pizza,pizza,pizza
-1625,Thai Beef Chili Noodles ,noodles,noodles
-1626,Mocha Latte,coffee,coffee
-1627,Chicken Steak,chicken steak,chicken steak
-1628,Grilled Chicken Pineapple and Cheese,sandwich,sandwich
-1629,Tikka Sandwich,sandwich,sandwich
-1630,Prime Undercut,chicken,beef
-1631,Fried Chicken Chops,chicken,chicken
-1632,Fish Crackers,appetizer,appetizer
-1633,Wafu Sashimi Salad,salad,japanese
-1634,Honey Glazed Wings,chicken wings,chicken wings
-1635,Chicken Masala Rice,rice,rice
-1636,Mutton Karahi,karahi,karahi
-1637,Chicken Brain Masala,masala,masala
-1638,Polo Loco Chicken,chicken,chicken
-1639,Espresso Shot,coffee,coffee
-1640,Roghni Naan,naan,naan
-1641,Spinach And Mushroom Quesadilla,quesadilla,quesadilla
-1642,Chicken Rehsmi Boti,chicken boti,chicken boti
-1643,Spicy Garlic Fish,fish,fish
-1644,Krunchy Fish,fish,fish
-1645,Tandoori Batair,batair,bbq
-1646,Gurda Kapura,mutton,mutton
-1647,Mutton Brain Masala,mutton,mutton
-1648,Whole Grain Mustard Chicken,sandwich,chicken
-1649,Fudge Brownie,dessert,dessert
-1650,Chicken Supreme Pizza,pizza,pizza
-1651,Hot Sauce Shrimps,shrimp,shrimp
-1652,Tikka Sandwich,sandwich,sandwich
-1653,American Chopsuey,noodles,noodles
-1654,Roasted Rosemary Potatoes,appetizer,appetizer
-1655,Beef Steak Pizza,beef steak,pizza
-1656,Orange Juice,juice,juice
-1657,Grill Fish Whole,fish,fish
-1658,Beef Roll,paratha roll,paratha roll
-1659,Chicken Roll Double Slice,paratha roll,paratha roll
-1660,Cordon Blue,drink,chicken
-1661,Crispy Chicken Roll Ups,paratha roll,chicken
-1662,Pizza Time Majestical Pizza,pizza,pizza
-1663,French Fries,fries,fries
-1664,Pronta Pizza,pizza,pizza
-1665,Mushroom Stuffed Chicken Breast,chicken steak,chicken
-1666,Sweet & Sour Chicken,chinese,chinese
-1667,Veggie Lovers,pizza,pizza
-1668,Wild Mushroom Steak,steak,steak
-1669,Mango Shake,milkshake,shake
-1670,Vegetable Chowmein,noodles,noodles
-1671,Big Burger with Cheese,burger,beef burger
-1672,Black Tea,tea,tea
-1673,Baked Potato,appetizer,appetizer
-1674,Chickalito's Hot,pizza,pizza
-1675,Vanilla Shake,shake,shake
-1676,Banana Cream pie,dessert,shake
-1677,Chicken Tikka Piece,chicken tikka,chicken tikka
-1678,Chicken Shashlik,chinese,chinese
-1679,Szechuan Chili Chicken,chinese,chinese
-1680,Mansaf,dessert,arabic
-1681,Hot and Sour Soup,soup,soup
-1682,Jalapeno Butter Popcorn,popcorn,popcorn
-1683,Milk Shakes,milkshake,milkshake
-1684,Tandoori Paratha,paratha,paratha
-1685,Szechuan Chicken,chinese,chinese
-1686,Tom Yum Gai,soup,soup
-1687,Chocolate Cake with Nutella Peanut Butter Ice cream ,cake,cake
-1688,Sirloin Steak,beef steak,steak
-1689,Mix Vegetable,vegetable curry,vegetable curry
-1690,NYC Sundae,ice cream,ice cream
-1691,Hot & Sour Chicken,soup,chinese
-1692,Classic Beef Burger,beef burger,beef burger
-1693,Fish & Chips,fish,fish
-1694,Smoked Chicken Quesadilla ,quesadilla,quesadilla
-1695,Chicken Bell Pepper in Szechuan Style,chinese,chinese
-1696,Cafe Mocha,coffee,coffee
-1697,Sliced Beef with Chilies and Vegetables,beef,beef
-1698,Southwest Steak and Cheese Panini,panini,panini
-1699,Batair Karahi,batair,karahi
-1700,Lemon & Herb Wings,chicken wings,chicken wings
-1701,French Fries,fries,fries
-1702,Soft Drink,drink,drink
-1703,Hot Fudge Shake,shake,shake
-1704,Fried Halumi Cheese,appetizer,arabic
-1705,Chicken Mexican Pizza,pizza,pizza
-1706,Oyster Chicken,thai curry,chinese
-1707,Green Drum Sticks,drum sticks,drum sticks
-1708,Special Platter Shawarma,shawarma,shawarma
-1709,Fish Valencia ,fish,fish
-1710,Chicken Tikka,chicken tikka,pizza
-1711,Fettuccini Pesto Pasta,pasta,pasta
-1712,Kalwanji Naan,naan,naan
-1713,Punch Smoothie,smoothie,smoothie
-1714,Mutton Chops Masala,mutton,mutton
-1715,Chicken Twist Burger,chicken burger,chicken burger
-1716,Mega Zinger Burger,chicken burger,chicken burger
-1717,Chicken Masala Rice,rice,rice
-1718,Thai Spicy Lobster,lobster,lobster
-1719,Classic Steak,steak,steak
-1720,Bonfire Special Boti,chicken boti,chicken boti
-1721,Classic Cheese Burger,burger,burger
-1722,Shahjahan Special Kabab,chicken kabab,chicken kabab
-1723,Rick in Java,dessert,coffee
-1724,Cappuccino ,coffee,coffee
-1725,Zinger Mayo Roll,paratha roll,paratha roll
-1726,Chowmein,noodles,noodles
-1727,Cajun Chicken Alfredo,pasta,pasta
-1728,Szechuan Soup,soup,soup
-1729,Wing Roulette,chicken,chicken
-1730,Stuffed Chicken Breast ,chicken steak,chicken
-1731,Vegetable Chowmein,noodles,noodles
-1732,Strawberry and Banana Shake,shake,shake
-1733,Beef Shredded Burrito,burrito,burrito
-1734,Beef Kabab Cheese Roll,paratha roll,paratha roll
-1735,Cream of Chicken Soup,soup,soup
-1736,Hydrabadi Chicken Handi,handi,handi
-1737,Chicken with Cashewnuts with Rice,rice,chicken
-1738,Kit Kat Shake,milkshake,milkshake
-1739,Chicken White Karahi,karahi,karahi
-1740,Prawns on Toast,prawns,prawns
-1741,Fries,fries,fries
-1742,Sriracha Basil,drink,thai curry
-1743,Tawa Chicken Boneless,chicken,chicken
-1744,Prawn Chili Dry,prawns,chinese
-1745,Sausage Beef Pizza,pizza,pizza
-1746,Caeser Salad,salad,salad
-1747,Chicken Corn Soup,soup,soup
-1748,Garlic Chicken,chinese,chinese
-1749,Tempura Chicken,chicken,chicken
-1750,Stir Fry Chicken with Black Pepper Sauce,chinese,thai curry
-1751,Braised Chicken with Vegetables ,chicken,chinese
-1752,Beef Cheese Paratha Platter,paratha,paratha roll
-1753,Iced Latte,cold coffee,cold coffee
-1754,Doodh Patti,tea,tea
-1755,Cheese Lover Pizza,pizza,pizza
-1756,Chicken Chowmein,noodles,noodles
-1757,Chocolate Sizzler,dessert,dessert
-1758,Into The Woods,dessert,pizza
-1759,Grilled Chicken BBQ and Turkey Bacon Melt,sandwich,sandwich
-1760,Pineapple,ice cream,appetizer
-1761,Osolemio,dessert,pizza
-1762,Oreo Frappe,frappe,frappe
-1763,Shahjahan Special Platter,bbq,bbq
-1764,Behari Chicken Spin Rolls,chicken boti,appetizer
-1765,Mushaboom,dessert,beef burger
-1766,Kona Mocha Frappe,frappe,coffee
-1767,Italian Special Beef Burger,beef,beef burger
-1768,Club Sandwich,sandwich,sandwich
-1769,Biryani,biryani,rice
-1770,Cheese and Tomato,appetizer,pizza
-1771,Brownie ala Mode,dessert,dessert
-1772,Lava Gateau,dessert,dessert
-1773,Chicken Cheese Shawarma,shawarma,shawarma
-1774,Tandoori,pizza,pizza
-1775,Chicken Jalfrezi,handi,handi
-1776,Vegetable Rice,rice,rice
-1777,Hot Chocolate,coffee,coffee
-1778,Grilled Chicken Paprikana,chicken steak,chicken steak
-1779,Chicken Brain,chicken,chicken gravy
-1780,Achari Boti,chicken boti,chicken boti
-1781,Nuggets,chicken,chicken
-1782,Cafe Machiato,cold coffee,coffee
-1783,Red Curry Prawns,prawns,prawns
-1784,Rotisserie Chicken ,chicken roast,chicken
-1785,Milano Tango Pizza,pizza,pizza
-1786,Prawn with Chili and Vegetable,prawns,prawns
-1787,Hot & Sour Soup,soup,soup
-1788,Juicy Lucy Burger,burger,burger
-1789,Walnut Pie,dessert,dessert
-1790,Cocktail Shake,shake,shake
-1791,Chicken Tikka Handi,handi,handi
-1792,Chicken Hara Masala,masala,chicken gravy
-1793,Walnut Tart ,dessert,dessert
-1794,Pina Colada,drink,drink
-1795,Tawa Mutton Qeema,mutton,mutton
-1796,BBQ Wings,chicken wings,chicken wings
-1797,Toblerone Cake,cake,cake
-1798,Strawberry Juice,juice,fresh juice
-1799,Aloo Cheese Roll,paratha roll,paratha roll
-1800,Zinger ,shawarma,chicken burger
-1801,Meat Lover,pizza,pizza
-1802,Special Chicken Shawarma Cheese Platter,shawarma,shawarma
-1803,Tiramisu,dessert,dessert
-1804,Chicken Achari Handi,handi,handi
-1805,Chicken with Tarragon Sauce,chicken,chicken
-1806,Chicken Spaghetti ,noodles,noodles
-1807,Kit Kat & Nutella Ice Roll,ice cream,ice cream
-1808,Chicken Chili Dry,chinese,chinese
-1809,Fresh Salad,salad,salad
-1810,Hendry (Crispy Honey) Beef,beef,beef
-1811,Con Panna Espresso,coffee,drink
-1812,Chicken Katsudon,chicken,chicken
-1813,Dumpukht,lamb,chicken
-1814,Mutton Kabab Masala,mutton kabab,masala
-1815,Chicken Drumsticks,drum sticks,drum sticks
-1816,Wild Mushroom Steak,steak,steak
-1817,Chicken Irani Boti,chicken boti,chicken boti
-1818,The Hunger Beef,beef,beef burger
-1819,Chicken Cheese Boti Roll,paratha roll,paratha roll
-1820,Cheese Fries,fries,fries
-1821,Fried Wonton,appetizer,appetizer
-1822,Grilled Chicken and Fresh Mozzarella,chicken steak,salad
-1823,Chocolate Chip Pancake,pancakes,pancakes
-1824,Sultani Gulab Jamun,dessert,dessert
-1825,Cold Coffee with Ice Cream,cold coffee,cold coffee
-1826,Hot Chocolate Shot,coffee,coffee
-1827,Steak and Mushroom Pizza,steak,pizza
-1828,Chicken Fajita Sandwich,sandwich,sandwich
-1829,Vegetable Chowmein,noodles,noodles
-1830,Super Supreme Veggie Pizza,pizza,pizza
-1831,French Fries,fries,fries
-1832,Mocha Caramalatte ,coffee,coffee
-1833,19-B Soup,soup,soup
-1834,Galaxy,dessert,shake
-1835,Wensen Chicken,chicken,chinese
-1836,Chicken Garlic Paratha Roll,chicken roll,paratha roll
-1837,Cheese Naan,naan,naan
-1838,Daal Makhni,vegetable curry,vegetables
-1839,Mojito,drink,drink
-1840,Green Eyed Monster,detox juice,drink
-1841,Jalapeno Chicken Noodles,noodles,noodles
-1842,Kamikaze Fries,fries,fries
-1843,Chicken Malai Seekh Kabab,chicken kabab,chicken kabab
-1844,Fried Shrimps Cutlet,shrimp,shrimp
-1845,Spaghetti With Fritto Beef,noodles,pasta
-1846,Veggie Lover,pizza,pizza
-1847,Chicken Pineapple Salad,salad,salad
-1848,Braised Fish in Hot Spices,seafood,fish
-1849,Americano,coffee,coffee
-1850,Parmesan Chicken Burger ,chicken burger,chicken burger
-1851,Mutton Joint,mutton,mutton
-1852,Chicken Wings,chicken wings,chicken wings
-1853,Green Tea,tea,tea
-1854,Chicken Salad,salad,sandwich
-1855,Chicken Cheese Malai Boti,chicken boti,chicken boti
-1856,Fajita Sandwich,sandwich,sandwich
-1857,Honey & Cream Paratha,paratha,paratha
-1858,Chicken in Black Bean Sauce,chinese,chinese
-1859,Kings Feast,dessert,breakfast
-1860,Yum Corn Chicken,soup,chinese
-1861,Steam Pomfret with Chinese Sauce,fish,fish
-1862,Beef Roll,paratha roll,paratha roll
-1863,Batter Fried Prawns,prawns,prawns
-1864,Chicken Zafarani Malai Tikka,chicken tikka,chicken tikka
-1865,Chicken Vegetable Soup,soup,soup
-1866,Round Table Conference Pizza,pizza,pizza
-1867,Roghni Naan,naan,naan
-1868,Family Fries,fries,fries
-1869,Cheese Fries,fries,fries
-1870,Peach Shake,milkshake,shake
-1871,Fried Wontons,appetizer,appetizer
-1872,Tarte Tartin,dessert,dessert
-1873,Chicken Quesadilla ,quesadilla,quesadilla
-1874,Jumbo Prawn Rolls,prawns,prawns
-1875,Kulfa Ice Cream,ice cream,ice cream
-1876,Chicken Lover,chicken,pizza
-1877,Chicken Chowmein,noodles,noodles
-1878,Bread & Butter Pudding,dessert,dessert
-1879,Grilled Chicken Veg,chicken steak,sandwich
-1880,Yem Yem Chy Duck,duck,duck
-1881,Jumbo Combo,steak,appetizer
-1882,Green Tea,tea,tea
-1883,BBQ Hickory Dip,fries,appetizer
-1884,Zinger Burger,chicken burger,chicken burger
-1885,Hot & Sour Soup,soup,soup
-1886,Strawberry Lime,ice cream,drink
-1887,Mutton Joint,mutton,mutton
-1888,Tikka Heart,chicken tikka,pizza
-1889,Mutton Tikka Roll,paratha roll,paratha roll
-1890,Banana Break Shake,shake,shake
-1891,Crispy Masala Wings,chicken wings,chicken wings
-1892,Italian Chicken,chicken,chicken
-1893,Fat Fries,fries,fries
-1894,Vegetable Rice,rice,rice
-1895,Bar BQ Chicken,chicken,chicken
-1896,Chicken Chili Dry,chinese,chinese
-1897,Fried Fish,fish,fish
-1898,Caper Chicken Pizza,pizza,pizza
-1899,Cream of Chicken Soup,soup,soup
-1900,Thai Chicken Cashewnuts ,thai curry,thai curry
-1901,Chicken Spring Roll,appetizer,appetizer
-1902,Special Beef Shawarma Platter,shawarma,shawarma
-1903,Zinger Burger,chicken burger,chicken burger
-1904,Namkeen Lamb Karahi,lamb,lamb
-1905,Potato Crouquets,appetizer,potato wedges
-1906,Minal's Chicken Supreme Pizza,pizza,pizza
-1907,Rattlesnake Pasta,pasta,pasta
-1908,Cadbury Shake,shake,shake
-1909,Chicken Fajita,pizza,pizza
-1910,Warak Inaf,dessert,arabic
-1911,Snowman Waffle,waffles,waffles
-1912,Plain Biryani,biryani,rice
-1913,Cheese Sajj,arabic,arabic
-1914,Roasted Turkey Burger,burger,burger
-1915,Cheesy Hearts,appetizer,pizza
-1916,Palak Gosht,mutton,mutton
-1917,Prawn Fooyong,prawns,prawns
-1918,Gardener's Pizza,pizza,pizza
-1919,Butterscotch Lava,ice cream,dessert
-1920,Cheese Max Pizza,pizza,pizza
-1921,Hot n Spicy Pizza,pizza,pizza
-1922,Fried Calamari,calamari,calamari
-1923,Finger Platter,appetizer,chicken
-1924,Apple Pie,dessert,dessert
-1925,Mezza Deluxe Platter ,appetizer,appetizer
-1926,BBQ Platter,bbq,bbq
-1927,Honey Sesame Wings,chicken wings,chicken wings
-1928,Tandoori Paratha,paratha,paratha
-1929,Aloo Paratha,paratha,paratha
-1930,Veggie Lover,pizza,pizza
-1931,Mantu,dessert,appetizer
-1932,BBQ Sandwich,sandwich,sandwich
-1933,Chubby Cow,dessert,beef burger
-1934,Chicken Jalfrezi,handi,handi
-1935,Beef Roll,paratha roll,paratha roll
-1936,Dhaka Fish,fish,fish
-1937,Peri Peri Chicken Skewer ,chicken,chicken
-1938,Plain Naan,naan,naan
-1939,Finger Fish,fish,fish
-1940,Black Pepper Fish,fish,fish
-1941,French Brioche Pizza,pizza,pizza
-1942,Ovaltine Coffee,coffee,coffee
-1943,Mix Naan,naan,naan
-1944,Chicken Manchurian,chinese,chinese
-1945,Chicken Croissant,chicken,chicken
-1946,Double Breast Chicken Burger,chicken burger,chicken burger
-1947,Prawns with Green Chili,prawns,prawns
-1948,Walnut Brownie,dessert,dessert
-1949,Fudge Brownie,dessert,dessert
-1950,Chicken Hot n Sour Soup,soup,soup
-1951,Butlers Pesto Chicken Salad,salad,salad
-1952,Mint Margarita,margarita,margarita
-1953,Caesar Salad,salad,salad
-1954,Red Snapper in Garlic Sauce,fish,thai curry
-1955,Chicken Black Pepper,chinese,chinese
-1956,Cheese Bread,appetizer,appetizer
-1957,Chicken Almonds,chinese,chinese
-1958,Fry Daal Channa,vegetables,vegetables
-1959,Kastoori Murgh Tikka,chicken tikka,chicken tikka
-1960,Sheesh Tauk,chicken boti,bbq
-1961,Chicken Chowmein,noodles,noodles
-1962,Special Fried Prawns,prawns,prawns
-1963,Chicken Pepper Steak,chicken steak,chicken steak
-1964,Lemongrass Punch,tea,drink
-1965,Jalapeno Chicken,chicken,chicken
-1966,Chicken Tarragon,chicken,chicken
-1967,Thai Szechuan Rice,rice,rice
-1968,Mutton Karahi,karahi,mutton
-1969,Bread & Butter Pudding,dessert,dessert
-1970,Straw-Bana Blast,smoothie,smoothie
-1971,Chocolate Milkshake,milkshake,milkshake
-1972,Chicken Cheese Jalapeno Sandwich,sandwich,sandwich
-1973,Fruity Smoothie,smoothie,smoothie
-1974,Eggs Florentine Pizza,breakfast,pizza
-1975,Chicken Cheese Burger,chicken burger,chicken burger
-1976,Classic Club Sandwich,sandwich,sandwich
-1977,Grilled Chicken Pineapple Salad,salad,salad
-1978,Chicken Behari Tikka,chicken tikka,chicken tikka
-1979,Pancakes Traditional Dutch,pancakes,pancakes
-1980,Hara Bhara Naan,naan,naan
-1981,Chocolate Ice Cream Shake,ice cream shake,ice cream shake
-1982,Sweet Sauce Chicken,chinese,chicken gravy
-1983,Spicy Szechuan Beef,chinese,chinese
-1984,Chicken Cheese Kabab,chicken kabab,chicken kabab
-1985,Finger Fish,fish,fish
-1986,Stuffed Chicken Cheese Panini,panini,panini
-1987,Traditional Vanilla Milkshake,milkshake,milkshake
-1988,Chicken Kao Soi,chicken,chinese
-1989,Chiller,chiller,chiller
-1990,Chicken Mushroom Steak,chicken steak,chicken steak
-1991,Crispy Chicken Sandwich,sandwich,sandwich
-1992,Chicken in Oyster Sauce,chinese,chinese
-1993,Gai Pad Med Ma Muang,noodles,chinese
-1994,Fettuccini Alfredo,pasta,pasta
-1995,Pizza on a Steak,steak,pizza
-1996,Succulent Chicken With Florentine Pasta,pasta,chicken
-1997,Garlic Smashed Potatoes,appetizer,appetizer
-1998,Chicken with Pineapple ,chinese,chinese
-1999,Thai Fiery Hot,thai,thai curry
-2000,Kung Pao Prawns,prawns,prawns
-2001,Sliced Beef in Hot Sauce,beef,beef
-2002,Mars,dessert,shake
-2003,Mutton Boneless Makhani Handi,mutton gravy,handi
-2004,Chicken Karahi,karahi,karahi
-2005,Garden Salad,salad,salad
-2006,Buffalo Wings,chicken wings,chicken wings
-2007,Mozzarella Sticks ,appetizer,appetizer
-2008,Fudge Brownie,dessert,dessert
-2009,Shish Tawook Sandwich,sandwich,sandwich
-2010,Butlers Club,sandwich,sandwich
-2011,Special King Shawarma,shawarma,shawarma
-2012,Death By Chocolate,dessert,drink
-2013,Blueberry Pancakes,pancakes,pancakes
-2014,Prime Undercut,chicken,beef steak
-2015,ADD Stir Fried Broccoli With Sweet Corn (seasonal),vegetables,vegetables
-2016,Dates & Almonds,appetizer,ice cream
-2017,Tawa Chicken Masala,masala,chicken
-2018,Daal Makhni Handi,handi,handi
-2019,BBQ Chicken Pizza,pizza,pizza
-2020,Sindhi Biryani,biryani,biryani
-2021,Fried Chicken Chops,chicken,chicken
-2022,Fresh Green Salad,salad,salad
-2023,Wings,chicken wings,chicken wings
-2024,Two Tomato Bruschetta,appetizer,appetizer
-2025,BBQ Fries,fries,fries
-2026,Chicken Steak Sandwich,sandwich,sandwich
-2027,Chicken Masala Rice,rice,rice
-2028,Veggie Lover Pizza,pizza,pizza
-2029,Beef Bulgogi ,beef,beef
-2030,Monster Burger,burger,burger
-2031,Caramel Macchiato,coffee,coffee
-2032,Chicken Fajita,pizza,pizza
-2033,Tomato and Basil Soup,soup,soup
-2034,Chicken Kabab Paratha Roll,paratha roll,paratha roll
-2035,Wonton Noodle Soup,soup,soup
-2036,Arcadian Special Soup,soup,soup
-2037,Saffron Tea,tea,tea
-2038,Toffee Temptation Cupcake,dessert,dessert
-2039,Exotic Mutton Dumpukht,lamb,mutton
-2040,Chicken Nuggets,chicken,chicken
-2041,Grilled Fish Enchilada,burrito,burrito
-2042,Just Beet it,smoothie,detox juice
-2043,Pepper Beef Tataki,japanese,japanese
-2044,Banana Caramel Smoothie Shake,ice cream shake,ice cream shake
-2045,Seekh Kabab Roll,paratha roll,paratha roll
-2046,Vegitarian,dessert,pizza
-2047,Foodies Special Sandwich,sandwich,sandwich
-2048,Lahori Raita,salad,salad
-2049,Beef Cannelloni ,beef,pasta
-2050,Sweet & Sour Chicken,chinese,chinese
-2051,Beef Lasagna,pasta,pasta
-2052,Beef Supreme Pizza,pizza,pizza
-2053,Cappuccino Regular,coffee,coffee
-2054,Nuggets and Chips,chicken,chicken
-2055,Pesto Lover,drink,pizza
-2056,Molten Lava ,dessert,dessert
-2057,Chicken Francese,chicken,chicken
-2058,Organic Chicken Burrito,burrito,burrito
-2059,Tori Goma Fire,dessert,japanese
-2060,Howdy Deputy,dessert,fries
-2061,Fruits Blend,drink,fresh juice
-2062,American Chopsuey,noodles,noodles
-2063,Mongolian Beef Steak,beef steak,chinese
-2064,Parmesan Chicken ,chicken,chicken
-2065,Garlic Mayo Fries,fries,fries
-2066,King Pao Chicken,chinese,thai curry
-2067,Baked Potato,appetizer,appetizer
-2068,Chicken Tempura Tortilla,chicken,chicken
-2069,Fully Loaded Delight Pizza,pizza,pizza
-2070,Dried Red Pepper Prawn,prawns,prawns
-2071,Feta Cheese Salad,salad,salad
-2072,Sesame Fried Fish,fish,fish
-2073,Jasmine Tea,tea,tea
-2074,Chicken Spring Roll,appetizer,chicken
-2075,BBQ Wrap,wrap,wrap
-2076,Chef's Special,chicken,pizza
-2077,Vegetables Chowmein,noodles,noodles
-2078,Chicken Tempura,chicken,japanese
-2079,Plain Steak,steak,steak
-2080,Turkish Seekh Tauk,dessert,chicken tikka
-2081,Handi Ghost,handi,handi
-2082,Zinger Burger,chicken burger,chicken burger
-2083,Halwa Paitha,dessert,dessert
-2084,Chocolate,dessert,ice cream
-2085,Chicken Breast Fillet Burger,chicken burger,chicken burger
-2086,Chef Special,chicken,pizza
-2087,Fresh Seasonal Juice,fresh juice,fresh juice
-2088,Big King Chicken Sandwich,sandwich,chicken burger
-2089,Chicken Tikka Sandwich,sandwich,sandwich
-2090,Shawarma Roll,shawarma,shawarma
-2091,Fillet Boeuf aux Champignons,dessert,steak
-2092,Hot and Sour Soup (Red),soup,soup
-2093,Prawns on Toast,prawns,prawns
-2094,Pasta Alfredo,pasta,pasta
-2095,Mutton Hari Mirch Masala,mutton,mutton gravy
-2096,Chciken Fried Rice,rice,rice
-2097,Plain Boiled Rice,rice,rice
-2098,Chicken Shawarma,shawarma,shawarma
-2099,Finger Fish,fish,fish
-2100,Death by Chocolate Smoothie Shake,ice cream shake,ice cream shake
-2101,Chicken botton Mushroom in Garlic Sauce,chicken steak,chinese
-2102,Brushetta ,dessert,beef burger
-2103,Beef Steak Burger,beef burger,beef burger
-2104,Chicken Chowmein,noodles,noodles
-2105,Mutton Kabab Masala,mutton kabab,masala
-2106,Family Combination,chicken,chicken
-2107,Fettuccine Al Fredo,pasta,pasta
-2108,Cream of Chicken Soup,soup,soup
-2109,Chicken with Almond,chinese,chinese
-2110,Blue Cheese Burger,burger,burger
-2111,ChinaTown's Szechuan,dessert,soup
-2112,Pineapple Sundae,ice cream,ice cream
-2113,Russian Salad,salad,salad
-2114,Jalapeno Chicken Burger,chicken burger,chicken burger
-2115,Brain Masala,masala,masala
-2116,Barbecue Special Paratha,paratha,paratha
-2117,Stir Fried with Garlic,appetizer,rice
-2118,Soft Drink,drink,drink
-2119,Combination Chowmein,noodles,noodles
-2120,Chicken and Shrimps Chowmein,noodles,noodles
-2121,Fitness Omelette,breakfast,breakfast
-2122,Sauteed Vegetable Pasta,pasta,pasta
-2123,Masala Fries,fries,fries
-2124,Danzinger,dessert,chicken burger
-2125,Mushroom & Swiss,beef burger,sandwich
-2126,Prawns in Hot Garlic Sauce,prawns,prawns
-2127,Daal Mash,vegetable curry,vegetables
-2128,Chicken Green Curry with Rice,chicken gravy,thai curry
-2129,French Breakfast,breakfast,breakfast
-2130,Cheese Stick and Fries,fries,fries
-2131,Stuffed Chicken Breast,chicken steak,chicken
-2132,Ma potofu,dessert,beef
-2133,Steamed Rice,rice,rice
-2134,#12 Burger,burger,burger
-2135,Urban Cafe Burger,burger,chicken burger
-2136,Paper Chicken,chicken,chicken
-2137,Beef Paratha,paratha,paratha
-2138,Almond Tea,tea,tea
-2139,Chicken Spring Rolls,appetizer,paratha roll
-2140,Chicken Cheese Burger,chicken burger,chicken burger
-2141,Chicken Handi,handi,handi
-2142,Pizza Crepe,crepes,crepes
-2143,Sliced Beef with Pineapple,beef,beef
-2144,Vanilla and Kiwi Smoothie,smoothie,smoothie
-2145,Cordon Bleu Burger,chicken burger,burger
-2146,Chicken Quesadilla ,quesadilla,quesadilla
-2147,Tower Zinger Burger,chicken burger,chicken burger
-2148,Beef Cheese Burger,beef burger,beef burger
-2149,Chicken Pineapple Salad,salad,salad
-2150,Shrimps Garlic,shrimp,shrimp
-2151,Chicken Burger,chicken burger,chicken burger
-2152,Chicken Kabab Roll,paratha roll,paratha roll
-2153,Dark Chocolate Fudge Cake,cake,cake
-2154,Pina Colada,drink,drink
-2155,Mutton Grill Chanp,mutton,mutton
-2156,Black Pepper Chicken,chinese,chinese
-2157,Chicken Burger,chicken burger,chicken burger
-2158,Grilled Chicken Panini,panini,panini
-2159,Gino's Special Combination,chicken,chicken
-2160,The Desi Street Sliders,breakfast,chicken
-2161,Supreme Pizza,pizza,pizza
-2162,Mango Milk Shake,milkshake,milkshake
-2163,Moroccan Chicken,chicken,chicken
-2164,Kids Ice Cream,ice cream,ice cream
-2165,Chicken Achari Karahi,karahi,karahi
-2166,Spicy Saffron Rice,rice,rice
-2167,Tarragon Chicken,chicken,chicken
-2168,Thai Chowmein,noodles,noodles
-2169,Roasted Garlic Tomato Soup,soup,soup
-2170,Pineapple Slurpee,ice cream,drink
-2171,Bihari Boti,chicken boti,chicken boti
-2172,Chicken Fajita Crunch,pizza,chicken
-2173,Dry King Prawns,prawns,prawns
-2174,Fish with Lemon Sauce,fish,fish
-2175,Croissant ,breakfast,breakfast
-2176,Steak Beef Burger,beef burger,beef burger
-2177,Chicken Rollatini,chicken,chicken burger
-2178,Dhaka Chicken Chili,chinese,chicken
-2179,Afghani Seekh Kabab Beef,beef kabab,beef kabab
-2180,Thai Garlic Rice,thai curry,rice
-2181,Brownie Pancakes,pancakes,pancakes
-2182,Chicken Masala Rice,rice,rice
-2183,Spanish Margarita,margarita,margarita
-2184,French Vanilla Latte,coffee,coffee
-2185,Baja Chicken Bowl,chicken,chicken
-2186,Zinger,shawarma,shawarma
-2187,Extra Dip Sauce,appetizer,appetizer
-2188,Rich Blue Cheese Steak,steak,steak
-2189,Charbroiled Chicken Breast Burger,chicken burger,chicken burger
-2190,Stir Fry Fish with Black Bean Sauce ,fish,fish
-2191,Oreo Cold Coffee,cold coffee,cold coffee
-2192,Zinger Shawarma,shawarma,shawarma
-2193,Club Sandwich,sandwich,sandwich
-2194,Sichuan Special,pizza,ice cream
-2195,Asparagus and Rocket Leaf Pizza,pizza,pizza
-2196,Garlic Butter with Mushroom,chinese,chinese
-2197,Veggie Lover Pizza,pizza,pizza
-2198,The Greeny ,dessert,detox juice
-2199,Batair Masala,batair,masala
-2200,Big Man's Special MilkShake,milkshake,milkshake
-2201,O.M.G. Shake ,shake,milkshake
-2202,Beef Chilli Dry,beef,chinese
-2203,Chicken Chopsuey,noodles,noodles
-2204,Pink Lady,drink,drink
-2205,Special Grilled Platter,bbq,bbq
-2206,Foodies Special Ala Lasagna,pasta,pasta
-2207,BLT Panini ,panini,panini
-2208,Black Pepper Steak,steak,steak
-2209,Rattlesnake Chicken Pasta,pasta,pasta
-2210,Cream Prawns,prawns,prawns
-2211,Roulade ala Brasserie,dessert,chicken
-2212,Spaghetti Bolognese,noodles,noodles
-2213,Zuppa Pomodoro,dessert,soup
-2214,BBQ Chicken,chicken,panini
-2215,Chicken Masala Rice,rice,rice
-2216,Sweet n Sour Chicken,chinese,chinese
-2217,Kung Pao Fish,fish,fish
-2218,Tea,tea,tea
-2219,Crispy Breaded Chicken Burger,chicken burger,chicken burger
-2220,Chicken & Mushroom Pizza,pizza,pizza
-2221,Desi Murgh Karahi,karahi,karahi
-2222,Cream of Mushroom,soup,soup
-2223,Jumbo Mayo Roll,paratha roll,paratha roll
-2224,Shahjahan Club Sandwich,sandwich,sandwich
-2225,Iced Tea,ice tea,ice tea
-2226,Drumsticks,drum sticks,drum sticks
-2227,Beef Pepperoni Pizza,pizza,pizza
-2228,Blue Colada,drink,drink
-2229,Mutton Achari Handi,handi,mutton
-2230,Ranch Style Chicken,chicken,pizza
-2231,Meethi Lassi,lassi,lassi
-2232,Mutton Boneless Handi,mutton gravy,handi
-2233,Finger Fish,fish,fish
-2234,Spaghetti With Fritto Beef,noodles,pasta
-2235,Shahjahan Special Naan,naan,naan
-2236,Desi Batair Karahi,batair,karahi
-2237,Smoothies,smoothie,smoothie
-2238,Double Chocolate Butter Coffee,coffee,coffee
-2239,Grilled Mediterranean Chicken,chicken steak,chicken
-2240,Chardonnay Chicken Steak,chicken steak,chicken steak
-2241,Freshly Squeezed Seasonal Juice,juice,fresh juice
-2242,Chicken Kabab Nawabi Masala,masala,masala
-2243,19-B Soup,soup,soup
-2244,Shanghai Chicken ,thai curry,chicken
-2245,Chicken Paratha Roll,chicken roll,paratha roll
-2246,Beef Noodles Soup,soup,soup
-2247,Cookies & Cream Shake,shake,ice cream shake
-2248,Burger Half Pounder,burger,beef burger
-2249,Plum Chatni,dessert,salad
-2250,Pistachio Pancake,pancakes,pancakes
-2251,Cookie Mountain Sundae,ice cream,ice cream
-2252,Brain Masala,masala,mutton
-2253,Prawn Tempura,prawns,prawns
-2254,Palak Panner,dessert,vegetables
-2255,Chicken Noodle,noodles,soup
-2256,Penne Arrabiata ,pasta,pasta
-2257,Mango Smoothie,smoothie,smoothie
-2258,Mango Ice Cream,ice cream,ice cream
-2259,Famous Fondue,dessert,dessert
-2260,Prawn Fried Rice,rice,rice
-2261,Hot n Sour Soup,soup,soup
-2262,Cappuccino,coffee,coffee
-2263,Chicken Corn Soup,soup,soup
-2264,Thai Prawn Cashew Nuts,prawns,prawns
-2265,Beef Lover Specialty Burrito,burrito,burrito
-2266,Egg Fried Rice,rice,rice
-2267,Olive and Roasted Garlic Pasta ,pasta,pasta
-2268,Mango Smoothie,smoothie,smoothie
-2269,Szechuan Fish,fish,fish
-2270,Japanese Fish Teriyaki ,japanese,japanese
-2271,American Stuffed Chicken,chicken,chicken
-2272,Panini Sandwich,sandwich,panini
-2273,Signature Iced Coffee,cold coffee,cold coffee
-2274,Finger Fish,fish,fish
-2275,Fine Special Chicken Platter,chicken,chicken
-2276,Chicken piece,bbq,appetizer
-2277,Fried Chicken,chicken,chicken
-2278,Ginger Chicken,chicken gravy,chicken gravy
-2279,Chicken Sandwich,sandwich,sandwich
-2280,Choco Oreo Shake,shake,shake
-2281,Frima Chocolate Shake,shake,ice cream shake
-2282,Tabaq Chocolate Cake,cake,cake
-2283,Strawberry Shake,shake,milkshake
-2284,Chicken Tikka,chicken tikka,chicken tikka
-2285,Red Velvet Cake,cake,cake
-2286,Black Pepper Chicken,chinese,chinese
-2287,Mixed Doodh Patti,tea,tea
-2288,Chicken Special Burger,chicken burger,chicken burger
-2289,Kachumer Salad,salad,salad
-2290,Steamed Fish or Pomfret with Mushroom,fish,fish
-2291,Cappuccino,coffee,coffee
-2292,Lemon Tart,dessert,dessert
-2293,Cheesy Bread Sticks,appetizer,appetizer
-2294,Fettuccine Alfredo,pasta,pasta
-2295,Regular Naan,naan,naan
-2296,Spicy Mexican Omelette,breakfast,breakfast
-2297,Pina Colada,drink,drink
-2298,Cookie Skillet,dessert,dessert
-2299,Beef Kabab,beef kabab,beef kabab
-2300,Butterfly Prawns and Chips,prawns,prawns
-2301,Mustard Peppercorn Chicken,sandwich,chicken
-2302,Fruit Tart,dessert,dessert
-2303,Chicken Cordon Bleu,chicken,chicken
-2304,Beef Seekh Kabab,beef kabab,beef kabab
-2305,Baked Potato ,appetizer,appetizer
-2306,Beef Miso,beef,noodles
-2307,Grilled Vegetable Pasta,pasta,pasta
-2308,Banana Walnut Break Cake,cake,cake
-2309,Mochachino,dessert,cold coffee
-2310,Basket of Fries,fries,fries
-2311,Godspell Beef Load,beef,pizza
-2312,Fruit Ice Cream Shakes,ice cream shake,ice cream shake
-2313,Red Pomegranate Juice,juice,juice
-2314,Scrambled Eggs,breakfast,breakfast
-2315,Nachos Supreme Platter,nachos,nachos
-2316,Hit Me Brownie,dessert,dessert
-2317,Black Pepper Prawns,prawns,prawns
-2318,Chicken Corn Soup,soup,soup
-2319,Cheese Lover Pizza,pizza,pizza
-2320,D.D's Classic Burger,burger,burger
-2321,K's Signature Stash,burger,pasta
-2322,Khamiri Roti,naan,naan
-2323,Vegetarian Crepe,crepes,crepes
-2324,Cheese Naan,naan,naan
-2325,Smoked BBQ Chicken Sandwich,sandwich,sandwich
-2326,Chef Special Chicken Malai Boti,chicken boti,chicken boti
-2327,Chicken Breast Sandwich,sandwich,sandwich
-2328,Chicken Steamer,chicken,chicken
-2329,Platter Gola,gola,gola
-2330,Very Vanilla Latte,coffee,coffee
-2331,Chicken Manchurian Soft,chinese,chinese
-2332,Chicken Piccata,chicken,chicken
-2333,Haryali Chicken,chicken,karahi
-2334,Quesadilla ,quesadilla,quesadilla
-2335,Pinacolada ,drink,drink
-2336,Kachumer Salad,salad,salad
-2337,God Father Deal,chicken roast,pizza
-2338,Pistachio Ice Cream,ice cream,ice cream
-2339,Meat Overdose Pizza,pizza,pizza
-2340,Kalwanji Naan,naan,naan
-2341,Narial Milk Shake,milkshake,milkshake
-2342,Chicken Lover Pizza,pizza,pizza
-2343,Appleade ,drink,drink
-2344,Platter Shawarma,shawarma,shawarma
-2345,BBQ Cheese Naan,naan,naan
-2346,Dhaka Chicken ,chicken,chicken
-2347,Stuffed Chicken,chicken,chicken
-2348,Potato Wedges,potato wedges,potato wedges
-2349,Tawa Gurda Kapoora,chicken gravy,mutton
-2350,Stuffed grilled Chicken,chicken steak,chicken
-2351,Beef Double Kabab Roll,paratha roll,paratha roll
-2352,Hakuna Wedges,potato wedges,potato wedges
-2353,Fried Stuffed Chicken,chicken,chicken
-2354,Fresh Lime,drink,drink
-2355,Gola Kabab,chicken kabab,chicken kabab
-2356,Fried Chicken Honey Drumstick ,drum sticks,drum sticks
-2357,Szechuan Prawn,prawns,chinese
-2358,Chicken with Cashew Nuts,chinese,chinese
-2359,Fish in Oyster Sauce,fish,fish
-2360,Stuffed Chicken Steak,chicken steak,chicken steak
-2361,Breast Burger,chicken burger,chicken burger
-2362,Honey Chicken Noodle,noodles,noodles
-2363,Chicken Corn Soup,soup,soup
-2364,Beer Can Chicken,chicken,chicken
-2365,Mocha,coffee,coffee
-2366,Gulab Jamun,dessert,dessert
-2367,Red Velvet Cupcake,dessert,dessert
-2368,Makhni Paratha,paratha,paratha
-2369,Dera Special Chicken (with rice),rice,chinese
-2370,Italian Mozzarella Bites,appetizer,appetizer
-2371,Chicken Behari Roll,paratha roll,paratha roll
-2372,Perrier Water,drink,drink
-2373,Tutti Fruiti Ice Cream Shake,ice cream shake,ice cream shake
-2374,Black Tea,tea,tea
-2375,Chicken Piece,bbq,chicken tikka
-2376,Three Cheese Chicken,chicken,chicken
-2377,Thai,drink,soup
-2378,Moroccan Chicken,chicken,chicken
-2379,Wok Fried Crispy Noodles Szechuan Style,noodles,noodles
-2380,Bread Pudding,dessert,dessert
-2381,Halwa Gajjar,dessert,dessert
-2382,King of Kitchens,appetizer,pizza
-2383,Grilled Veal Chops,bbq,steak
-2384,Mars Cheesecake ,dessert,cake
-2385,Chicken Karahi,karahi,karahi
-2386,Lemonade,lemonade,lemonade
-2387,Route 66,dessert,burger
-2388,Mexican Chicken Sandwich,sandwich,sandwich
-2389,Tikka Pizza,pizza,pizza
-2390,Quattro Stagioni Pizza,pizza,pizza
-2391,Brushetta Italian Bread,appetizer,appetizer
-2392,Fajita Sicilian,pizza,pizza
-2393,Hot and Spicy Basil Chciken,pizza,chicken gravy
-2394,Singaporean Chicken,chicken,chicken
-2395,Mineral Water,drink,drink
-2396,Chili Cheese Fries,fries,fries
-2397,Chicken Cheese Tikka Paratha,paratha,paratha
-2398,Red Curry Chicken,thai curry,thai curry
-2399,Kabuli Pulao Chicken,rice,rice
-2400,Fettuccine Alfredo,pasta,pasta
-2401,Chef Special Barbera Soup,soup,soup
-2402,Shahjahan Special Steak,steak,steak
-2403,Club Sandwich,sandwich,sandwich
-2404,Zinger Chatni Roll,paratha roll,paratha roll
-2405,Penne Pasta with Tomato & Herb Sauce,pasta,pasta
-2406,Fillet Magnum Steak,beef steak,steak
-2407,Grilled Chicken Crepe,crepes,crepes
-2408,Polo Chicken,chicken,chicken
-2409,Mutton Qeema Fry,mutton,qeema
-2410,Mutton Biryani,biryani,biryani
-2411,Sesame Chicken,chicken,chicken
-2412,Penne Arrabiata ,pasta,pasta
-2413,Cajun Fried Chicken,chicken,chicken
-2414,Ravi Special Rice,rice,rice
-2415,Hot Shots,appetizer,chicken
-2416,Chicken Cheese Kabab,chicken kabab,chicken kabab
-2417,Chicken Fajita,pizza,pizza
-2418,Chicken Masala Rice,rice,rice
-2419,Potato Skins,appetizer,appetizer
-2420,Vegetarian,pizza,pizza
-2421,Chicken Hara Bhara Naan,naan,naan
-2422,Shroomin,dessert,burger
-2423,Coconut Latte,cold coffee,coffee
-2424,Iranian Grilled Chicken,chicken steak,chicken
-2425,Chicken Boneless Handi,handi,handi
-2426,Mint Lemonade ,lemonade,lemonade
-2427,Cookies and Cream Icecream Shake,ice cream shake,ice cream shake
-2428,Caramel Crunch Cake,cake,cake
-2429,Walnut Brownie,dessert,dessert
-2430,Chicken Cashewnuts,chinese,chicken
-2431,Zinger Burger Jumbo,chicken burger,chicken burger
-2432,Weave Ball Prawns,prawns,prawns
-2433,Lemon Crispy Steak ,steak,chicken steak
-2434,Bonfire Special Burger,burger,burger
-2435,Mutton Achari Handi,handi,handi
-2436,Chicken Corn Soup,soup,soup
-2437,Fudge Brownie with Ice Cream,ice cream,dessert
-2438,Tawa Chicken ,chicken,chicken
-2439,Smokin Grill Burger Combo,chicken burger,burger
-2440,Arcadian Special Medallions,pizza,beef
-2441,Spciy Chicken Sandwich,sandwich,sandwich
-2442,Chicken Sicilian Pizza,pizza,pizza
-2443,Mushroom Melt Burger,burger,burger
-2444,Mob Dog,appetizer,appetizer
-2445,Chicken Tikka ,chicken tikka,pizza
-2446,Beef Burger,beef burger,beef burger
-2447,Grilled Skewered Chicken,chicken steak,chicken
-2448,Chicken Chili Dry with Rice,rice,chinese
-2449,Crispy Sandwich ,sandwich,sandwich
-2450,Chicken Wings,chicken wings,chicken wings
-2451,Chicken Fajita,pizza,pizza
-2452,Cheddar Mushroom Sandwich ,sandwich,sandwich
-2453,Bologna Margherita Pizza,pizza,pizza
-2454,Stir Fried Beef Chili Noodles,noodles,noodles
-2455,Chipotle,dessert,pizza
-2456,Vegetable Chowmein,noodles,noodles
-2457,Veggiza,dessert,pizza
-2458,Steamed Mutton Joints,mutton,mutton
-2459,X2 Special Chicken,chicken,chinese
-2460,Tea,tea,tea
-2461,Red Velvet,frappe,shake
-2462,Strawberry Sin,ice cream,drink
-2463,Mint Margarita,margarita,margarita
-2464,Fried Fish or Pomfret in Sweet & Sour Sauce,fish,fish
-2465,Nuggets Pizza,pizza,pizza
-2466,Mongolian Chicken,chinese,chicken
-2467,Ol' School Tenderloin Steak,steak,beef steak
-2468,Chana Chaat,chaat,chaat
-2469,Mini Burrito Rolls,beef,appetizer
-2470,Mackeral Sushi,japanese,japanese
-2471,Chicken Wild Mushroom Crepe,crepes,crepes
-2472,Zinger Burger,chicken burger,chicken burger
-2473,Sliced Beef with Vegetable ,beef,beef
-2474,Philly Cheese Steak Sandwich,sandwich,sandwich
-2475,Baba Ganoush,dessert,arabic
-2476,Chicken Burger,chicken burger,chicken burger
-2477,Spaghetti Bolognese,noodles,pasta
-2478,Stuffed Beef Burger,beef burger,beef burger
-2479,Chicken Max,chicken,pizza
-2480,The Big Fish Burger,fish burger,fish burger
-2481,Barbecue Tikka Wrap,wrap,wrap
-2482,Buffalo Chicken Panini,panini,panini
-2483,Strawberry Milkshake,milkshake,milkshake
-2484,Green Apple Smoothie,smoothie,smoothie
-2485,Beef Stroganoff ,beef,chinese
-2486,Chicken Chowmein,noodles,noodles
-2487,Cheese Naan,naan,naan
-2488,Fries in Dip,fries,fries
-2489,Chicken Fajita Pizza,pizza,pizza
-2490,Strawberry Colada,drink,drink
-2491,Mediterranean Chicken Salad,salad,salad
-2492,Plain Naan,naan,naan
-2493,Supreme Nachos,nachos,nachos
-2494,Prawn Tempura Jumbo,prawns,appetizer
-2495,Mutton Qeema Fry,mutton,mutton
-2496,Macchiato Espresso,coffee,coffee
-2497,Uzbeki Naan,naan,naan
-2498,Lava Cake,cake,cake
-2499,Skin Zen,detox juice,detox juice
-2500,Molten Lava,dessert,dessert
-2501,Oreo Shake,shake,shake
-2502,Chocoliscious Brownie,dessert,dessert
-2503,Vanilla Frappe,frappe,frappe
-2504,Namkeen Mutton Karahi,karahi,karahi
-2505,Super Supreme Pizza,pizza,pizza
-2506,Chicken Tarragon,chicken,chicken
-2507,Balstistani Chopsuey,noodles,noodles
-2508,Vanilla Icecream Shake,ice cream shake,ice cream shake
-2509,Vegetarian Pizza,pizza,pizza
-2510,Chicken Basil,thai curry,chicken
-2511,Braised Chicken in Hot Spices,chicken,chicken gravy
-2512,Double Decker Burger,burger,burger
-2513,Buffalo Chicken Salad,salad,salad
-2514,Paratha,paratha,paratha
-2515,Seafood,pizza,pizza
-2516,Achari Naan,naan,naan
-2517,Chicken Boti,chicken boti,chicken boti
-2518,Apple Pie With Ice Cream,dessert,dessert
-2519,Fried Beef with Green Chili Dry,beef,beef
-2520,Stuffed Chicken Breast,chicken steak,chicken
-2521,Peshawari Kehwa with Gur,tea,tea
-2522,Chicken Fajita Pizza,pizza,pizza
-2523,Jalapeno Chicken,chicken,chicken
-2524,Phad Phak Rumith,dessert,vegetables
-2525,American Chopsuey,noodles,noodles
-2526,Jalapeno Steak,steak,steak
-2527,Olive Oil Chicken Karahi,karahi,karahi
-2528,Mozzarella Sticks,appetizer,appetizer
-2529,Tuna Pizza,pizza,pizza
-2530,Foodies Special Soup,soup,soup
-2531,Chicken Mushroom Ravioli,pasta,pasta
-2532,Beef & Cheese Burger,beef burger,beef burger
-2533,Afghani Salateen Pizza,pizza,pizza
-2534,Beef and cheese Skinny Burger,beef burger,beef burger
-2535,Heart Break Calzone,pizza,pizza
-2536,Cake Pop,cake,cake
-2537,Black Forest Cake,cake,cake
-2538,Fajita Sandwich,sandwich,sandwich
-2539,Doner Chicken Platter,shawarma,chicken
-2540,Buffalo Wings,chicken wings,chicken wings
-2541,Coffee Mania Frappe,frappe,frappe
-2542,Cheese Fries,fries,fries
-2543,Opium Finger Fish,fish,fish
-2544,Singaporean Chowmein,noodles,noodles
-2545,Garlic Bread,appetizer,appetizer
-2546,Special Fries,fries,fries
-2547,Cheesy Delight Pizza,pizza,pizza
-2548,Chicken Burger,chicken burger,chicken burger
-2549,Sausage Delight,drink,pizza
-2550,Lentil Soup,soup,soup
-2551,Angel Kiss ,drink,drink
-2552,Mexican,pizza,pizza
-2553,Lotus Waffle,waffles,waffles
-2554,Jasmine Rice,rice,rice
-2555,Coconut Ice Cream Sake,ice cream,ice cream shake
-2556,Chicken Kabab,chicken kabab,chicken kabab
-2557,Date Naan,naan,naan
-2558,Jalapeno Fire Watz Chicken Burger,chicken burger,chicken burger
-2559,Chicken Tabasco Pasta,pasta,pasta
-2560,Zinger ,shawarma,chicken burger
-2561,Grilled Chicken Half,bbq,chicken steak
-2562,Chicken Shawarma,shawarma,shawarma
-2563,Prawn Fried Rice,rice,rice
-2564,Chicken Burger Meal,chicken burger,chicken burger
-2565,Supreme Chicken Pizza,pizza,pizza
-2566,Toffee Crunch Cake,cake,cake
-2567,Iced Coffee,cold coffee,cold coffee
-2568,Hot Ruby,pizza,panini
-2569,Wasabi Prawns,seafood,prawns
-2570,Cashew Nuts Chicken,chinese,chicken
-2571,Chicken Tikka Achari,chicken tikka,pizza
-2572,Pineapple Chicken,chinese,chinese
-2573,Mutton Chanp Grill,mutton,mutton
-2574,Chocolate Ice Cream,ice cream,ice cream
-2575,Masala Fries,fries,fries
-2576,Thai Basil Chicken with Vegetables,thai,thai
-2577,Mint Chocolate Bomb,cold coffee,coffee
-2578,French Fruit,dessert,salad
-2579,Chicken Bihari Kabab,chicken kabab,chicken kabab
-2580,Paper Chicken,chicken,chicken
-2581,Spearmint Live Ice Cream,ice cream,ice cream
-2582,Popcorn Chicken,popcorn,pizza
-2583,Spicy Rice,rice,rice
-2584,Fire Crackers Roll,chicken roll,japanese
-2585,Beef Chili Dry,beef,chinese
-2586,Khao Phad Sprolt,rice,rice
-2587,Onion Rings,appetizer,fries
-2588,Afghani Pulao Mutton,mutton,rice
-2589,Strawberry Ice Cream Shake,ice cream shake,ice cream shake
-2590,Blue-Bana Blast,smoothie,smoothie
-2591,Namkeen Dumba Karahi,karahi,karahi
-2592,Salsa Fries,fries,fries
-2593,Firni,dessert,dessert
-2594,Firni (Thoothi),dessert,dessert
-2595,Chef Special Chicken,chinese,thai
-2596,Big Mommy,smoothie,chicken burger
-2597,Caramel Cunch Sundae,ice cream,dessert
-2598,Low Cal Breakfast,breakfast,breakfast
-2599,Chicken Spring Rolls,appetizer,chicken
-2600,Chili Garlic Stir Fry Calamari,calamari,calamari
-2601,Madrasi Piece,dessert,chicken tikka
-2602,Oatmeal Cookie,dessert,dessert
-2603,Classic Pancakes,pancakes,pancakes
-2604,Red Sauce Pasta,pasta,pasta
-2605,Chicken Cashew But,chinese,thai curry
-2606,Classic Italian Pasta Salad,salad,salad
-2607,Chicken Kastoori Boti,chicken boti,chicken boti
-2608,Fajita Sandwich,sandwich,sandwich
-2609,Original Burger Angus,beef burger,beef burger
-2610,Chocolate Shake ,shake,milkshake
-2611,Chicken Pineapple Salad,salad,salad
-2612,Green Lover,detox juice,pizza
-2613,Fresh Garden,drink,pizza
-2614,Tarragon Chicken,chicken,chicken
-2615,Ice Cream Faluda,ice cream,ice cream
-2616,Chicken Seekh Kabab,chicken kabab,chicken kabab
-2617,Thai Prawn Red Curry,prawns,thai curry
-2618,Chicken Harra Bharra,chicken,chicken gravy
-2619,Chicken BBQ Pizza,pizza,pizza
-2620,New Zealand Lamb Chops,lamb,lamb
-2621,Plain Haleem,salad,chicken
-2622,Chicken Cordon Blue,chicken,chicken
-2623,Chocolate Chip Muffin,breakfast,dessert
-2624,Aloo Qeema,qeema,chicken
-2625,Nutella Strawberry Cake,cake,cake
-2626,Beef Gola Kabab,beef kabab,beef kabab
-2627,Qeema Naan,naan,naan
-2628,American Chopsuey,noodles,noodles
-2629,Hot Sicilian Pizza,pizza,pizza
-2630,Chicken with Green Chilies and Roasted Peanuts,chicken gravy,chicken
-2631,Kit Kat Wafer,ice cream,shake
-2632,Espresso Club Sandwich ,sandwich,sandwich
-2633,Amigos Special Handi,handi,handi
-2634,Prawn Chopsuey,noodles,noodles
-2635,Lobster Tail Teppanyaki,japanese,japanese
-2636,Simple Cheese Paratha,paratha,paratha
-2637,The Banofee,dessert,dessert
-2638,Melon Teaser,drink,drink
-2639,Braised Red Sauce Lamb Shank,lamb,lamb
-2640,Thai Soup,soup,soup
-2641,King Prawns,prawns,prawns
-2642,Mutton Shahjahani Biryani,rice,rice
-2643,Beef in Hot Garlic Sauce,beef,chinese
-2644,Frappuccino ,cold coffee,cold coffee
-2645,Chicken Pepperoni Sandwich,sandwich,sandwich
-2646,Thai Lemon Chicken,thai,thai curry
-2647,Orange Juice,juice,fresh juice
-2648,Fish in Hot Sauce,fish,fish
-2649,Americano ,coffee,coffee
-2650,Valentino Signature Hot Chocolate,coffee,drink
-2651,Hash Mash Potato,potato wedges,vegetables
-2652,Whole Chicken ,chicken,chicken
-2653,Pan Fried Fish,seafood,seafood
-2654,Chicken Biryani,biryani,rice
-2655,Miami Summer Cooler,juice,chiller
-2656,Saute Diced Beef,beef,beef
-2657,Thrilled of Grill Burger,chicken burger,chicken burger
-2658,Student Biryani,biryani,biryani
-2659,Espresso Affogato,coffee,cold coffee
-2660,Green Tikka,chicken tikka,chicken tikka
-2661,Prawn Tempura,prawns,appetizer
-2662,Chicken Green Chili,chicken gravy,chicken gravy
-2663,Arabic Bread Sajj,arabic,arabic
-2664,Chicken Legend,chicken,pizza
-2665,Black Pepper Fish With Garlic Rice,fish,fish
-2666,Thai Prawn Green Curry,thai curry,thai curry
-2667,Plain Fries,fries,fries
-2668,Philly Cheese Steak Wrap,beef wrap,beef wrap
-2669,Beef Steak Burger,beef burger,beef burger
-2670,Lemonade,lemonade,lemonade
-2671,Hot Chocolate ,coffee,coffee
-2672,Smoked Chicken Pizza,pizza,pizza
-2673,Spinach Stuffed Chicken Breast,chicken steak,chicken
-2674,Mutton Kabab,mutton kabab,mutton kabab
-2675,Mexican Macaroni,pasta,salad
-2676,Spicy Chicken Wings,chicken wings,chicken wings
-2677,Chicken chili with Oyser Sauce,chinese,chinese
-2678,Fruit Punch Juice,fresh juice,juice
-2679,Sliced Chicken with Young Corn,chinese,chicken
-2680,Sweet & Sour Chicken,chinese,chinese
-2681,Stir Fried Lobster,seafood,lobster
-2682,Mutton Handi,handi,handi
-2683,Tuscany Special Pizza,pizza,pizza
-2684,Chicken Makhni Handi,handi,handi
-2685,Chicken Panini,panini,sandwich
-2686,Fish & Chips,fish,fish
-2687,Dried Red Pepper Beef,beef steak,beef
-2688,Cold Beef With Pickle Relish Sandwich,sandwich,sandwich
-2689,Chicken Masala Rice,rice,rice
-2690,Stuff Chicken,chicken,chicken wings
-2691,Caramel Frappe,cold coffee,coffee
-2692,Fried Mushroom,appetizer,appetizer
-2693,Fresh Lime,drink,drink
-2694,Chicken Fried Rice,rice,rice
-2695,Chicken Shish Taok,chicken boti,chicken boti
-2696,Strawberry Freezer,drink,drink
-2697,Chocolate Caramel Slice,dessert,dessert
-2698,Jumbo Sandwich,sandwich,sandwich
-2699,Mocha,coffee,coffee
-2700,Chili Dry Chicken,chinese,chinese
-2701,Wedges,potato wedges,fries
-2702,Soft Drink with Lime,drink,drink
-2703,Lemon Grass & Chili Prawns,prawns,prawns
-2704,Rainbow Cupcake,dessert,dessert
-2705,Dhaka Chicken,chicken,chicken
-2706,Galaxy Ice Roll,ice cream,ice cream
-2707,Chicken with Pineapple,chinese,chinese
-2708,Strawberry Apple Kale,detox juice,smoothie
-2709,Mexicano Hot,pizza,pizza
-2710,Mutton Karahi,karahi,karahi
-2711,Cheesy Wings,chicken wings,chicken wings
-2712,Sajji,chicken,chicken
-2713,Garlic Bread,appetizer,appetizer
-2714,Americano ,coffee,coffee
-2715,Vanilla Panna Cotta,ice cream,dessert
-2716,Haryali Boti,chicken boti,chicken boti
-2717,Chicken Chowmein ,noodles,noodles
-2718,Smashed Burger,burger,burger
-2719,Sliced Beef with Tomatoes,beef,beef
-2720,Special Garlic Chicken Sizzling,chinese,chinese
-2721,Russian Salad,salad,salad
-2722,Fish Crackers,appetizer,appetizer
-2723,Hot Chocolate Pancakes,pancakes,pancakes
-2724,Fish Tempura,fish,fish
-2725,Special Hot & Sour Soup,soup,soup
-2726,Cadbury Chocolate Cupcake,dessert,dessert
-2727,Tiger Prawns in Szechuan Sauce,prawns,prawns
-2728,Beef Cheese Burger,beef burger,beef burger
-2729,Mutton Biryani ,biryani,rice
-2730,Cold Coffee,cold coffee,coffee
-2731,Soup Salad & Fruit Bar,salad,salad
-2732,Chicken in Oyster Sauce,chinese,chinese
-2733,Chicken Cashew nut,thai curry,thai curry
-2734,Soft Drink,drink,drink
-2735,Chicken Mahkni Karahi,karahi,karahi
-2736,Chicken Malai Boti,chicken boti,chicken boti
-2737,Wrap,wrap,wrap
-2738,Jalapeno Bacon Beef & Cheese Burger,beef burger,beef burger
-2739,Balsamic Chicken Salad,salad,salad
-2740,The King of Steak,steak,steak
-2741,Kiwi Iced Tea,ice tea,ice tea
-2742,Supreme Wrap,wrap,beef wrap
-2743,Desire Chicken Steak,chicken steak,chicken steak
-2744,Banera Special Mutton handi,handi,mutton
-2745,Jalapeno Mexican Wings,chicken wings,chicken wings
-2746,Basil Beef Rice,rice,rice
-2747,Fried Chicken,chicken,chicken
-2748,Fresh Lime 7up,drink,drink
-2749,Rustica,dessert,pizza
-2750,Mutton Achari Handi,handi,handi
-2751,Opium Special Szechuan Soup,soup,soup
-2752,Famous Alfredo Pasta,pasta,pasta
-2753,Chocolate Cheesecake ,cake,cake
-2754,Cheng Mai,thai curry,chinese
-2755,Chicken Sweet chili Sauce,chinese,chinese
-2756,Iced Tea,ice tea,ice tea
-2757,Wild Mushroom Chicken,chicken,chicken
-2758,Tamarind Fish,fish,fish
-2759,Hot Shots,appetizer,appetizer
-2760,Chicken Corn Soup,soup,soup
-2761,Tawa White Taka Tak,mutton,masala
-2762,Fish Garlic Thai Style,seafood,fish
-2763,Tamarind Fish with Rice,fish,thai curry
-2764,Mint Raita,salad,salad
-2765,Chicken Burger,chicken burger,chicken burger
-2766,Cappuccino,coffee,coffee
-2767,Cafe Latte,coffee,coffee
-2768,Garlic Chicken,chinese,chinese
-2769,Batair,batair,batair
-2770,Mint Raita,salad,salad
-2771,Malai Chai,tea,tea
-2772,Blue Moon,drink,drink
-2773,Prawn Biryani,biryani,rice
-2774,Kasturi Garlic Mayo Roll,paratha roll,paratha roll
-2775,Tandoori Paratha,paratha,paratha
-2776,Salted Caramel,dessert,shake
-2777,Fettuccine al Burro,pasta,pasta
-2778,Mix Tea,tea,tea
-2779,Chicken Tender Strips,chicken,chicken
-2780,Mozzarella Cheese Sticks,appetizer,appetizer
-2781,Fish Crackers,appetizer,appetizer
-2782,Shrimps with Vegetable ,shrimp,shrimp
-2783,Special Sawadi Deal,chinese,chicken
-2784,Stick Honey Gola,gola,gola
-2785,Tropical Blast,smoothie,drink
-2786,Chicken Chili Dry,chinese,chicken
-2787,Mint Iced Tea,ice tea,ice tea
-2788,Szechuan Chicken,chinese,chinese
-2789,Chicken Shashlik,chinese,chinese
-2790,Jalapeno Burger,burger,burger
-2791,Chicken Kabab,chicken kabab,chicken kabab
-2792,Banarsi Tikka Curry,chicken tikka,chicken gravy
-2793,Eggs Benedict ,breakfast,breakfast
-2794,Belgian Lava,dessert,dessert
-2795,Thai Spicy Chowmein,noodles,noodles
-2796,Jumbo Sandwich,sandwich,sandwich
-2797,Mint Chillatah,drink,drink
-2798,Espresso,coffee,coffee
-2799,Tarragon Chicken,chicken,chicken
-2800,Beef Dhaga Kabab,beef kabab,beef kabab
-2801,Chicken in Cocktail ,chicken,chicken gravy
-2802,Black Pepper Steak,steak,steak
-2803,Sauteed Vegetables,vegetables,vegetables
-2804,Twister with Regular Drink ,wrap,wrap
-2805,Thai Curry Fish with Basil Coriander,thai curry,thai curry
-2806,Angel Mist,drink,drink
-2807,Qeema Special Cheese Paratha,paratha,paratha
-2808,Double Chocolate Fudge Cookie,dessert,dessert
-2809,Mutton Boneless Achari Handi,handi,handi
-2810,Chicken Badami Handi,handi,handi
-2811,White Choclocate Latte Shake,ice cream shake,ice cream shake
-2812,Lasagna Verde Pasta,pasta,pasta
-2813,Double Chocolate Butter Coffee,coffee,coffee
-2814,Honey Glazed Chili Prawns,prawns,prawns
-2815,French Kiss Caffe Latte,coffee,coffee
-2816,Thai Prawn Green Curry,thai curry,prawns
-2817,Manhattan Special,pizza,cold coffee
-2818,Mexican Fries ,fries,fries
-2819,Tea,tea,tea
-2820,French Toast,breakfast,breakfast
-2821,Brownie Point ,dessert,dessert
-2822,Spezia Fries,fries,fries
-2823,Chicken in Almonds,chinese,chicken gravy
-2824,Chicken ,chicken,shawarma
-2825,Mutton Paye,mutton,mutton
-2826,Orange Beef,beef,beef
-2827,Mocha Frappe,frappe,cold coffee
-2828,Banana Smoothie,smoothie,smoothie
-2829,Full Broast,chicken roast,chicken roast
-2830,Seared Sirloin with Shrooms,dessert,beef
-2831,Fusion Garlic Bread,appetizer,appetizer
-2832,Kiwi Strawberry,drink,drink
-2833,Aalo Special Naan,naan,naan
-2834,Nutella Caramel,dessert,dessert
-2835,Cheese Naan,naan,naan
-2836,Beef Qeema Naan,naan,naan
-2837,Fish & Chips,fish,fish
-2838,Pepperoni Calzone,pizza,pizza
-2839,Dhaka Chicken Cubes,chicken,chicken
-2840,Asian Chicken Tikka Pizza,pizza,pizza
-2841,Daal Maash,vegetable curry,vegetables
-2842,Mutton Handi,handi,handi
-2843,Irish Coffee,coffee,coffee
-2844,Very Berry Smoothie,smoothie,smoothie
-2845,Special Chowmein,noodles,noodles
-2846,Turkish Roll,paratha roll,paratha roll
-2847,White Marshmallow Hot Chocolate,coffee,drink
-2848,Tarragon Chicken Pizza,pizza,pizza
-2849,Mineral Water,drink,drink
-2850,Crispy Golden Prawns,prawns,prawns
-2851,Chicken Chili Fried Rice,rice,rice
-2852,Special Shahjahani Mixed Taka Tak,chicken gravy,mutton
-2853,French Toast,breakfast,breakfast
-2854,Chicken Burger,chicken burger,chicken burger
-2855,Macchiato,coffee,coffee
-2856,Mutton Karahi,karahi,mutton
-2857,Chicken Tikka Wrap,wrap,wrap
-2858,Wild Shitake Mushroom Steak,beef steak,steak
-2859,Kulcha,naan,naan
-2860,Chicken Tikka,chicken tikka,pizza
-2861,Cheese Garlic Bread,appetizer,appetizer
-2862,Beef Roast Burger,beef burger,beef burger
-2863,Chicken Tikka,chicken tikka,pizza
-2864,Blueberry smoothie,smoothie,smoothie
-2865,Gardener's Salad,salad,salad
-2866,TBC Sauce,appetizer,appetizer
-2867,Noodle Woodle Special Fried Rice,rice,rice
-2868,Texas Burger,burger,chicken burger
-2869,Orange Juice,juice,fresh juice
-2870,Thai Szechuan Chicken,thai curry,thai
-2871,Grilled Chicken Breast Sandwich,sandwich,sandwich
-2872,Beef Khoya Kabab,beef kabab,beef kabab
-2873,American Burger,burger,burger
-2874,Chicken Fingers,chicken,chicken
-2875,Chicken Seekh Kabab,chicken kabab,chicken kabab
-2876,Chicken Chowmein,noodles,noodles
-2877,Mint Raita,salad,salad
-2878,Green Tea,tea,tea
-2879,Signature Mac n Cheese,appetizer,pasta
-2880,Fish Tikka,fish,fish
-2881,Steak and Eggs,breakfast,breakfast
-2882,Fat Boy Slim,dessert,chicken burger
-2883,1/2 Rings & 1/2 Fries,fries,appetizer
-2884,Espresso Burger,burger,burger
-2885,Blue Dragon,drink,beef burger
-2886,Chicken Supreme Teppanyaki,pizza,japanese
-2887,Fresh Lime in Soft Drink,drink,drink
-2888,Chicken Malai Boti,chicken boti,chicken boti
-2889,Pasta Au Gratin,pasta,pasta
-2890,Penne Mozzarella,pasta,pasta
-2891,Murgh Channay,chicken,breakfast
-2892,Lemon Splash Smoothie,drink,smoothie
-2893,Chicken Qorma,chicken gravy,chicken gravy
-2894,Tawa Piece,chicken,chicken boti
-2895,Brain Masala,masala,masala
-2896,Lemon Grass and Chili Fish,fish,fish
-2897,Kasturi Boti,chicken boti,chicken boti
-2898,Garlic Naan,naan,naan
-2899,Cheese Naan,naan,naan
-2900,Breaded Parmesan Prawns,prawns,prawns
-2901,Street 360 Special Pizza,pizza,pizza
-2902,Lucky Chicken,chicken,chinese
-2903,Chicken Spaghetti in Cream Sauce,noodles,pasta
-2904,Stuffed Croissant ,breakfast,breakfast
-2905,Bread and Butter Pudding ,dessert,dessert
-2906,Espresso Con Panna,coffee,coffee
-2907,Fresh Lime Sprite,drink,drink
-2908,Lychee Pineapple,ice cream,drink
-2909,Mutton Karahi,karahi,karahi
-2910,Opium Special,pizza,drink
-2911,Mint Lime Slurpee,drink,drink
-2912,Club Sandwich,sandwich,sandwich
-2913,Deep Fried Red Snapper with Ginsoy's Chili Sauce,fish,fish
-2914,Chicken Jalapeno Pizza,pizza,pizza
-2915,Louisiana Chicken Pasta,pasta,pasta
-2916,Chicken Cheese Kabab ,chicken kabab,pizza
-2917,Black Manchurian with Rice,chinese,chinese
-2918,Mutton Naan,naan,naan
-2919,Tamarind Fish,fish,fish
-2920,Fresh Lime,drink,drink
-2921,Soft Drink,drink,drink
-2922,Spaghetti with Meat Balls,noodles,noodles
-2923,Roast Beef Pizza,pizza,pizza
-2924,Chicken Vegetable,chinese,chinese
-2925,Mongolian Chicken with Rice,rice,chinese
-2926,Dera Special Platter,bbq,bbq
-2927,Chicken Tikka Pizza,pizza,pizza
-2928,Chicken with Mixed Vegetables,chicken gravy,chinese
-2929,Batair,batair,batair
-2930,Chicken Tikka,chicken tikka,chicken tikka
-2931,Thai Mongolian Chicken,thai curry,thai curry
-2932,Chicken Achari Boti,chicken boti,chicken boti
-2933,Chicken Tawa,chicken,chicken gravy
-2934,Masala Fries,fries,fries
-2935,Tobasco Chicken,chicken,chinese
-2936,Achari Qeema Paratha,paratha,paratha
-2937,Fine Special Burger,burger,burger
-2938,Thunder Fillet Burger,chicken burger,chicken burger
-2939,City Special Chicken Burger,chicken burger,chicken burger
-2940,Hot & Sour Soup,soup,soup
-2941,Chicken Drum Sticks,drum sticks,drum sticks
-2942,Chicken Karahi,karahi,karahi
-2943,Biscoff Ecstasy ,dessert,dessert
-2944,Crunchy Caramel Cake,cake,cake
-2945,Cafe Latte,coffee,coffee
-2946,Shawarma Pizza,shawarma,pizza
-2947,Greek Salad with Smoked Salmon,salad,salad
-2948,Chicken Fajita,pizza,pizza
-2949,Chicken Mushroom,chicken,chicken
-2950,Double Chocolate Butter Coffee,coffee,coffee
-2951,Batair Masala,batair,masala
-2952,Potato Paratha,paratha,paratha
-2953,Beef Preserved Vegetable Soup,soup,soup
-2954,Grilled Gourmet Burger,burger,burger
-2955,Django BBQ Sandwich,sandwich,sandwich
-2956,Thai Beef with Basil,beef,chinese
-2957,Beef Chili Oyster ,beef,beef
-2958,Spiced Grilled Chicken,chicken steak,chicken steak
-2959,Spicy Garlic Chicken ,chinese,chinese
-2960,Sausages Cheese Omelette,breakfast,breakfast
-2961,Strawberry Smoorhie,ice cream,smoothie
-2962,Sriracha Tempura Prawns,prawns,prawns
-2963,Garlic Bread with Cheese,appetizer,appetizer
-2964,Thai Curry Fish with Basil and Coriander,thai curry,thai
-2965,Malghoom Chicken Cheese Paratha Roll,paratha roll,paratha roll
-2966,Bean Curd with Vegetables,vegetables,vegetables
-2967,Royal Chicken ,chicken,pizza
-2968,Classic Shake Smoothie,smoothie,smoothie
-2969,Reshmi Kabab,chicken kabab,chicken kabab
-2970,Hyderabad Biryani,biryani,rice
-2971,Stuffed Chicken Risotto ,chicken,chicken
-2972,Sweet and Sour Prawns,prawns,prawns
-2973,Shikanjabeen,dessert,lemonade
-2974,Aubergine Pasta,pasta,pasta
-2975,Multi Beef Sandwich,sandwich,sandwich
-2976,Chicken Mayo Paratha Roll,chicken roll,paratha roll
-2977,Ristretto Espresso,coffee,coffee
-2978,Maghaz Masala,drink,masala
-2979,Vanilla Ice Cream,ice cream,ice cream
-2980,Nyc Margherita Pizza,pizza,pizza
-2981,Potato Fish,fish,fish
-2982,Ice Cream,ice cream,ice cream
-2983,Seafood Salad,salad,salad
-2984,Mexican Burger,chicken burger,beef burger
-2985,Fudge Cake Slice,cake,cake
-2986,Desi Murgh Karahi,karahi,karahi
-2987,Mutton Kabab,mutton kabab,mutton kabab
-2988,Vanilla Shake,shake,milkshake
-2989,Black Pepper Chicken,chinese,chinese
-2990,Cookie Shot with Hot Chocolate,drink,dessert
-2991,Spicy Grilled Calamari ,calamari,calamari
-2992,Apple Pie,dessert,dessert
-2993,Cheese Lover Sandwich,sandwich,sandwich
-2994,Mexican Fajita Pizza,pizza,pizza
-2995,Espresso Coffee ,coffee,coffee
-2996,Still Water,drink,drink
-2997,Gunslinger,dessert,chicken steak
-2998,Cheese & Jalapeno Burger,burger,burger
-2999,Texas Chili Fries,fries,fries
-3000,Chicken with Young Corn,chicken,chinese
-3001,Club Sandwich,sandwich,sandwich
-3002,2 Cheese Melt,sandwich,sandwich
-3003,Dark Chocolate Tart,dessert,dessert
-3004,Pakora Fish,fish,fish
-3005,Chokar ki Roti,naan,naan
-3006,Cookie Shot,dessert,dessert
-3007,Chicken Breast Burger,chicken burger,chicken burger
-3008,Champ Masala,masala,masala
-3009,Vegetable FlatBread,pizza,pizza
-3010,Mexican Pepperoni Pizza,pizza,pizza
-3011,Moroccan Chicken,chicken,chicken gravy
-3012,Black Pepper Chicken,chinese,chinese
-3013,Chicken Pasha,bbq,chicken gravy
-3014,Chicken Chilies and Onion,chinese,chicken gravy
-3015,Orange Mode,dessert,drink
-3016,Watermelon Juice,juice,juice
-3017,Hot n Spicy Spaghetti,noodles,noodles
-3018,Grilled Chicken Burger,chicken burger,chicken burger
-3019,Zinger Cheese Shawarma,shawarma,shawarma
-3020,Pataka Chops Masala,masala,masala
-3021,Thai Soup,soup,soup
-3022,Mutton Kabab,mutton kabab,mutton kabab
-3023,Mixed Seafood Salad,seafood,salad
-3024,Tawa Chicken,chicken,chicken
-3025,Chicken Boti,chicken boti,chicken boti
-3026,Chicken Parmigiana,chicken,chicken
-3027,Famous Star with Cheese,appetizer,beef burger
-3028,Tawa Qeema,mutton,mutton
-3029,Soft Drink,drink,drink
-3030,Egg Fried Rice,rice,rice
-3031,Death by Chocolate,dessert,dessert
-3032,Chicken Florentine,chicken,chicken
-3033,Spicy Fettuccine Chicken Pasta,pasta,pasta
-3034,Fish Cracker,appetizer,appetizer
-3035,Plain Rice,rice,rice
-3036,Fried Fish,fish,fish
-3037,Daal Mash,vegetable curry,vegetable curry
-3038,Chicken Drum Stick,drum sticks,drum sticks
-3039,Chicken Manchurian ,chinese,chinese
-3040,BBQ Chicken Masala,masala,masala
-3041,Sashimi Moriawase,japanese,japanese
-3042,Kick Cracker Zinger Burger,chicken burger,chicken burger
-3043,Kung Pao Chicken,chinese,chinese
-3044,Kit Kat Shake,milkshake,shake
-3045,Beef Chili Dry,beef,beef
-3046,Chicken Hot Shot,chicken,chicken
-3047,Mughlai Beast,pizza,pizza
-3048,Mutton Makhni,mutton gravy,mutton gravy
-3049,French Fries,fries,fries
-3050,Buffalo Bites,pizza,chicken
-3051,Pancakes Original,pancakes,pancakes
-3052,Mutton Peshawari Karahi,karahi,karahi
-3053,Scoop of Gelato ,ice cream,dessert
-3054,Bpc Salad,salad,salad
-3055,Mango Smoothie,smoothie,smoothie
-3056,Euro Delight,pizza,pizza
-3057,Tandoori Fish ,fish,fish
-3058,Chicken Pot Pie,chicken,chicken
-3059,Mini Stuff Chicken with Cheese,chicken,chicken
-3060,Chicken Fried Rice,rice,rice
-3061,Jalapeno Chicken,chicken,chicken
-3062,Hot Sauce Shrimps,shrimp,shrimp
-3063,Kalawanji Aaloo,dessert,vegetable curry
-3064,Pan Fried Noodle Bowl,noodles,noodles
-3065,Yam Wonton,salad,appetizer
-3066,Italian Special Chicken,chicken,chicken
-3067,Chicken Mushroom Spud ,chicken,chicken
-3068,Thai Chowmein,noodles,noodles
-3069,Grilled Chargha,chicken roast,chicken roast
-3070,Gulab Jamun,dessert,dessert
-3071,Portuguese Salad,salad,salad
-3072,Chicken Chili Dry,chinese,chinese
-3073,Aloo Samosa,samosa,samosa
-3074,Seafood Pizza,pizza,pizza
-3075,Vanilla Espresso Milkshake,milkshake,milkshake
-3076,Strawberry Mojito ,drink,drink
-3077,Life Line Juice,juice,detox juice
-3078,Red Bowl Special Prawn,prawns,prawns
-3079,Stuffed Chicken with Spinach and Feta Cheese ,chicken,chicken
-3080,Char Grilled Chicken,sandwich,sandwich
-3081,Beef Chili Dry,beef,chinese
-3082,Hot Black Pepper Beef,beef steak,chinese
-3083,Cold Coffee,cold coffee,cold coffee
-3084,Water,drink,drink
-3085,Chicken Caesar Salad,salad,salad
-3086,Banana Smoothie,smoothie,smoothie
-3087,Mutton Tikka with Bone,mutton tikka,mutton
-3088,Spinach Greens with Garlic,appetizer,vegetables
-3089,The Mild Wild Burger,burger,chicken burger
-3090,Potato Wedges,potato wedges,appetizer
-3091,Spicy Grilled Fajita Sandwich,sandwich,sandwich
-3092,Tempura Soba,japanese,noodles
-3093,Fish & Chips,fish,fish
-3094,Kung Pao Chicken ,chinese,chicken gravy
-3095,Adana BBQ Lamb Roll,shawarma,shawarma
-3096,Chicken BBQ Pizza,pizza,pizza
-3097,Tawa Chicken Kabab Masala,masala,masala
-3098,Praline Hot Chocolate,coffee,drink
-3099,Besan Naan,naan,naan
-3100,Malai Boti Pizza,chicken boti,pizza
-3101,Hot n Sour Soup,soup,soup
-3102,Chicken Karahi,karahi,karahi
-3103,Chowmein,noodles,noodles
-3104,Rajhistani Tikka,chicken tikka,chicken tikka
-3105,Dinner Roll,appetizer,appetizer
-3106,El Classico,dessert,beef burger
-3107,Sweet & Sour Chicken,chinese,chinese
-3108,Hot Garlic Prawns with Rice,prawns,prawns
-3109,Peach & Apple,drink,milkshake
-3110,Green Apple Slush,slush,drink
-3111,Sweet & Sour Prawns,prawns,prawns
-3112,Chicken Tikka Wrap,wrap,wrap
-3113,Dahi Bhallay,chaat,chaat
-3114,Sausage Chicken Pizza,pizza,pizza
-3115,Plain Daal Channa,vegetables,vegetables
-3116,Szechuan Soup,soup,soup
-3117,Malai Boti,chicken boti,chicken boti
-3118,Ice Cream,ice cream,ice cream
-3119,Gajar ka Halwa,dessert,dessert
-3120,Fresh Seasonal  Juice,fresh juice,fresh juice
-3121,Broccoli Soup,soup,soup
-3122,Grilled Fish with Butter and Lime Sauce,fish,fish
-3123,Pepperoni Pizza,pizza,pizza
-3124,Hawaiian Steak,steak,steak
-3125,Chicken Caesar Salad,salad,salad
-3126,Fish Crackers,appetizer,appetizer
-3127,Chocolate Malt Cake,cake,cake
-3128,Cold Coffee,cold coffee,cold coffee
-3129,Cheese Fried Fish,fish,fish
-3130,Tenderloin Steak,steak,steak
-3131,Pina Colada,drink,drink
-3132,Alla Diavola Pizza,pizza,pizza
-3133,Aloo Paratha,paratha,breakfast
-3134,Green Pepper Chicken,chicken gravy,chicken steak
-3135,Greek Salad Omelette,salad,breakfast
-3136,Red Roast Fish,fish,fish
-3137,Marshmallow Hot Chocolate,coffee,drink
-3138,Peach Margarita,margarita,margarita
-3139,Grilled Red Snapper with Mint Sauce,fish,fish
-3140,Crispy Breast Burger,chicken burger,chicken burger
-3141,Chicken Handi,handi,handi
-3142,Parmesan Chicken,chicken,chicken
-3143,Chicken Sandwich,sandwich,sandwich
-3144,Margherita Cheese Pizza,pizza,pizza
-3145,Chili Fish,fish,fish
-3146,Big King Beef Sandwich,sandwich,beef burger
-3147,Chicken Piccatta,chicken,pasta
-3148,Hershey's Chocolate Shake,shake,shake
-3149,Sicilian Chicken,chicken,chicken
-3150,Lemonade,lemonade,drink
-3151,Sezchuan Chicken,chinese,chinese
-3152,Chicken Cheese Paratha Platter,paratha,paratha roll
-3153,Oreo Cookie Milkshake,milkshake,milkshake
-3154,Shrimps on Toast,shrimp,shrimp
-3155,Butlers Signature Chocolate Milkshake,milkshake,milkshake
-3156,Brunch Sandwich,sandwich,breakfast
-3157,Potato Stick,appetizer,fries
-3158,Spicy Sandwich,sandwich,sandwich
-3159,Earl Grey,dessert,tea
-3160,Szechuan Soup,soup,soup
-3161,Garlic Chicken,chinese,chinese
-3162,Norwegian Salmon Teriyaki,japanese,japanese
-3163,Sarpino's Chicken Supreme,pizza,pizza
-3164,Mutton Boneless Handi,mutton gravy,handi
-3165,Avacado Salad,salad,salad
-3166,Malai Boti,chicken boti,pizza
-3167,Jalapeno BBQ,appetizer,sandwich
-3168,Mongolian Beef,beef,beef
-3169,Chicky Meal 4,chicken burger,chicken
-3170,Carne Beef Salad,salad,salad
-3171,Pinacolada,drink,drink
-3172,Chicken Kabab Roll Single,paratha roll,paratha roll
-3173,Kashmiri Chai,tea,tea
-3174,Jalapeno Caper Steak,steak,steak
-3175,Chicken Special Paratha ,paratha,paratha
-3176,Cookie Dough,dessert,dessert
-3177,Tangy Wings,chicken wings,chicken wings
-3178,Peppercorn,dessert,steak
-3179,Tandoori Platter,bbq,bbq
-3180,Kids Meal,chicken,chicken
-3181,Deal 1,chicken roast,chicken burger
-3182,Euro Pizza,pizza,pizza
-3183,Peanut Butter Brownie ,dessert,dessert
-3184,Mutton Handi,handi,mutton
-3185,Chocolate Molten Lava,dessert,dessert
-3186,Fresh Green Salad,salad,salad
-3187,Zeera Raita,salad,salad
-3188,Diablo Noodles,noodles,noodles
-3189,Cherry,dessert,ice cream
-3190,American,pizza,breakfast
-3191,Steamed Jasmine Rice,rice,rice
-3192,Tamarind Fish,fish,fish
-3193,Coffee Walnut Cake,cake,cake
-3194,Chicken Reshmi Kabab,chicken kabab,chicken kabab
-3195,Spicy Chili Wings,chicken wings,chicken wings
-3196,Tom Yum Goong,soup,soup
-3197,Cheese Naan/Garlic Cheese Naan,naan,naan
-3198,Chocolate Syrup Shake,shake,shake
-3199,Special Malai Grill Burger,chicken burger,chicken burger
-3200,Steaky Breakfast,breakfast,breakfast
-3201,Beef Chilies Dry,beef,beef
-3202,Cappuccino Flavoured,coffee,coffee
-3203,Zinger Shawarma,shawarma,shawarma
-3204,Green Chili Stir Fry Fish,fish,fish
-3205,Valentino Signature Latte,coffee,coffee
-3206,Chicken Rajistani Handi,handi,handi
-3207,Cold Coffee,cold coffee,cold coffee
-3208,Chicken Gujrati Handi,handi,handi
-3209,Tandoor Special Soup,soup,soup
-3210,Peanut Butter Live Ice Cream,ice cream,ice cream
-3211,Chicken Tikka Pizza,pizza,pizza
-3212,Chicken Tawa Piece,chicken tikka,chicken
-3213,Rajasthani Mutton Handi,handi,handi
-3214,Special Crispy Burger,burger,chicken burger
-3215,Chicken Achari Karahi,karahi,karahi
-3216,Beef Stir Fry,beef,beef
-3217,Premium Toppings,appetizer,appetizer
-3218,Lasagna ,pasta,pasta
-3219,Honey Chicken,chicken,appetizer
-3220,Joint Masala,masala,masala
-3221,Flavoured Latte,coffee,coffee
-3222,Drum Sticks,drum sticks,drum sticks
-3223,Mushroom Steak,steak,steak
-3224,Chicken Shawarma Cheese Platter,shawarma,shawarma
-3225,Ice Cream,ice cream,ice cream
-3226,Prawns Szechuan,prawns,prawns
-3227,Green Tea,tea,tea
-3228,Tikka Pizza,pizza,pizza
-3229,Butter Crust Special Delight Pizza ,pizza,pizza
-3230,Grilled Chicken,chicken steak,chicken steak
-3231,Beijing Chicken,chinese,chinese
-3232,Joojeh Kabab,chicken kabab,chicken kabab
-3233,Bronc Buster,dessert,burger
-3234,Crispy Wrap,wrap,wrap
-3235,Chicken Cheese Paratha,paratha,paratha roll
-3236,Beef Steak Slices Pizza,beef steak,pizza
-3237,New York Spuds,coffee,appetizer
-3238,Strawberry Smoothie,smoothie,smoothie
-3239,Plum and Juicy Steak,steak,steak
-3240,Fried Fish Cutlet,fish,fish
-3241,Oreo & Banana Ice Roll,ice cream,ice cream
-3242,Chicken Chowmein,noodles,noodles
-3243,Berry Smoothie,smoothie,smoothie
-3244,The Sheriff's Cut Premium Fillet,beef steak,beef steak
-3245,Arcadian Special Sandwich ,sandwich,sandwich
-3246,Mexican Beef Pizza,pizza,pizza
-3247,Cheese Nuggets,chicken,chicken
-3248,Chicken Reshmi Kabab,chicken kabab,chicken kabab
-3249,Kung Pao Chicken,chinese,chinese
-3250,Chicken Mushroom Sandwich,sandwich,sandwich
-3251,Thai Sticky Rice with Fresh Seasonal Fruit & Ice Cream,drink,dessert
-3252,Pepperoni Caper Chicken,chicken,chicken
-3253,Miso Soup,soup,soup
-3254,Chicken Rainbow Wrap,wrap,wrap
-3255,Chicken Sichuan,chicken gravy,chinese
-3256,Flames Special Pizza,pizza,pizza
-3257,Onion Rings,appetizer,appetizer
-3258,Hot Chocolate,coffee,drink
-3259,Mango Ice Cream Shake,ice cream shake,ice cream shake
-3260,Berry Banana Burst,milkshake,smoothie
-3261,Chicken Chilies Onion,chinese,chinese
-3262,Italian Pizza,pizza,pizza
-3263,Cream of Chicken Soup,soup,soup
-3264,Chicken Fajita Pizza,pizza,pizza
-3265,Tender Chicken Sandwich,sandwich,sandwich
-3266,Croissant Crust,breakfast,sandwich
-3267,Power Breakfast,breakfast,breakfast
-3268,Prawn on Toast with Sesame Seeds ,prawns,prawns
-3269,Chicken Cheese Boti,chicken boti,chicken boti
-3270,Tomato Carrot And Chicken Soup,soup,soup
-3271,Chicken Supreme Burger,chicken burger,chicken burger
-3272,Grilled Beef Patty Burger,beef burger,beef burger
-3273,Rich Cocoa,dessert,drink
-3274,Cream Chat,salad,salad
-3275,Black Tea,tea,tea
-3276,King of the Grill Burger,chicken burger,chicken burger
-3277,Hommous Belahma,arabic,arabic
-3278,Shahi Kheer,dessert,dessert
-3279,Mixed Grill Platter,bbq,bbq
-3280,Kids Tetrazzini Pizza,pizza,pizza
-3281,Chicken Chili Onion,chinese,chinese
-3282,Finger Fish,fish,fish
-3283,Finger Fish,fish,fish
-3284,Black Pepper Chicken,chinese,chinese
-3285,Espetada,chicken,chicken
-3286,Honey Glazed Wings,chicken wings,chicken wings
-3287,Chicken Shrimp Mushroom Egg Flower Soup,soup,soup
-3288,New York Pepper Steak,steak,beef steak
-3289,Infuso Signature,burger,tea
-3290,Japanese Prawns Tapenyaki ,japanese,japanese
-3291,Chicken Mushroom Burger,chicken burger,chicken burger
-3292,Sweet and Sour Prawns,prawns,prawns
-3293,Chicken BBQ Sauce Roll,paratha roll,paratha roll
-3294,Grilled Chicken,chicken steak,sandwich
-3295,Mozzarella Sticks,appetizer,appetizer
-3296,Sichuan Special Chowmein,noodles,noodles
-3297,Mega Vitality,dessert,smoothie
-3298,Chicken Lettuce Wraps,wrap,appetizer
-3299,The Vegetarian Pizza,pizza,pizza
-3300,Fajita,pizza,pizza
-3301,Coffee ,coffee,coffee
-3302,Italiano Tomato Pasta,pasta,pasta
-3303,Chicken Hot Sandwich,sandwich,sandwich
-3304,Chicken Tandoori Pizza,pizza,pizza
-3305,Soft Drink,drink,drink
-3306,Cheesy Bread,appetizer,appetizer
-3307,Hunter Beef Sandwich,sandwich,sandwich
-3308,Afghani Kabab,mutton kabab,mutton kabab
-3309,Chicken Tikka,chicken tikka,pizza
-3310,Garlic Bread,appetizer,appetizer
-3311,Thai Three Leaf Chicken,thai curry,chinese
-3312,Chef's Special Sandwich,sandwich,sandwich
-3313,Chicken Naan,naan,naan
-3314,Mint Margarita,margarita,margarita
-3315,Mexican Hearts,pizza,pizza
-3316,Kids Pasta,pasta,pasta
-3317,Chicken Cheese Naan,naan,naan
-3318,Philly Cheese Steak,sandwich,sandwich
-3319,Caesar Salad,salad,salad
-3320,Green Pepper Chicken,chicken gravy,chicken
-3321,Golden Fried Pomfret,fish,fish
-3322,Chicken Cheese Kabab Pizza,pizza,pizza
-3323,Caffe Latte,coffee,coffee
-3324,Eggs Cheese Sandwich,sandwich,sandwich
-3325,Gajar ka Halwa,dessert,dessert
-3326,Seafood Platter,seafood,seafood
-3327,Chicken Roulade,chicken,chicken
-3328,Spicy Crispy Chicken ,chicken,chicken burger
-3329,Tea,tea,tea
-3330,Yumm Bites,appetizer,appetizer
-3331,Chicken Piece,bbq,bbq
-3332,Red Curry,chinese,chicken gravy
-3333,Stuffed Chicken,chicken,chicken
-3334,Nutella Cheese Sticks,appetizer,dessert
-3335,Lasagna ,pasta,pasta
-3336,Special Cherry Pineapple Chicken,chinese,chinese
-3337,Daal Mahkni,vegetable curry,vegetable curry
-3338,Black Pepper Chicken,chinese,chinese
-3339,Fruit Salad,salad,salad
-3340,Chicken Cheese Shawarma,shawarma,shawarma
-3341,Stir Fried Chicken Cashewnuts,chinese,thai curry
-3342,Chicken Cheese Kabab,chicken kabab,chicken kabab
-3343,Chicken Mughlai,chicken gravy,chicken gravy
-3344,Firni,dessert,dessert
-3345,Cheese Lovers,pizza,pizza
-3346,Beef Chili Dry,beef,chinese
-3347,Prawns in Dragon Fire Sauce,prawns,prawns
-3348,Ice Tea,ice tea,ice tea
-3349,BBQ Wings,chicken wings,chicken wings
-3350,Grilled Chicken and Cheese Sandwich,sandwich,sandwich
-3351,Lemon Mint,drink,drink
-3352,Sole Fish,fish,fish
-3353,Ashkabad Chicken Kazan,chicken,chicken
-3354,Masala Chocolate Truffle,masala,tea
-3355,Daal Karahi,karahi,karahi
-3356,Mongolian Chicken,chinese,chinese
-3357,Chicken Tempura,chicken,chicken
-3358,Chicken Black Pepper,chinese,chicken gravy
-3359,Brick Fried Baked Potatoes,appetizer,appetizer
-3360,Creamy Mushroom Steak,steak,steak
-3361,Nutella Pancake,pancakes,pancakes
-3362,360 Special Pizza,pizza,pizza
-3363,Chicken Tikka Burger,chicken burger,chicken burger
-3364,Panna Cotta,dessert,dessert
-3365,Smoked Chicken Chili Pizza,pizza,pizza
-3366,Volcano Roll,chicken roll,japanese
-3367,Khoya Khajoor Shake,shake,shake
-3368,Bar B.Q Wings,chicken wings,chicken wings
-3369,Chicken Handi,handi,handi
-3370,Roulade Chicken,chicken,chicken
-3371,Tandoori Paratha,paratha,appetizer
-3372,Stuffed Chicken Butter,chicken,chicken
-3373,Chicken Pepper Steak ,chicken steak,chicken steak
-3374,P.B. Mania Shake,shake,milkshake
-3375,Afghani Seekh Tikka Chicken,chicken tikka,chicken tikka
-3376,Red Dragon Chicken Burger,chicken burger,chicken burger
-3377,Chicken Shashlik eith Rice,chinese,chinese
-3378,Chicken Karahi,karahi,karahi
-3379,Philly Cheese Steak Pizza,pizza,pizza
-3380,Smoked Salmon Tartine,sandwich,fish
-3381,Mineral Water,drink,drink
-3382,Chicken Piece,bbq,chicken
-3383,Chicken Shrimp Mushroom Egg Flower Soup,soup,soup
-3384,Herb Sandwich,sandwich,sandwich
-3385,Beef Shawarma Platter,shawarma,shawarma
-3386,Mix Vegetable Paneer,vegetable curry,vegetables
-3387,Fish Manchurian Glazed,fish,fish
-3388,Fish with Vegetable Soup,soup,soup
-3389,Nourishing Almond With Dates,drink,detox juice
-3390,Peri Max,pizza,pizza
-3391,Skinny Latte,coffee,coffee
-3392,Special Chicken Naan,naan,naan
-3393,Steamed Dim Sum,dessert,seafood
-3394,BBQ Chicken,chicken,pizza
-3395,Panevino Italian Salad,salad,salad
-3396,Sismi Chicken,chicken,chinese
-3397,Mint Margarita,margarita,drink
-3398,Tuna Salad,salad,salad
-3399,Chocolate Naan,naan,naan
-3400,Cheese Lover,pizza,pizza
-3401,Chicken Garlic Mayo Wrap,wrap,wrap
-3402,Seafood Fried Rice,rice,rice
-3403,Meringue Cake,cake,cake
-3404,Champ Masala,masala,masala
-3405,Fish Steak,steak,steak
-3406,Mushroom Sauce Burger,burger,burger
-3407,Vegetables and Chicken Soup,soup,soup
-3408,The Boss,dessert,beef burger
+,Actual,Dish,Predicted
+12,shawarma,Chicken ,chicken
+14,breakfast,Scone,dessert
+15,chinese,Sesame Beef with Rice,rice
+16,crepes,Quesadilla Crepe,quesadilla
+18,chinese,Steam Dumpling ,appetizer
+19,dessert,Coffee Cupcake,cake
+23,appetizer,Stuffed Chilies ,chicken
+32,chicken gravy,Chicken Achari Tawa,chicken
+36,beef burger,The Special One,chinese
+38,masala,Mutton Kabab Nawabi Masala,mutton
+42,chicken,Special Hot Plate Chicken,chinese
+44,pizza,BBQ Tikka,chicken tikka
+45,steak,Something Spicy,chicken burger
+49,chicken,Stuffed Ravioli Chicken,pasta
+53,rice,Thai Garlic Rice,thai curry
+61,pizza,Chicken Hari Boti Pizza,chicken boti
+64,handi,Chicken Madrasi,chicken gravy
+69,appetizer,Chilli Garlic Prawns,prawns
+71,chicken burger,Jalapeno Cheese Grill Burger,burger
+73,cold coffee,Americano Latte ,coffee
+77,karahi,Mutton Karhai,mutton
+79,chicken burger,Mushroom Grilled Burger,burger
+91,dessert,Cadbury,ice cream
+104,ice cream,Mocha Coffee,coffee
+105,shake,Wild Vanilla,ice cream
+114,breakfast,Desi,chicken
+120,fish,Steamed Fillet with Black Beans,breakfast
+127,pizza,Three Pounder,beef burger
+132,lobster,Lobster Thermedor,japanese
+141,chinese,Chicken with Cashew Nuts,thai curry
+142,ice cream,Peanut Caramel Crunch,dessert
+144,pizza,Chicken Super Supreme ,chicken
+153,chicken,Chicken with Cashew Nuts,thai curry
+154,chicken,Cream Chicken,soup
+155,steak,Hen Packed ,dessert
+157,lemonade,Shikanjabeen,dessert
+168,drink,Seasonal fruit Yop,dessert
+173,lemonade,Lemonades,dessert
+175,appetizer,Chicken on Toast,breakfast
+181,arabic,Baba Ganoush,dessert
+182,pasta,Chicken Mozzarella ,chicken
+187,pasta,Chicken Florida,chicken
+201,dessert,Toffee Crunch,drink
+203,chicken burger,Peeru's Special Burger,burger
+215,chinese,Chef Special Chicken Chowmein,noodles
+219,pizza,Fajita Sensation,drink
+223,vegetables,Power Veggie Boal,dessert
+230,chicken,Cajun Fried Chicken,pasta
+237,chicken burger,Zem Burger Double Decker ,burger
+251,chicken boti,Chicken Behari,chicken
+278,japanese,Alaskam Crabsticks,dessert
+300,chicken,Hawaiian Chicken,chinese
+318,thai curry,Thai Amazon Chicken,thai
+319,paratha roll,Aloo Cheese Roll,breakfast
+322,chicken roast,Rotisserie Chicken,chicken
+324,chicken,Quattro Chicken,pasta
+329,pizza,All Cheese,shawarma
+335,thai curry,Lemon Grass and Chili Chicken,chinese
+338,pasta,Grilled Prawn Fettuccine ,prawns
+340,appetizer,Stuff Jalapeno Thumb,chicken wings
+346,ice cream shake,Hand Scooped Ice cream Milkshakes,ice cream
+348,chinese,Chicken Vegetable ,chicken
+353,beef burger,Mushaboom,dessert
+356,soup,Chicken Noodle,noodles
+357,beef burger,Famous Star with Cheese,dessert
+362,seafood,Fruits De Mer Grilles,dessert
+365,chicken,Dera Special Chicken Tawa,chicken gravy
+366,burger,Chicky ,chicken burger
+369,chicken gravy,Sliced Chicken with Mushroom and Vegetable ,chicken
+372,drink,Arnold Palmer,dessert
+376,chicken,Full Platter,bbq
+382,chicken burger,Big Tower,smoothie
+388,chinese,Special Rice,rice
+392,wrap,Chicken Malai Boti Wrap,chicken boti
+394,chicken tikka,Turkish Seekh Tauk,dessert
+395,fish,Tawa Machli,mutton
+399,thai curry,Thai Prawn Green Curry,prawns
+410,vegetables,Paneer Haryali,karahi
+414,cold coffee,Coconut White Chocolate,ice cream
+425,mutton kabab,Iskenderi Seekh Kabab,chicken kabab
+444,chicken burger,Hub Crunchy,pizza
+449,ice cream,Swiss Toblerone ,dessert
+452,chicken burger,Pretty Patty,burger
+459,chicken,Chopped Meat Pide,dessert
+462,chinese,Orange Chicken,chicken
+464,chicken burger,Chicken Masala Burger,masala
+468,chicken burger,Grigliato Chicken Cheese Blast,chicken
+471,nachos,Nacho Nana,appetizer
+483,ice cream shake,Chocolate Banana Icecream ,dessert
+485,lobster,Thai Spicy Lobster,japanese
+487,chinese,Waster Sauce Chicken,chicken steak
+495,salad,Yum Sam Krob,noodles
+505,chinese,Chicken Green Chili,chicken gravy
+507,chicken,Chicken Pita ,naan
+510,chinese,Flaming Chicken,chicken
+512,pasta,Chicken Primavera,chicken
+517,chinese,Chicken With Cashew Nut,thai curry
+518,chinese,Chicken Cashewnut,thai curry
+520,thai curry,Thai Curry Fish with Basil Coriander,thai
+523,chinese,Hunan Beef Black Pepper Sauce,beef steak
+525,sandwich,Grilled Chicken Ciabatta ,chicken steak
+540,drink,Oreo Pleasure,ice cream
+544,pizza,TCR Signature Chocolate Pizza,dessert
+547,chicken burger,Honey Mustard Flip,appetizer
+551,chinese,Chicken Vegetable,chicken
+553,thai curry,Thai Prawn Red Curry,prawns
+557,soup,Batair ki Yakhni,batair
+563,chinese,Gai Pad Bai Kra Pao,noodles
+565,pizza,Chicken Seekh Kabab Pizza,chicken kabab
+567,noodles,American Chopsoy,breakfast
+578,frappe,Caramel,dessert
+594,beef wrap,Open-Face Wrap,wrap
+603,beef burger,Spicy Salsa,sandwich
+612,salad,Yam Sam Krob,appetizer
+613,sandwich,Porto Bello,dessert
+626,sandwich,Panini Sandwich,panini
+634,burger,Route 66,dessert
+640,paratha,Libnani Especial,dessert
+642,cake,Cupcake,dessert
+655,chicken steak,Triple Breast Chicken,thai curry
+658,chinese,Chicken Pineapple Cherry,ice cream
+660,burger,Italian Steak Melt Burger,steak
+669,thai curry,Thai Sichuan Chicken,thai
+685,drink,Lightening Shot,frappe
+696,chinese,Chicken Cashew Nuts,thai curry
+697,chicken,Chicken Boneless Tawa,masala
+701,burger,Grilled Mushroom Combo ,steak
+709,noodles,Spicy Shrimps Noodle,shrimp
+725,appetizer,Dumplings,dessert
+733,fish burger,Classic Prawn Star Burger,burger
+737,chinese,Sushi Chicken,japanese
+752,sandwich,Fish Sandwich,fish
+764,chicken,Aglio e Olio,dessert
+784,seafood,Mediterranean Sweet & Sour ,chinese
+789,arabic,Flafel,dessert
+792,chinese,Beef in Dragon Fire Sauce,beef
+796,chicken burger,Chicken Super League,chicken
+815,chicken,Mustard Peppercorn Chicken,appetizer
+823,chicken,Stir Fried Vevet Chicken with Roasted Cashews,chinese
+829,sandwich,Mushroom & Swiss,burger
+834,ice cream,After Eight Mint,drink
+846,chicken gravy,Chicken Harri Mirch,chicken
+850,beef burger,Raging Bull,drink
+862,chicken burger,Deal 1,chicken roast
+869,pizza,Sizzling Chicken Fajita,chicken
+870,japanese,Crunchy California,pizza
+875,chicken,Chicken Fries,fries
+878,coffee,Special Voltage,cold coffee
+884,pizza,Margharita,dessert
+885,appetizer,Fried Cashew Nuts,thai curry
+897,mutton,Namkeen Seekh Tikka,chicken tikka
+902,thai curry,Sesame Honey Chicken Thai Style,thai
+917,appetizer,Brushetta Italian Bread,beef burger
+923,soup,Rice Bowl Special Soup,rice
+931,vegetables,Hash Mash Potato,appetizer
+936,pasta,Penne Roasted Vegetables,vegetables
+941,chicken,Stir Fried Chicken With Spring Onion Sauce,appetizer
+945,chicken gravy,Sweet & Sour Chicken,chinese
+947,drink,Mojitos,dessert
+953,chicken,Cajun Chicken with Salsa,pasta
+956,beef burger,The Boss,dessert
+966,pasta,Beef Macaroni ,beef
+991,sandwich,Pastrami ,dessert
+992,pizza,Fish Tikka Pizza,fish
+996,thai curry,Thai Basil with Vegetable,thai
+1006,rice,Mushroom Risotto ,appetizer
+1013,breakfast,Brunch Sandwich,sandwich
+1033,chinese,Beef Manchurian,beef
+1036,thai curry,Thai Stir Beef,beef
+1043,drink,Sunday Fun Day,chicken
+1048,chinese,Chicken Cashewnut,thai curry
+1050,drink,Caribbean ,chicken burger
+1051,lassi,Noshakh Special Lassi Sweet,drink
+1056,chicken,Chicken Cashew Nuts,thai curry
+1061,chicken burger,Jalapeno Buzz,burger
+1065,dessert,Double Decker Volcano Sizzling,burger
+1067,beef burger,Americano,coffee
+1069,vegetables,Vege Spud,chicken
+1070,chinese,Gaeng Pad Gai,noodles
+1073,chinese,Chicken with Button Mushroom,chicken gravy
+1076,chinese,Shangai Crispy Chicken,chicken
+1078,thai curry,Stir Fried Chicken Cashewnuts,chinese
+1080,mutton kabab,Mutton Kabab Masala,masala
+1081,chicken gravy,Chicken Palak Paneer Handi,handi
+1082,thai curry,Bangkok Chicken,chicken
+1091,drink,Oreo Overdose,dessert
+1092,pizza,West Side Garlic Chicken,chinese
+1094,chicken,Chicken Crispers,burger
+1102,chicken burger,Urban Cafe Burger,burger
+1110,salad,Yam Woon Sen,appetizer
+1111,pizza,Margarita Pizza,margarita
+1118,pizza,Prawn and Basil Pizza,prawns
+1119,fries,Howdy Deputy,dessert
+1131,pizza,Fish Tikka Pizza,fish
+1137,chinese,Chicken with Mix Vegetable,vegetables
+1159,appetizer,Lebanese Mezze Platter,chicken
+1170,dessert,Chocolate Heaven,drink
+1176,lemonade,Frozen Lemonades,cold coffee
+1178,burger,Texas Burger,chicken burger
+1182,dessert,Scoop of Gelato ,ice cream
+1186,chicken,Chicken A La Kiev,rice
+1189,beef steak,Pepper Steak,steak
+1195,chicken,Pollo Rellano,pizza
+1207,drink,Blueberry Fantasy,ice cream
+1208,beef burger,Spicy Beef,chinese
+1214,dessert,Diet Cookies,cold coffee
+1227,cold coffee,Latte,coffee
+1228,pasta,Atlanto Special,chinese
+1237,burger,Juicy Lucy Burger,chicken burger
+1245,smoothie,Super Citrus C,tea
+1252,pizza,Eggs Florentine Pizza,breakfast
+1255,chicken burger,PC Special Burger,burger
+1256,pizza,Tandoori Hot,appetizer
+1262,pasta,Chicken Piccatta,chicken
+1273,paratha,Paratha Platter With Cheese,paratha roll
+1279,appetizer,Samosa Platter,samosa
+1300,chicken burger,Chicken Patty Burger,burger
+1302,pizza,Super Brick Oven Pizza,arabic
+1314,thai curry,Shanghai Chicken,chinese
+1326,appetizer,Breads,dessert
+1329,chinese,Hot & Sour Chicken,soup
+1338,drink,X2 Margarita,margarita
+1340,burger,Fire Hot Burger,chicken burger
+1358,salad,Plain Yogurt,appetizer
+1364,chinese,Henny Penny,dessert
+1366,chinese,Chicken Oyster,thai curry
+1376,thai curry,Thai Szechuan Chicken with Garlic Rice,rice
+1378,sandwich,Masoom's Special Sandiwch,chicken
+1390,noodles,Rice Bowl Special Chowmein,rice
+1392,beef,Lemon Garlic Beef,chinese
+1393,chicken,Kids Combo 1,sandwich
+1414,dessert,Fried Banana with Ice Cream,ice cream
+1418,burger,Fiery Shami Burger,beef burger
+1419,tea,Karak Chai,drink
+1424,chinese,Yang Chu Chicken,thai curry
+1427,pizza,Vegetarian,sandwich
+1435,chinese,Schezuan Chicken,chicken
+1441,duck,Yem Yem Chy Duck,chinese
+1449,arabic,Garlic Lebaneh,seafood
+1450,chinese,Chicken 9 Lives,chicken
+1455,chicken,Chicken Prawn Steamer,prawns
+1459,detox juice,Pure Hydration,coffee
+1460,cold coffee,Mochalatta Chill,dessert
+1464,cake,Skillet Brownie,dessert
+1468,salad,Tex Mex Salad,shawarma
+1485,qeema,Beef Qeema Fry,beef
+1494,coffee,Mint Chocolate Bomb,cold coffee
+1502,breakfast,Turkey Bacon Omelette,sandwich
+1506,detox juice,Flat Belly Juice,fresh juice
+1518,coffee,Caramel Machiatio,dessert
+1522,pizza,Desi Malai Boti Special,chicken boti
+1529,sandwich,Chicken Basil Sandwich,thai
+1531,pizza,Margarita Pizza,margarita
+1533,chicken gravy,Braised Chicken in Hot Spices,chinese
+1539,breakfast,Eggs in a turkey Bacon Basket,sandwich
+1543,paratha roll,Shish BBQ Chicken Roll,shawarma
+1547,chinese,Beef Katsudon,beef
+1563,chinese,Basil Beef,thai
+1567,lamb,Lamp Chops,bbq
+1583,chicken,Char Grilled Moroccan Chicken (special creamy tangy sauce),chicken steak
+1607,chicken gravy,Hot Sauce Chicken ,chinese
+1608,shake,Banana Cream pie,dessert
+1612,pizza,Beef Steak Slices Pizza,beef steak
+1622,lemonade,Peach Lemondae,drink
+1627,chicken burger,BBQ Flip,appetizer
+1638,lamb,Special BBQ Lamb Platter,bbq
+1664,chinese,Chicken Fried Rice,rice
+1665,coffee,Rick in Java,cold coffee
+1668,salad,Quinoa with Chicken Chimichurri ,chicken
+1676,handi,Chicken Hyderabadi,chicken
+1681,shake,Banana Berry ,drink
+1684,chicken burger,Honey Mustard Burger,burger
+1687,breakfast,Huevos Rancheros,dessert
+1699,chicken kabab,Mouthfull Signature,drink
+1701,drink,Tropical Blast,smoothie
+1708,cold coffee,Frosted Mocha,coffee
+1712,chicken burger,Chicken Rollatini,chicken
+1720,chicken tikka,Beef Afghani Tikka,beef
+1727,chicken,Three Cheese Chicken,shawarma
+1731,beef burger,Big King Beef Sandwich,sandwich
+1739,breakfast,Kings Feast,dessert
+1746,noodles,Classic Beef Shoyu,beef
+1751,chinese,Vegetable Fried Rice,rice
+1757,chicken gravy,Spicy Garlic Chicken,chinese
+1763,chinese,Chicken with Mix Veggie,chicken
+1764,margarita,Margaritas,dessert
+1765,cold coffee,Caramel Corretto,dessert
+1769,pizza,Spicy Italian,chicken
+1770,drink,Luby Duby,dessert
+1780,chicken,Cajun Chicken,pasta
+1782,ice cream shake,Cookies & Cream Shake,frappe
+1785,beef,Arcadian Special Medallions,drink
+1791,chicken steak,Gunslinger,dessert
+1793,chinese,Sweet & Sour Chicken with Rice,rice
+1796,appetizer,Prawn Crackers,prawns
+1819,shake,Crazy Snickers,dessert
+1824,mutton,Karela Gosht,chicken gravy
+1826,chinese,Wensen Chicken,chicken
+1831,appetizer,Mix Platter,bbq
+1838,pizza,Quatro Formagi,chicken
+1842,drink,Tuscany's Mint Margarita,margarita
+1844,mutton gravy,Mutton Palak Paneer Handi,handi
+1853,breakfast,Pineapple Coconut Oatmeal,ice cream
+1858,drink,Fruit Slush,slush
+1859,appetizer,Chicken Sesame Strips,chicken
+1860,drink,Coffee Toffee,coffee
+1873,thai curry,Thai Sweet & Sour Chicken,thai
+1875,shake,Oreo Nutella,ice cream
+1885,pizza,Chicken Cheese Kabab Pizza,chicken kabab
+1887,shake,Malt Chocolate,dessert
+1889,thai,Thai Cashew Nut,thai curry
+1893,beef,Beef Fajita Sizzler,wrap
+1896,chicken,Special Sawadi Deal,chicken roast
+1897,sandwich,2 Cheese Melt,burger
+1898,chicken steak,Double Breast Chicken,thai curry
+1905,chicken,Chicken and Zucchini Poppers,appetizer
+1921,appetizer,Prawn Cracker ,prawns
+1951,chinese,Chicken with Green Chili,chicken gravy
+1960,thai curry,Bai Ze Chicken,chicken
+1963,chinese,Nua Phad Bai Kra Pao,thai
+1966,salad,Plain Yogurt,appetizer
+1968,pizza,Hot Stuff Pizza,chicken wings
+1969,pasta,Pollo Roman,pizza
+1971,pasta,Prawns with Lingaini  ,prawns
+1987,thai curry,Thai Sweet Chili with Rice,rice
+1991,thai,Chef Special Chicken,chinese
+1999,chicken,Wing Roulette,chicken wings
+2000,breakfast,Sausages,dessert
+2001,shake,Vanilla Espresso,coffee
+2041,salad,Plain Dahi,chaat
+2045,chinese,Dragon Fire,beef burger
+2059,tea,Karak Chai,drink
+2065,cake,Chocolate Fudge Cupcake,dessert
+2066,chicken burger,Grilled Chicken Thick Patty,chicken steak
+2071,drink,Vanilla Collada,ice cream
+2079,shawarma,Chicken Rajhastani,chicken
+2084,japanese,Fire Crackers Roll,paratha roll
+2085,chicken burger,Chicken Sliders in Wholewheat Bread,chicken
+2088,cold coffee,Mochachino,dessert
+2094,chicken,Kaleji Pota,dessert
+2110,mutton,Mutton Handi,handi
+2115,chicken burger,Crunchy Burger,burger
+2118,breakfast,Anda Paratha,paratha
+2124,prawns,Spanish Pesto Prawn with Brown Rice,crepes
+2137,beef steak,Chardonnay Steak,steak
+2138,pizza,Supper Express,dessert
+2151,chicken,Veneto Puff Pastry,dessert
+2152,tea,Lemon Ginger,dessert
+2156,vegetables,Kareley,dessert
+2173,mutton,Royal Lahem Mandi,dessert
+2180,appetizer,Starter Platter,bbq
+2195,chaat,Rava Kachori,dessert
+2197,steak,Straight from the Oven,arabic
+2199,fresh juice,Mint Cooler,drink
+2207,seafood,Lobster,japanese
+2228,cold coffee,Frapuccino ,dessert
+2243,pizza,Chipotle Southwest Chicken,chicken
+2246,cold coffee,Ice Irish Nut Latte,coffee
+2251,chicken roast,Tabaq Charga,chicken boti
+2254,chicken steak,Lemon Crispy Steak ,steak
+2269,detox juice,Nourishing Almond With Dates,drink
+2272,drink,Vanilla Dream,ice cream
+2278,chicken burger,The Cajun,pasta
+2292,dessert,Mint Pudding,drink
+2298,chicken,Grilled Spicy Moroccan Chicken,chicken steak
+2300,tea,Wild Blossom and Berries Herbal,dessert
+2302,appetizer,Fatoosh,dessert
+2315,chinese,Chicken With Straw Mushrooms,chicken
+2333,chinese,Chicken Chilli Dry,chicken
+2336,burger,The Spicy Houston ,chicken burger
+2337,salad,Seafood Salad,seafood
+2344,beef steak,Philly Cheese Steak,steak
+2354,steak,Peppercorn,dessert
+2360,sandwich,Smoky BBQ Chicken,panini
+2361,drink,Candid Apple Cinderella,dessert
+2375,qeema,Beef Qeema Fry,beef
+2376,beef burger,Big Bang,smoothie
+2377,coffee,Valentino Signature Affogato,cold coffee
+2378,pizza,Shrimps & Onions Pizza,shrimp
+2386,dessert,Traditional Chocolate Brownie With Vanilla Ice Cream,ice cream
+2389,japanese,Usagi Dunaki,dessert
+2390,shake,Cookies & Cream Shake,frappe
+2426,chinese,Hot & Sour Chicken,soup
+2430,chinese,Szechuan Prawn,prawns
+2437,coffee,Hot Coffee,drink
+2441,chicken gravy,Chicken Kaju Paneer,chicken
+2460,cold coffee,Espresso Fredo,coffee
+2468,beef burger,Tickle Pickle,burger
+2475,appetizer,Golden silk Prawns,prawns
+2487,masala,Mutton Tawa Boneless,mutton
+2490,pasta,Garlic Butter Tossed Pasta with Prawns,prawns
+2496,chinese,Korean Spicy Chicken,chicken
+2511,pasta,Penny Tomato,breakfast
+2515,pizza,Vegetarian,sandwich
+2522,fries,Amigos Special,chicken
+2532,ice cream,Plum,dessert
+2537,burger,D.D's Signature,pasta
+2539,chinese,Gai Phad Num Prik Phao Sai Normai,noodles
+2543,pizza,Seekh Kabab Pizza,chicken kabab
+2544,chicken tikka,Rajhastani Tikka Boti,chicken boti
+2550,pizza,Hot & Spicy,chinese
+2555,beef,Beef Fajita,wrap
+2559,chinese,Fried Spring Chicken,appetizer
+2578,ice cream shake,Vanilla Espresso Shake,shake
+2579,chicken steak,Garlic Creamy Steak,steak
+2584,thai curry,Thai Ginger Fish,thai
+2585,beef burger,El Classico,dessert
+2594,chicken kabab,Afghani Kabab,mutton kabab
+2622,burger,Anda Shami Burger,beef burger
+2627,chinese,Chicken Cashew Nuts,thai curry
+2629,breakfast,Scramble Eggs with Sauteed Mushrooms,appetizer
+2645,lamb,Khadda Sajji,chicken roast
+2648,fries,Starter Basket,appetizer
+2651,pizza,Cheese Lovers,appetizer
+2657,vegetable curry,MIx Vegetable,vegetables
+2658,japanese,Spicy Nana Chicken,chicken
+2659,japanese,Tempura Dragon Roll,appetizer
+2664,chicken,Whole Chicken Braised in Garlic and Ginger,chicken gravy
+2668,cold coffee,Chocolate IceCream Coffee,dessert
+2669,burger,Cheesy Mushroom,appetizer
+2670,fish,Thai Tamarind Fish,thai
+2686,bbq,Paneer Tikka,chicken tikka
+2695,pizza,Bar B.Q.,dessert
+2697,chicken burger,Big King Chicken Sandwich,sandwich
+2701,shake,Coffee Toffee,coffee
+2704,thai,Thai Cashew Nut Chicken,thai curry
+2707,chaat,Samosa Chaat,samosa
+2715,drink,Lovely Day,dessert
+2721,beef burger,Beef Patty Melt with Grilled Onion,sandwich
+2722,chicken,Combo Fajita,steak
+2724,soup,Lemongrass Chicken Noodle,noodles
+2726,chicken tikka,Chicken Boneless Grilled,chicken steak
+2727,burger,Juicy Lucy Burger,chicken burger
+2730,soup,Thai Original,thai
+2744,vegetables,Hot Buttered Corn,soup
+2753,chicken,Pepperoni Pide,pizza
+2756,bbq,Kabab Halabi,chicken kabab
+2779,japanese,Tuna Local,beef
+2786,drink,Tropical Blue,detox juice
+2787,soup,The Famous 19B,dessert
+2808,chinese,Chicken Cashew Nuts,thai curry
+2823,chicken,Mini Stuff Chicken with Cheese,chicken wings
+2824,japanese,Meat Lovers Roll,paratha roll
+2826,appetizer,Cheese Rolls,paratha roll
+2829,pizza,Seekh Kabab Pizza,chicken kabab
+2836,paratha roll,Beef Gola Kabab Roll,beef kabab
+2839,arabic,Mansaf,dessert
+2845,chinese,Mongolian Beef Steak,beef steak
+2849,noodles,Chicken and Shrimps Chowmein,shrimp
+2859,soup,ChinaTown's Szechuan,chinese
+2861,pizza,Seekh Kabab Pizza,chicken kabab
+2866,shawarma,Pita Chicken Doner,chicken
+2869,drink,Shirley Temple,dessert
+2876,chicken kabab,Dum Seekh,mutton
+2881,shake,Oreo Madness,dessert
+2883,chinese,Chinese Ginger Chicken,chicken gravy
+2884,burger,Delight Special Grill Burger,chicken burger
+2894,drink,Apple Spritzer,dessert
+2895,japanese,Wafu Sashimi Salad,salad
+2901,sandwich,Hot Fiery Sandwich,fries
+2902,chicken,Wing Roulette,chicken wings
+2903,chinese,Chicken with Green Chili Dry,chicken gravy
+2907,chicken burger,Mexican Jalapeno Cheese Burger,beef burger
+2914,sandwich,Fish Sandwich,fish
+2922,shake,White Chocolate Latte Milkshake,coffee
+2924,chicken gravy,Chicken Pasha,bbq
+2926,fish,Fish Kabab,chicken kabab
+2937,dessert,Chocolate Lover,drink
+2968,handi,Mutton Boneless Handi,mutton gravy
+2971,chicken,Scallopini Marsala,dessert
+2979,rice,Stir Fried with Mixed Vegetables,vegetables
+2989,fish,Tawa Fish Masala,masala
+2997,dessert,Creme Brulee ,cold coffee
+3009,drink,Cherry & Pineapple Blast,ice cream
+3016,chicken burger,Kasaas Burger,burger
+3028,chicken,BBQ Bistro ,appetizer
+3035,smoothie,Strawberry Apple Kale,dessert
+3036,smoothie,Watermelon Bliss,dessert
+3041,drink,Mint Margarita,margarita
+3051,chinese,Black Manchurian with Rice,rice
+3056,chicken,Chicken Sajji with Rice,chicken roast
+3059,breakfast,Desi Platter,chicken
+3065,dessert,Belgian Gol Gappay,chaat
+3075,thai curry,Geang Phed Red Curry,chicken gravy
+3084,chicken,Tender Pops,appetizer
+3092,noodles,Grilled Prawns With Chilled Noodle Salad,prawns
+3093,drink,Lemongrass Punch,tea
+3100,drink,Malt Chocolate,dessert
+3103,drink,Gold Medalist,dessert
+3105,drink,Mint Margarita,margarita
+3107,frappe,Red Velvet,shake
+3108,salad,Pickle ,burger
+3109,drink,Peanut Butter,dessert
+3117,chinese,Chicken Kao Soi,chicken
+3131,fries,Wedges,appetizer
+3133,bbq,Shish Tawook,chicken boti
+3136,drink,Fresh Juice,fresh juice
+3139,chicken gravy,Chicken Sheesh Tao,chicken boti
+3142,cold coffee,Espresso Shakerato,coffee
+3148,chicken burger,Original/Hot & Spicy Chicken Steak Sandwich,sandwich
+3150,appetizer,Sesame Chicken Tenders,chicken
+3155,drink,Sprite with Lemon,dessert
+3162,mutton,Mutton Tikka with Bone,mutton tikka
+3165,chicken kabab,Chicken Dum Seekh,chicken
+3180,arabic,Mutton Leg,mutton
+3181,wrap,Lettuce Wraps,appetizer
+3183,rice,Liver and Rice,arabic
+3186,shake,Mango Madness,drink
+3188,ice cream shake,Oreo Latte Shake,shake
+3196,beef steak,Sliced Beef with Chilies and Vegetables,beef
+3197,chinese,Sweet & Sour Prawn,prawns
+3201,lamb,Special Khadda Kabab,chicken kabab
+3216,wrap,Chicken Loader Sandwich,sandwich
+3221,appetizer,Honey Chicken,chicken
+3228,appetizer,Chicken Nuggets Meal,chicken
+3236,burger,The Honky Tonk,dessert
+3237,steak,Pickle Marinade,burger
+3239,chicken steak,Lemongrass Chicken,chicken
+3266,drink,Iced Chocolate,cold coffee
+3269,chinese,Honey Chicken,chicken
+3271,drink,Blueberry Extravaganza ,ice cream
+3273,japanese,Prawn Sushi,prawns
+3276,prawns,Prawn In Butter Garlic Sauce,seafood
+3278,mutton,Banera Special Mutton handi,handi
+3279,chinese,Chicken with Vegetables,chicken
+3286,ice cream,Coffee,coffee
+3291,thai curry,Chicken Satay,thai
+3301,drink,Spicy Guava,chicken burger
+3305,chicken,Taquitos ,dessert
+3311,chicken,Olives and Mushrooms Stuffed Chicken,appetizer
+3314,sandwich,Fajita Chicken,chicken
+3319,prawns,Ebi Chili,japanese
+3320,sandwich,Philly Cheese Steak,steak
+3323,appetizer,Cheese ,shawarma
+3329,pizza,Greek With Feta Pizza,salad
+3335,coffee,Cold Coffee,cold coffee
+3343,prawns,Wasabi Prawn,seafood
+3348,sandwich,Grilled Chicken Pineapple and Cheese,chicken steak
+3353,fish burger,Super Prawn Star Burger,prawns
+3360,chinese,Foodies Special,chicken
+3363,pizza,King of Diamond Calzone,panini
+3365,lemonade,Mint Lemonata,drink
+3374,detox juice,Dengue Recovery,dessert
+3377,chicken,Chicken Sajji with Kabuli Palao,chicken roast
+3380,dessert,Coffee Macaroon,coffee
+3381,coffee,Machiato Shots,appetizer
+3387,chicken,Combotada,dessert
+3393,pizza,Double Melt Crust,sandwich
+3401,beef burger,Chubby Cow,beef steak
+3409,thai curry,Thai Soy Chicken,thai
+3412,salad,Yum Nua,thai
+3414,chinese,Beed With Mixed Vegetables,vegetables
+3431,chicken burger,Crispy Masala burger,masala
+3438,chicken,Pollo Tuscan,pizza
+3440,drink,Midsummer Dream,dessert
+3450,seafood,Norwegian Pink Salmon,japanese
+3462,japanese,Alaskan Crabstick,dessert
+3474,chicken,Whole Grain Mustard Chicken,appetizer
+3475,chicken,PSL Deal,chicken roast
+3483,margarita,Margaritas,dessert
+3486,pizza,Roast Beef Pizza,beef steak
+3492,drink,MOB Soda,appetizer
+3506,drink,Cold Coffee,cold coffee
+3514,steak,Bulls Eye,dessert
+3517,appetizer,Mantu,dessert
+3518,appetizer,PERi-PERi Sachet,chicken
+3522,mutton,Mutton Handi with Black Pepper,handi
+3525,appetizer,BBQ Hickory Dip,fries
+3527,drink,Tropical Paradise ,detox juice
+3529,drink,Pine Light,pizza
+3531,burger,Old Fashion Shami Burger,beef burger
+3533,coffee,Mochacinno,dessert
+3537,vegetables,Baku Baqlajan,dessert
+3560,drink,Mint Margarita ,margarita
+3566,dessert,Classic Brownie,burger
+3567,rice,Zarda Special,chinese
+3584,chicken burger,Danzinger,dessert
+3587,pizza,French Fries Pizza,fries
+3602,soup,Zuppa Pomodoro,dessert
+3606,burger,Mexican Burger,beef burger
+3607,detox juice,Nourishing Almond,drink
+3612,appetizer,Tikka Bread,chicken tikka
+3614,nihari,Nali(Fry),mutton
+3622,beef steak,New York Pepper Steak,steak
+3623,rice,Daal Chawal,vegetables
+3625,drink,Cold Drink,cold coffee
+3632,vegetables,Sichuan Four Season Vegetable ,ice cream
+3636,smoothie,Paradise Passion ,drink
+3639,smoothie,Tropical Tango,chicken
+3643,chicken,Three Cheese Chicken,shawarma
+3644,dessert,Creme Brulee,cold coffee
+3648,dessert,Nutella and Peanut Butter Wrap,wrap
+3650,drink,Solasta Original Drink,burger
+3656,cold coffee,Coco Loco,drink
+3663,drink,Peach Ice Tea,ice tea
+3664,drink,Carnival ,chicken
+3671,dessert,Coffee Pastry,coffee
+3673,chicken,Trio Cheese Stuffed Chicken,appetizer
+3693,chinese,Chicken Cashewnut,thai curry
+3695,chicken tikka,Traditional Tikka Boti,chicken boti
+3708,drink,Africa Blues,dessert
+3712,chicken burger,King For a Day,appetizer
+3718,beef burger,Jalapeno Beef Popper Burge,beef
+3729,chicken,Red Chili Chicken,chinese
+3732,noodles,Classic Chicken Shoyu,chicken
+3734,fish,Teriyaki Fish with Greens,japanese
+3744,mutton,Mutton Tawa Qeema,qeema
+3745,masala,Tawa Chicken Shahajani,chicken
