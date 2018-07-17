@@ -3,6 +3,7 @@ import pandas as pd
 from time import time 
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+from nltk.stem.snowball import SnowballStemmer
 from sklearn.utils import shuffle
 from sklearn import model_selection	
 from sklearn.svm import SVC
@@ -42,17 +43,33 @@ def ParseAndShuffleData(filename):
 	category_list.to_csv("categories.csv")
 	return dishes, labels
 
-def PreProcess(features, labels):
+def lemmatize(array):
+	stemmer = SnowballStemmer('english')
+	for i in range(0, len(array)):
+		words = array[i].split()
+		words = map(stemmer.stem, words)
+		words = ' '.join(words)
+		array[i] = words
+
+	print array
+	return array
+
+def split(features, labels):
 	dishes_train, dishes_test, labels_train, labels_test = model_selection.train_test_split(features, labels, test_size = 0.33, random_state = 1)
+	return dishes_train, dishes_test, labels_train, labels_test
+
+	
+
+def PreProcess(dishes_train, dishes_test):
 	t0 = time()	
 	vect = TfidfVectorizer(stop_words = 'english')
 	vec_dishes_train = vect.fit_transform(dishes_train)
 	vec_dishes_test = vect.transform(dishes_test)
 	print "vectorize time:", round(time() - t0, 3), "s"
-	print dishes_train.shape
-	print dishes_test.shape
+	# print dishes_train.shape
+	# print dishes_test.shape
 	# print vect.get_feature_names()
-	return dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test
+	return vec_dishes_train, vec_dishes_test
 
 		
 def train(dishes_train, dishes_test, labels_train, labels_test):
@@ -79,7 +96,9 @@ def train(dishes_train, dishes_test, labels_train, labels_test):
 # print df
 
 dishes, labels = ParseAndShuffleData(filename)
-dishes_train, dishes_test, labels_train, labels_test, vec_dishes_train, vec_dishes_test = PreProcess(dishes, labels)
+dishes = lemmatize(dishes)
+dishes_train, dishes_test, labels_train, labels_test = split(dishes, labels)
+vec_dishes_train, vec_dishes_test = PreProcess(dishes_train, dishes_test)
 clf = train(vec_dishes_train, vec_dishes_test, labels_train, labels_test)
 
 predicted = clf.predict(vec_dishes_test)
@@ -88,7 +107,7 @@ final = pd.DataFrame(
 	{'Dish': dishes_test,
 	'Predicted': predicted,
 	'Actual': labels_test})
-
+ 
 print accuracy_score(labels_test, predicted)
 wrong = final[final.Predicted != final.Actual]
 
