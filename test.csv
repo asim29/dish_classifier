@@ -396,6 +396,25 @@ Potato Wedges,Appetizer
 Potato Wedges,Appetizer
 Wedges,Appetizer
 Tarter Puffs,Appetizer
+garlic bread starter,appetizer
+chees garlic bread starter,appetizer
+chicken chees garlic bread starter,appetizer
+dip garlic mayo sauc side order,appetizer
+bbq sauc side order,appetizer
+chapati side order,appetizer
+garlic bread starter,appetizer
+chees garlic bread starter,appetizer
+chicken chees garlic bread starter,appetizer
+dip garlic mayo sauc side order,appetizer
+bbq sauc side order,appetizer
+chapati side order,appetizer
+hot shot fast food,appetizer
+plain potato potato,appetizer
+chicken potato potato,appetizer
+tikka potato potato,appetizer
+garlic potato potato,appetizer
+cocktail potato potato,appetizer
+special chees potato potato,appetizer
 Arais marina,Arabic
 Mutton Leg,Arabic
 Chicken Liver with Fried Egg,Arabic
@@ -436,17 +455,18 @@ BBQ Batair,Batair
 BBQ Batair,Batair
 Grilled Batair,Batair
 Batair Roast,Batair
-Shish Touq,BBQ
+bbq platter bar b q,bbq
+Shish Touq Bar B Q,BBQ
 Mix Grilled Platter,BBQ
 Special Grilled Platter,BBQ
 Dogar Special BBQ,BBQ
 Chicken Pasha,BBQ
-Mix Grill Platter,BBQ
+Mix Grill Platter Bar B Q,BBQ
 Khas Mix Platter BBQ,BBQ
 Shish Tawook,BBQ
 Kabab Halabi,BBQ
-Mix Grill Platter,BBQ
-Mixed Grill Platter,BBQ
+Mix Grill Platter Bar B Q,BBQ
+Mixed Grill Platter Bar B Q,BBQ
 Mix BBQ Platter,BBQ
 Special Chicken BBQ Platter,BBQ
 Tandoori Platter,BBQ
@@ -478,6 +498,10 @@ Special Cheese Kabab,BBQ
 Adana Mix Kabab,BBQ
 Dera Special Kabab,BBQ
 Mix Platter BBQ,BBQ
+Beef Boti Bar B Q,BBQ
+bbq platter bar b q,bbq
+beef boti bar b q,bbq
+bbq platter bar b q,bbq
 Southwestern Skewer,Beef
 Beef Chimichanga,Beef
 Beef Fajita,Beef
@@ -552,6 +576,7 @@ Beef Stir Fry,Beef
 Seared Sirloin with Shrooms,Beef
 Beef Fajita Sizzler,Beef
 Crispy Sesame Beef,Beef
+beef boti bar b q,beef
 Beef Tikka,Beef 
 Steak Burger,Beef Burger
 Beef Cheese Burger,Beef Burger
@@ -691,6 +716,9 @@ Charcoal Beef Burger,Beef Burger
 King of Grilled Beef Burger,Beef Burger
 Beef Steak Burger,Beef Burger
 Beef Mushroom Cheese Burger,Beef Burger
+beef chees burger burger,beef burger
+beef chees burger burger,beef burger
+beef burger fast food,beef burger
 Beef Bihari Kabab,Beef Kabab
 Beef Bihari Kabab,Beef Kabab
 Beef Kabab,Beef Kabab
@@ -731,6 +759,12 @@ Beef Kabab,Beef Kabab
 Beef Afghani Kabab,Beef Kabab
 Beef Seekh Kabab,Beef Kabab
 Beef Kabab,Beef Kabab
+beef seekh kabab bar b q,beef kabab
+afghani beef kabab bar b q,beef kabab
+beef bihari kabab bar b q,beef kabab
+beef seekh kabab bar b q,beef kabab
+afghani beef kabab bar b q,beef kabab
+beef bihari kabab bar b q,beef kabab
 Prime Undercut,Beef Steak
 Char Grilled Tucson Beef,beef steak
 Char Grilled Beef Bearnaise,Beef Steak
@@ -1164,6 +1198,12 @@ BBQ Burger,Burger
 Mushroom Melt,Burger
 Jalapeno Burger,Burger
 Jalapeno Burger,Burger
+burger make zone burger,burger
+french fri burger,burger
+bogi sandwich in dough burger,burger
+burger make zone burger,burger
+bogi sandwich in dough burger,burger
+food port special burger fast food,burger
 Burrito ,Burrito
 Enchilada,Burrito
 Beef Steak Enchilada,Burrito
@@ -2064,6 +2104,12 @@ Chicken Tikka Boti,Chicken Boti
 Sheesh Tawook,Chicken Boti
 Chicken Tikka Boti,Chicken Boti
 Chicken Tikka Boti,Chicken Boti
+chicken tikka boti bar b q,chicken boti
+chicken malai boti bar b q,chicken boti
+namkeen boti chicken bar b q,chicken boti
+chicken tikka boti bar b q,chicken boti
+chicken malai boti bar b q,chicken boti
+namkeen boti chicken bar b q,chicken boti
 Chicky Meal 1,Chicken Burger
 Chicky Meal 3,Chicken Burger
 Chicky Meal 4,Chicken Burger
@@ -2397,6 +2443,12 @@ Paradise Bird Chicken Burger,Chicken Burger
 Mexican Jalapeno Cheese Burger,Chicken Burger
 Chicken Grilled Burger,Chicken Burger
 Peanut Chicken Burger,Chicken Burger
+chicken chees burger burger,chicken burger
+bbq chicken spin roll burger,chicken burger
+chicken chees burger burger,chicken burger
+bbq chicken spin roll burger,chicken burger
+chicken burger fast food,chicken burger
+zinger burger fast food,chicken burger
 Chicken Ginger,Chicken Gravy
 Chicken Ginger,Chicken Gravy
 Chicken Boneless Angara Handi,Chicken Gravy
@@ -2585,6 +2637,12 @@ Chicken Seekh Kabab,Chicken Kabab
 Chicken Kabab ,Chicken Kabab
 Reshmi Kabab,Chicken Kabab
 Chicken Cheese Kabab,Chicken Kabab
+chicken reshmi kabab bar b q,chicken kabab
+afghani chicken kabab bar b q,chicken kabab
+chicken bihari kabab bar b q,chicken kabab
+chicken reshmi kabab bar b q,chicken kabab
+afghani chicken kabab bar b q,chicken kabab
+chicken bihari kabab bar b q,chicken kabab
 Lahori Chicken Roast,Chicken Roast
 Red Roast Chicken,Chicken Roast
 Desi Chargha,Chicken Roast
@@ -2615,6 +2673,8 @@ Chicken Sajji,Chicken Roast
 HnD Special Sajji,Chicken Roast
 Lahori Steamed Chargha,Chicken Roast
 Chicken Sajji,Chicken Roast
+chicken broast fast food,chicken roast
+mayo broast fast food,chicken roast
 Green Pepper Chicken,Chicken Steak
 Green Pepper Chicken,Chicken Steak
 Green Pepper Chicken,Chicken Steak
@@ -2769,6 +2829,10 @@ Chicken Tikka Plate,Chicken Tikka
 Chicken Tikka,Chicken Tikka
 Rajhastani Tikka,Chicken Tikka
 Chicken Tikka,Chicken Tikka
+chicken tikka bar b q,chicken tikka
+malai tikka bar b q,chicken tikka
+chicken tikka bar b q,chicken tikka
+malai tikka bar b q,chicken tikka
 Honey Glazed Wings,Chicken Wings
 BBQ Chicken Wings,Chicken Wings
 Highfire Boneless Wings,Chicken Wings
@@ -2936,6 +3000,12 @@ Honey Chilli Wings,Chicken Wings
 Honey Wings,Chicken Wings
 Spicy Wings,Chicken Wings
 Bar B.Q Wings,Chicken Wings
+chicken wing starter,chicken wings
+flame wing starter,chicken wings
+flame chicken wing starter,chicken wings
+chicken wing starter,chicken wings
+flame wing starter,chicken wings
+flame chicken wing starter,chicken wings
 Classic Beef Stroganoff ,Chinese
 Shangai Crispy Chicken,Chinese
 Sesame Chicken,Chinese
@@ -3612,6 +3682,8 @@ Chicken Fried Rice,Chinese
 King Pao Chicken,Chinese
 Black Bean,Chinese
 Dry Szechuan Bean Curd,Chinese
+chicken shashlik chines,chinese
+chicken shashlik chines,chinese
 Black Coffee,Coffee
 Cappuccino ,Coffee
 Cappuccino,Coffee
@@ -5640,6 +5712,13 @@ Spezia Fries,Fries
 Cheesilicious Fries,Fries
 Salsa Fries,Fries
 Wholegrain Mustard Fries,Fries
+salt fri side order,fries
+masala fri side order,fries
+fri with dip garlic mayo sauc side order,fries
+french fri burger,fries
+salt fri side order,fries
+masala fri side order,fries
+fri with dip garlic mayo sauc side order,fries
 Stick Jumbo Gola,Gola
 Stick Honey Gola,Gola
 Stick Royal Gola,Gola
@@ -5818,6 +5897,10 @@ Chicken Jalfarezi,Handi
 Palak Paneer Handi,Handi
 Daal Mash Handi,Handi
 Mix Vegetable Handi,Handi
+chicken handi pakistani,handi
+chicken jalfrezi chines,handi
+chicken handi pakistani,handi
+chicken jalfrezi chines,handi
 Hummus,Hummus
 Hummus,Hummus
 Hummus,Hummus
@@ -6249,6 +6332,14 @@ Fine Special Mutton Karahi,Karahi
 Classic Mutton Karahi,Karahi
 Mutton Namak Karahi,Karahi
 Mutton Karahi,Karahi
+chicken karahi pakistani,karahi
+chicken green karahi pakistani,karahi
+chicken white karahi pakistani,karahi
+mutton karahi pakistani,karahi
+chicken karahi pakistani,karahi
+chicken green karahi pakistani,karahi
+chicken white karahi pakistani,karahi
+mutton karahi pakistani,karahi
 Afghani Lamb Chops,Lamb
 Lamb Karahi Namkeen,Lamb
 Khadda Sajji,Lamb
@@ -6556,6 +6647,10 @@ Mutton Achari Handi,Mutton
 Mutton Hara Masala,Mutton
 Mutton Boti,Mutton
 Mutton Boneless Boti,Mutton
+mutton chop bar b q,mutton
+mutton rib bar b q,mutton
+mutton chop bar b q,mutton
+mutton rib bar b q,mutton
 Mutton Chops,Mutton 
 Mutton Chops Masala,Mutton 
 Mutton Leg Roast,Mutton 
@@ -6846,6 +6941,8 @@ Chicken Qeema Naan,Naan
 Mutton Qeema Naan,Naan
 Cheese Naan,Naan
 Tandoori Roti,Naan
+tandoori naan side order,naan
+tandoori naan side order,naan
 Irish Breakfast Nachos,Nachos
 Nachos ,Nachos
 Supreme Nachos,Nachos
@@ -7295,6 +7392,8 @@ Gurh Paratha,Paratha
 Meetha Paratha,Paratha
 Chicken Paratha,Paratha
 Chicken Paratha,Paratha
+paratha side order,paratha
+paratha side order,paratha
 Twister Roll,Paratha Roll
 Crispy Chicken Rolls,Paratha Roll
 Chicken Roll,Paratha Roll
@@ -7728,25 +7827,29 @@ Pasta Arbiata,Pasta
 Pasta Monte-Carlo,Pasta
 Creamy Ravioli with Fresh Spinach,Pasta
 K's Signature Stash,Pasta
+chicken lasagna starter,pasta
+chicken pasta starter,pasta
+chicken lasagna starter,pasta
+chicken pasta starter,pasta
 Mini Pizza,Pizza
 Chicken Fajita Pizza,Pizza
 Chicken Sicilian Pizza,Pizza
-Chicken Tikka Pizza,Pizza
+Chicken Tikka Pizzas,Pizza
 Cheese and Tomato Pizza,Pizza
-Seafood Pizza,Pizza
-Pepperoni Pizza,Pizza
+Seafood Pizzas,Pizza
+Pepperoni Pizzas,Pizza
 Chicken Super Supreme ,Pizza
-Cheese Lover Pizza,Pizza
-Chicken Lover Pizza,Pizza
-Chicken Tikka Pizza,Pizza
-CNB Fajita Pizza,Pizza
-Mexican Chicken Pizza,Pizza
-CNB Special Chicken Pizza,Pizza
-CNB Moon Chicken Pizza,Pizza
-Most Wanted Pizza,Pizza
+Cheese Lover Pizzas,Pizza
+Chicken Lover Pizzas,Pizza
+Chicken Tikka Pizzas,Pizza
+CNB Fajita Pizzas,Pizza
+Mexican Chicken Pizzas,Pizza
+CNB Special Chicken Pizzas,Pizza
+CNB Moon Chicken Pizzas,Pizza
+Most Wanted Pizzas,Pizza
 Chicken Supreme Pizza ,Pizza
-Chicken Jalapeno Pizza,Pizza
-Chef's Special Pizza,Pizza
+Chicken Jalapeno Pizzas,Pizza
+Chef's Special Pizzas,Pizza
 The Politation's Pizza,Pizza
 Chili Chili Bang Bang Pizza,Pizza
 Vegetarian Pizza,Pizza
@@ -8521,6 +8624,38 @@ Cal Zone Pizza,Pizza
 Teriyaki Pizza,Pizza
 Asparagus and Rocket Leaf Pizza,Pizza
 TCR Signature Chocolate Pizza,Pizza
+yellow plate special pizza pizza,pizza
+make your own pizza pizza,pizza
+chicken tikka pizza,pizza
+chicken fajita pizza,pizza
+sicilian chicken pizza,pizza
+fiesta chicken pizza,pizza
+hot & spici pizza,pizza
+veggi lover pizza,pizza
+super supremo ( beef ) pizza,pizza
+cheesi lover pizza,pizza
+chicken suprem pizza,pizza
+chicken tandoori pizza,pizza
+european delight pizza,pizza
+bogi super pizza,pizza
+bogi afghani pizza,pizza
+bogi malai pizza,pizza
+yellow plate special pizza pizza,pizza
+make your own pizza pizza,pizza
+chicken tikka pizza,pizza
+chicken fajita pizza,pizza
+sicilian chicken pizza,pizza
+fiesta chicken pizza,pizza
+hot & spici pizza,pizza
+veggi lover pizza,pizza
+super supremo ( beef ) pizza,pizza
+cheesi lover pizza,pizza
+chicken suprem pizza,pizza
+chicken tandoori pizza,pizza
+european delight pizza,pizza
+bogi super pizza,pizza
+bogi afghani pizza,pizza
+bogi malai pizza,pizza
 Natural Popcorn,Popcorn
 Cheese Popcorn,Popcorn
 Hot n Spicy Popcorn,Popcorn
@@ -9471,6 +9606,14 @@ Big Salad,Salad
 Russian Salad,Salad
 Mexican Macaroni,Salad
 Spicy Chick Pea Salad,Salad
+salad salad,salad
+russian salad salad,salad
+raita salad,salad
+turkish salad salad,salad
+salad salad,salad
+russian salad salad,salad
+raita salad,salad
+turkish salad salad,salad
 Aloo Samosa,Samosa
 Pizza Samosa,Samosa
 Nutella Samosa,Samosa
@@ -9896,6 +10039,9 @@ Grilled Chicken Sandwich,Sandwich
 Gherkin Grilled Chicken Sandwich,Sandwich
 Multi Beef Sandwich,Sandwich
 Panini Sandwich,Sandwich
+chicken grill sandwich sandwich,sandwich
+chicken grill sandwich sandwich,sandwich
+bbq sandwich shawarma,sandwich
 Pla Sam Ros,Seafood
 Gaeng Pad Goong,Seafood
 Lobster In Butter Garlic Sauce,Seafood
@@ -10209,6 +10355,9 @@ Shawarma Roll,Shawarma
 Cheese Shawarma Roll,Shawarma
 Spicy Shawarma Roll,Shawarma
 Arabian Shawarma Roll,Shawarma
+chicken shawarma shawarma,shawarma
+shawarma with fri shawarma,shawarma
+chicken chees shawarma shawarma,shawarma
 Chicken Shrimps,Shrimp
 Battered Fried Shrimps,Shrimp
 Fried Shrimp,Shrimp
