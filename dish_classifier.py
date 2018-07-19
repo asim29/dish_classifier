@@ -9,7 +9,14 @@ from sklearn import model_selection
 from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import GridSearchCV
+import random, logging
+import requests
+import json
+from flask import Flask,request,jsonify
 
+app = Flask(__name__)
+app.logger.addHandler(logging.StreamHandler())
+app.logger.setLevel(logging.INFO)
 filename = "test.csv"
 
 def ParseAndShuffleData(filename):
@@ -32,8 +39,6 @@ def ParseAndShuffleData(filename):
 		else:
 			category_list[row['Category']] += 1
 
-	# category_list = np.array(category_list)
-
 	df = shuffle(df, random_state = 0)
 	dishes = np.array(df['Dish'])
 	labels = np.array(df['Category'])
@@ -45,70 +50,71 @@ def ParseAndShuffleData(filename):
 
 def lemmatize(array):
 	stemmer = SnowballStemmer('english')
+	lemmatized = []
 	for i in range(0, len(array)):
 		words = array[i].split()
 		words = map(stemmer.stem, words)
 		words = ' '.join(words)
-		array[i] = words
+		lemmatized.append(words)
 
-	print array
-	return array
+	# print array
+	return lemmatized
 
 def split(features, labels):
 	dishes_train, dishes_test, labels_train, labels_test = model_selection.train_test_split(features, labels, test_size = 0.33, random_state = 1)
 	return dishes_train, dishes_test, labels_train, labels_test
-
-	
-
-def PreProcess(dishes_train, dishes_test):
-	t0 = time()	
-	vect = TfidfVectorizer(stop_words = 'english')
-	vec_dishes_train = vect.fit_transform(dishes_train)
-	vec_dishes_test = vect.transform(dishes_test)
-	print "vectorize time:", round(time() - t0, 3), "s"
-	# print dishes_train.shape
-	# print dishes_test.shape
-	# print vect.get_feature_names()
-	return vec_dishes_train, vec_dishes_test
-
 		
-def train(dishes_train, dishes_test, labels_train, labels_test):
-	clf = SVC()
+def train(dishes, labels):
 
-	
+	dishes = lemmatize(dishes)
+	vectorizer = TfidfVectorizer(stop_words = 'english')
+	vec_dishes = vectorizer.fit_transform(dishes)
+
+	clf = SVC()
 	print "Fitting the classifier to the training set"
-	t0 = time()
+	# t0 = time()
 	param_grid = {
-	         'C': [1e3, 5e3, 1e4, 5e4, 1e5],
-	          'gamma': [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.1],
+	         'C': [5e2, 1e3, 5e3, 1e4, 5e4],
+	          'gamma': [0.00005, 0.0001, 0.0005, 0.001, 0.005],
 	          }
 	clf = SVC(kernel='rbf', class_weight='balanced', C = 5000, gamma = 0.0005)
-	clf = clf.fit(dishes_train, labels_train)
-	print "done in %0.3fs" % (time() - t0)
-	# print "Best estimator found by grid search:"
-	# print clf.best_estimator_
+	clf = clf.fit(vec_dishes, labels)
+	# print "done in %0.3fs" % (time() - t0)
 
-	# print pd.DataFrame(labels_test, pred)
+	return clf, vectorizer
 
-	return clf
+def classify(dishes, clf, vectorizer):
+	dishes = lemmatize(dishes)
+	vec_dishes = vectorizer.transform(dishes)
+	prediction = clf.predict(vec_dishes)
+	return prediction
 
-		
-# print df
 
-dishes, labels = ParseAndShuffleData(filename)
-dishes = lemmatize(dishes)
-dishes_train, dishes_test, labels_train, labels_test = split(dishes, labels)
-vec_dishes_train, vec_dishes_test = PreProcess(dishes_train, dishes_test)
-clf = train(vec_dishes_train, vec_dishes_test, labels_train, labels_test)
+@app.route('/classify', methods = ['POST'])
+def classifyDish():
+	content = request.get_json(force = True)
+	if content['category'] != 'UR':
+		dishName = content['name'] + ' ' + content['category']
+	else:
+		dishName = content['name']
+	dish = np.array([dishName])
+	predicted = classify(dish, clf, vectorizer)
+	newCategory = predicted[0]
+	newCategory = ' '.join(s[0].upper() + s[1:] for s in newCategory.split())
+	dish = {'originalName':content['name'], 'newName':content['name'], 'originalCategory':content['category'], 'newCategory':newCategory}
+	result = requests.post('http://restacurant-api/editItem/'+content['id'],params=dish)
+	print dish
+	return "OK"
 
-predicted = clf.predict(vec_dishes_test)
+@app.route('/health', methods = ['GET'])
+def health():
+	return "OK";
 
-final = pd.DataFrame(
-	{'Dish': dishes_test,
-	'Predicted': predicted,
-	'Actual': labels_test})
- 
-print accuracy_score(labels_test, predicted)
-wrong = final[final.Predicted != final.Actual]
+if __name__ == '__main__':
+	dishDict = {}
+	t0 = time()
+	dishes_train, labels_train = ParseAndShuffleData(filename)
+	clf, vectorizer = train(dishes_train, labels_train)
+	print "Classifier has been fit"
+	app.run(debug = True)
 
-wrong.to_csv('Result.csv')
