@@ -1,6 +1,6 @@
 # Food Classifier
 
-This classifier takes the name of a dish and then automatically categorizes it into one of many food categories. It is used as an API as part of a Kubernetes framework for an app that is based on reviewing dishes from restaurants. The purpose of this is to allow users to simply put in the name of a dish (if not already in the database) and then adding the dish automatically into the database for a swift user-experience, as compared to forcing either users or restaurants to add their dishes into respective categoriest themselves.
+This classifier takes the name of a dish and then automatically categorizes it into one of many food categories. It is used as an API as part of a Kubernetes framework for an app that is based on reviewing dishes from restaurants. The purpose of this is to allow users to simply put in the name of a dish (if not already in the database) and then add the dish automatically into the database for a swift user-experience, as compared to forcing either users or restaurants to add their dishes into respective categoriest themselves.
 
 ## Getting Started
 
@@ -41,11 +41,15 @@ This will get the server up and running.
 
 ## Running the code
 
-Send a POST requestion to 'localhost:5000/classify' with the name of the dish, and in the request send a JSON object of the form
-{"name": "dishname", "category": "priordishcategory", "ID":1234}
-Note: The category can be left empty, or it can be named "UR" which stands for Unrecognized. And the ID can be any number.
-
 Please comment out line# 105 when running random tests, as that would add whatever dish you add into the working database of the application.
+
+Send a POST request to 'localhost:5000/classify' with the name of the dish, and in the request send a JSON object of the form
+{
+	"name": "dishname", 
+	"category": "priordishcategory", 
+	"ID":1234
+}
+Note: The category can be left empty, or it can be named "UR" which stands for Unrecognized. And the ID can be any number.
 
 ## Built With
 
